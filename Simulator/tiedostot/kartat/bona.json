@@ -1,0 +1,259 @@
+{
+  "tiedostonimi": "bona",
+  "tunniste": "BonabertiBusiness",
+  "nimi": "Bonaberti Business",
+  "tyyppi": "Mission",
+  "ryhmitysnro": 2,
+  "xp": 176140,
+  "pelaajia": 1,
+  "elite": true,
+  "yksiköt": [
+    "BanditBoss5",
+    "BanditBoss4",
+    "BanditBoss3",
+    "BlondeBowman",
+    "DefensiveMiner",
+    "GoldenGuard",
+    "RecklessRider",
+    "FirmDefender",
+    "BanditBoss1",
+    "BanditBoss2",
+    "SlickBanditBoss"
+  ],
+  "leirit": [
+    {
+      "tunniste": 10284,
+      "sektori": 1,
+      "oletusnimi": "1.3",
+      "apunimi": "",
+      "tyyppi": 2,
+      "sijainti": "150, 164",
+      "joukot": {
+        "BanditBoss4": 1,
+        "BlondeBowman": 60,
+        "RecklessRider": 100,
+        "FirmDefender": 100
+      }
+    },
+    {
+      "tunniste": 10879,
+      "sektori": 2,
+      "oletusnimi": "2.3",
+      "apunimi": "",
+      "tyyppi": 2,
+      "sijainti": "207, 150",
+      "joukot": {
+        "BanditBoss3": 1,
+        "RecklessRider": 200,
+        "FirmDefender": 70
+      }
+    },
+    {
+      "tunniste": 11016,
+      "sektori": 1,
+      "oletusnimi": "1.1",
+      "apunimi": "",
+      "tyyppi": 1,
+      "sijainti": "123, 163",
+      "joukot": {
+        "DefensiveMiner": 110,
+        "RecklessRider": 150
+      }
+    },
+    {
+      "tunniste": 12291,
+      "sektori": 1,
+      "oletusnimi": "1.2",
+      "apunimi": "",
+      "tyyppi": 1,
+      "sijainti": "140, 155",
+      "joukot": {
+        "DefensiveMiner": 40,
+        "GoldenGuard": 80,
+        "RecklessRider": 90
+      }
+    },
+    {
+      "tunniste": 12951,
+      "sektori": 5,
+      "oletusnimi": "5.3",
+      "apunimi": "",
+      "tyyppi": 2,
+      "sijainti": "418, 72",
+      "joukot": {
+        "GoldenGuard": 130,
+        "FirmDefender": 100,
+        "BanditBoss2": 1
+      }
+    },
+    {
+      "tunniste": 13126,
+      "sektori": 2,
+      "oletusnimi": "2.2",
+      "apunimi": "",
+      "tyyppi": 1,
+      "sijainti": "185, 146",
+      "joukot": {
+        "GoldenGuard": 90,
+        "FirmDefender": 140
+      }
+    },
+    {
+      "tunniste": 13303,
+      "sektori": 5,
+      "oletusnimi": "5.1",
+      "apunimi": "",
+      "tyyppi": 1,
+      "sijainti": "397, 76",
+      "joukot": {
+        "DefensiveMiner": 50,
+        "GoldenGuard": 100,
+        "FirmDefender": 75
+      }
+    },
+    {
+      "tunniste": 13457,
+      "sektori": 4,
+      "oletusnimi": "4.3",
+      "apunimi": "",
+      "tyyppi": 2,
+      "sijainti": "326, 62",
+      "joukot": {
+        "BlondeBowman": 100,
+        "GoldenGuard": 100,
+        "FirmDefender": 95,
+        "BanditBoss1": 1
+      }
+    },
+    {
+      "tunniste": 14153,
+      "sektori": 5,
+      "oletusnimi": "5.2",
+      "apunimi": "",
+      "tyyppi": 1,
+      "sijainti": "405, 64",
+      "joukot": {
+        "BlondeBowman": 85,
+        "GoldenGuard": 85,
+        "RecklessRider": 90
+      }
+    },
+    {
+      "tunniste": 14690,
+      "sektori": 4,
+      "oletusnimi": "4.2",
+      "apunimi": "",
+      "tyyppi": 1,
+      "sijainti": "312, 68",
+      "joukot": {
+        "BlondeBowman": 70,
+        "GoldenGuard": 15,
+        "RecklessRider": 125,
+        "FirmDefender": 105
+      }
+    },
+    {
+      "tunniste": 15283,
+      "sektori": 6,
+      "oletusnimi": "6.1",
+      "apunimi": "",
+      "tyyppi": 1,
+      "sijainti": "477, 97",
+      "joukot": {
+        "BlondeBowman": 110,
+        "DefensiveMiner": 85,
+        "GoldenGuard": 75,
+        "RecklessRider": 45
+      }
+    },
+    {
+      "tunniste": 15992,
+      "sektori": 3,
+      "oletusnimi": "3.1",
+      "apunimi": "",
+      "tyyppi": 1,
+      "sijainti": "247, 134",
+      "joukot": {
+        "BlondeBowman": 160,
+        "GoldenGuard": 50,
+        "RecklessRider": 105
+      }
+    },
+    {
+      "tunniste": 16465,
+      "sektori": 2,
+      "oletusnimi": "2.1",
+      "apunimi": "",
+      "tyyppi": 1,
+      "sijainti": "193, 163",
+      "joukot": {
+        "BlondeBowman": 105,
+        "GoldenGuard": 115,
+        "RecklessRider": 60
+      }
+    },
+    {
+      "tunniste": 17149,
+      "sektori": 6,
+      "oletusnimi": "6.2",
+      "apunimi": "",
+      "tyyppi": 1,
+      "sijainti": "481, 84",
+      "joukot": {
+        "DefensiveMiner": 115,
+        "RecklessRider": 75,
+        "FirmDefender": 120
+      }
+    },
+    {
+      "tunniste": 18762,
+      "sektori": 3,
+      "oletusnimi": "3.2",
+      "apunimi": "",
+      "tyyppi": 1,
+      "sijainti": "238, 116",
+      "joukot": {
+        "DefensiveMiner": 160,
+        "GoldenGuard": 90
+      }
+    },
+    {
+      "tunniste": 19304,
+      "sektori": 4,
+      "oletusnimi": "4.1",
+      "apunimi": "",
+      "tyyppi": 1,
+      "sijainti": "318, 78",
+      "joukot": {
+        "RecklessRider": 260
+      }
+    },
+    {
+      "tunniste": 19364,
+      "sektori": 6,
+      "oletusnimi": "6.3",
+      "apunimi": "",
+      "tyyppi": 2,
+      "sijainti": "499, 98",
+      "joukot": {
+        "BlondeBowman": 65,
+        "DefensiveMiner": 100,
+        "FirmDefender": 120,
+        "SlickBanditBoss": 1
+      }
+    },
+    {
+      "tunniste": 19436,
+      "sektori": 3,
+      "oletusnimi": "3.3",
+      "apunimi": "",
+      "tyyppi": 2,
+      "sijainti": "249, 122",
+      "joukot": {
+        "BanditBoss5": 1,
+        "BlondeBowman": 45,
+        "DefensiveMiner": 185
+      }
+    }
+  ]
+}

@@ -1,0 +1,183 @@
+{
+  "tiedostonimi": "intel",
+  "tunniste": "BuffAdventures_ValuableIntel",
+  "nimi": "Valuable Intel",
+  "tyyppi": "Venture",
+  "ryhmitysnro": 4,
+  "xp": 3016,
+  "pelaajia": 1,
+  "yksiköt": [
+    "KingdomRecruit",
+    "KingdomMilitia",
+    "KingdomCavalry",
+    "KingdomSoldier",
+    "KingdomBowman",
+    "KingdomLongbowman",
+    "KingdomCannoneer",
+    "KingdomBoss2",
+    "TreasureShipLoot"
+  ],
+  "leirit": [
+    {
+      "tunniste": 10474,
+      "sektori": 2,
+      "oletusnimi": "2.1",
+      "apunimi": "",
+      "tyyppi": 1,
+      "sijainti": "223, 233",
+      "joukot": {
+        "KingdomRecruit": 55,
+        "KingdomBowman": 5,
+        "KingdomCannoneer": 2
+      }
+    },
+    {
+      "tunniste": 11312,
+      "sektori": 3,
+      "oletusnimi": "3.2",
+      "apunimi": "",
+      "tyyppi": 2,
+      "sijainti": "275, 149",
+      "joukot": {
+        "KingdomMilitia": 20,
+        "KingdomBowman": 40,
+        "KingdomBoss2": 1
+      }
+    },
+    {
+      "tunniste": 11532,
+      "sektori": 1,
+      "oletusnimi": "1.2",
+      "apunimi": "",
+      "tyyppi": 1,
+      "sijainti": "455, 137",
+      "joukot": {
+        "KingdomBowman": 20,
+        "KingdomCavalry": 20
+      }
+    },
+    {
+      "tunniste": 11644,
+      "sektori": 2,
+      "oletusnimi": "2.3",
+      "apunimi": "",
+      "tyyppi": 1,
+      "sijainti": "294, 225",
+      "joukot": {
+        "KingdomBowman": 12,
+        "KingdomCavalry": 12,
+        "KingdomSoldier": 12
+      }
+    },
+    {
+      "tunniste": 12376,
+      "sektori": 1,
+      "oletusnimi": "1.3",
+      "apunimi": "",
+      "tyyppi": 1,
+      "sijainti": "426, 217",
+      "joukot": {
+        "KingdomRecruit": 20,
+        "KingdomCavalry": 30
+      }
+    },
+    {
+      "tunniste": 13198,
+      "sektori": 4,
+      "oletusnimi": "4.1",
+      "apunimi": "",
+      "tyyppi": 1,
+      "sijainti": "287, 54",
+      "joukot": {
+        "KingdomRecruit": 50,
+        "TreasureShipLoot": 1
+      }
+    },
+    {
+      "tunniste": 13333,
+      "sektori": 3,
+      "oletusnimi": "3.1",
+      "apunimi": "",
+      "tyyppi": 1,
+      "sijainti": "367, 162",
+      "joukot": {
+        "KingdomRecruit": 55,
+        "KingdomBowman": 5,
+        "KingdomCannoneer": 2
+      }
+    },
+    {
+      "tunniste": 14342,
+      "sektori": 1,
+      "oletusnimi": "1.4",
+      "apunimi": "",
+      "tyyppi": 1,
+      "sijainti": "345, 299",
+      "joukot": {
+        "KingdomRecruit": 75
+      }
+    },
+    {
+      "tunniste": 14568,
+      "sektori": 4,
+      "oletusnimi": "4.2",
+      "apunimi": "",
+      "tyyppi": 1,
+      "sijainti": "316, 36",
+      "joukot": {
+        "KingdomRecruit": 50,
+        "TreasureShipLoot": 1
+      }
+    },
+    {
+      "tunniste": 16140,
+      "sektori": 2,
+      "oletusnimi": "2.2",
+      "apunimi": "",
+      "tyyppi": 1,
+      "sijainti": "215, 203",
+      "joukot": {
+        "KingdomSoldier": 25,
+        "KingdomLongbowman": 5
+      }
+    },
+    {
+      "tunniste": 16179,
+      "sektori": 1,
+      "oletusnimi": "1.1",
+      "apunimi": "",
+      "tyyppi": 1,
+      "sijainti": "504, 149",
+      "joukot": {
+        "KingdomRecruit": 55,
+        "KingdomBowman": 5,
+        "KingdomCannoneer": 2
+      }
+    },
+    {
+      "tunniste": 16578,
+      "sektori": 1,
+      "oletusnimi": "1.5",
+      "apunimi": "",
+      "tyyppi": 2,
+      "sijainti": "223, 280",
+      "joukot": {
+        "KingdomCavalry": 10,
+        "KingdomSoldier": 35
+      }
+    },
+    {
+      "tunniste": 16697,
+      "sektori": 2,
+      "oletusnimi": "2.4",
+      "apunimi": "",
+      "tyyppi": 2,
+      "sijainti": "339, 207",
+      "joukot": {
+        "KingdomRecruit": 40,
+        "KingdomCavalry": 10,
+        "KingdomLongbowman": 30
+      }
+    }
+  ]
+}

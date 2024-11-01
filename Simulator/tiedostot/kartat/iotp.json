@@ -1,0 +1,158 @@
+{
+  "tiedostonimi": "iotp",
+  "tunniste": "TheIslandOfThePirates",
+  "nimi": "The Island Of The Pirates",
+  "tyyppi": "Mission",
+  "ryhmitysnro": 2,
+  "xp": 2752,
+  "pelaajia": 1,
+  "yksiköt": [
+    "PirateCavalry",
+    "PirateRecruit",
+    "PirateMilitia",
+    "PirateBoss1",
+    "PirateBowman",
+    "PirateLongbowman",
+    "PirateCaptain"
+  ],
+  "leirit": [
+    {
+      "tunniste": 10369,
+      "sektori": 3,
+      "oletusnimi": "3.3",
+      "apunimi": "",
+      "tyyppi": 1,
+      "sijainti": "475, 172",
+      "joukot": {
+        "PirateRecruit": 100,
+        "PirateLongbowman": 40,
+        "PirateCavalry": 30
+      }
+    },
+    {
+      "tunniste": 10452,
+      "sektori": 3,
+      "oletusnimi": "3.4",
+      "apunimi": "",
+      "tyyppi": 1,
+      "sijainti": "485, 232",
+      "joukot": {
+        "PirateMilitia": 70,
+        "PirateCavalry": 100
+      }
+    },
+    {
+      "tunniste": 11049,
+      "sektori": 2,
+      "oletusnimi": "2.3",
+      "apunimi": "",
+      "tyyppi": 2,
+      "sijainti": "240, 108",
+      "joukot": {
+        "PirateMilitia": 80,
+        "PirateCavalry": 80,
+        "PirateCaptain": 2
+      }
+    },
+    {
+      "tunniste": 12530,
+      "sektori": 3,
+      "oletusnimi": "3.2",
+      "apunimi": "",
+      "tyyppi": 1,
+      "sijainti": "444, 175",
+      "joukot": {
+        "PirateCavalry": 100
+      }
+    },
+    {
+      "tunniste": 13491,
+      "sektori": 3,
+      "oletusnimi": "3.1",
+      "apunimi": "",
+      "tyyppi": 1,
+      "sijainti": "418, 123",
+      "joukot": {
+        "PirateMilitia": 90,
+        "PirateCavalry": 90
+      }
+    },
+    {
+      "tunniste": 13563,
+      "sektori": 2,
+      "oletusnimi": "2.1",
+      "apunimi": "",
+      "tyyppi": 1,
+      "sijainti": "148, 221",
+      "joukot": {
+        "PirateRecruit": 60,
+        "PirateBowman": 60,
+        "PirateCavalry": 60
+      }
+    },
+    {
+      "tunniste": 13950,
+      "sektori": 3,
+      "oletusnimi": "3.5",
+      "apunimi": "",
+      "tyyppi": 2,
+      "sijainti": "441, 275",
+      "joukot": {
+        "PirateMilitia": 100,
+        "PirateLongbowman": 70,
+        "PirateCaptain": 10,
+        "PirateBoss1": 1
+      }
+    },
+    {
+      "tunniste": 15179,
+      "sektori": 1,
+      "oletusnimi": "1.3",
+      "apunimi": "",
+      "tyyppi": 2,
+      "sijainti": "106, 330",
+      "joukot": {
+        "PirateMilitia": 100,
+        "PirateLongbowman": 50,
+        "PirateCavalry": 50
+      }
+    },
+    {
+      "tunniste": 15321,
+      "sektori": 1,
+      "oletusnimi": "1.1",
+      "apunimi": "",
+      "tyyppi": 1,
+      "sijainti": "138, 391",
+      "joukot": {
+        "PirateRecruit": 100,
+        "PirateLongbowman": 50
+      }
+    },
+    {
+      "tunniste": 15479,
+      "sektori": 1,
+      "oletusnimi": "1.2",
+      "apunimi": "",
+      "tyyppi": 1,
+      "sijainti": "173, 343",
+      "joukot": {
+        "PirateRecruit": 100,
+        "PirateCavalry": 50
+      }
+    },
+    {
+      "tunniste": 18836,
+      "sektori": 2,
+      "oletusnimi": "2.2",
+      "apunimi": "",
+      "tyyppi": 1,
+      "sijainti": "194, 165",
+      "joukot": {
+        "PirateMilitia": 40,
+        "PirateLongbowman": 40,
+        "PirateCavalry": 40
+      }
+    }
+  ]
+}

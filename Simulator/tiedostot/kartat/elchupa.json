@@ -1,0 +1,440 @@
+{
+  "tiedostonimi": "elchupa",
+  "tunniste": "BuffAdventures_ElChupacabra",
+  "nimi": "El Chupacabra",
+  "tyyppi": "Venture",
+  "ryhmitysnro": 4,
+  "xp": 37048,
+  "pelaajia": 1,
+  "yksiköt": [
+    "MayaRecruit",
+    "MayaCavalry",
+    "MayaCanoneer",
+    "WildlifeBowman",
+    "OrientalApe1",
+    "OrientalApe2",
+    "OrientalApe3",
+    "OrientalApe4",
+    "ChupacabraBoss"
+  ],
+  "leirit": [
+    {
+      "tunniste": 10111,
+      "sektori": 1,
+      "apunimi": "",
+      "tyyppi": 1,
+      "sijainti": "473, 175",
+      "joukot": {
+        "OrientalApe1": 25,
+        "OrientalApe3": 15
+      }
+    },
+    {
+      "tunniste": 10928,
+      "sektori": 1,
+      "apunimi": "",
+      "tyyppi": 1,
+      "sijainti": "430, 142",
+      "joukot": {
+        "OrientalApe2": 10,
+        "OrientalApe3": 10,
+        "OrientalApe4": 20
+      }
+    },
+    {
+      "tunniste": 10937,
+      "sektori": 2,
+      "apunimi": "",
+      "tyyppi": 1,
+      "sijainti": "118, 284",
+      "joukot": {
+        "OrientalApe2": 10
+      }
+    },
+    {
+      "tunniste": 11369,
+      "sektori": 3,
+      "apunimi": "",
+      "tyyppi": 1,
+      "sijainti": "227, 162",
+      "joukot": {
+        "MayaCanoneer": 250
+      }
+    },
+    {
+      "tunniste": 11424,
+      "sektori": 3,
+      "apunimi": "",
+      "tyyppi": 1,
+      "sijainti": "227, 131",
+      "joukot": {
+        "MayaRecruit": 50,
+        "MayaCanoneer": 200
+      }
+    },
+    {
+      "tunniste": 12216,
+      "sektori": 3,
+      "apunimi": "",
+      "tyyppi": 1,
+      "sijainti": "161, 131",
+      "joukot": {
+        "MayaRecruit": 200,
+        "MayaCavalry": 125,
+        "MayaCanoneer": 15
+      }
+    },
+    {
+      "tunniste": 12267,
+      "sektori": 3,
+      "apunimi": "",
+      "tyyppi": 1,
+      "sijainti": "174, 151",
+      "joukot": {
+        "MayaRecruit": 75,
+        "MayaCavalry": 75,
+        "MayaCanoneer": 75
+      }
+    },
+    {
+      "tunniste": 12636,
+      "sektori": 2,
+      "apunimi": "",
+      "tyyppi": 1,
+      "sijainti": "231, 223",
+      "joukot": {
+        "MayaCavalry": 185,
+        "MayaCanoneer": 185
+      }
+    },
+    {
+      "tunniste": 12771,
+      "sektori": 3,
+      "apunimi": "",
+      "tyyppi": 1,
+      "sijainti": "194, 51",
+      "joukot": {
+        "OrientalApe2": 10,
+        "OrientalApe4": 10
+      }
+    },
+    {
+      "tunniste": 12869,
+      "sektori": 1,
+      "apunimi": "",
+      "tyyppi": 1,
+      "sijainti": "367, 138",
+      "joukot": {
+        "MayaRecruit": 70,
+        "MayaCanoneer": 175
+      }
+    },
+    {
+      "tunniste": 12939,
+      "sektori": 3,
+      "apunimi": "",
+      "tyyppi": 1,
+      "sijainti": "233, 50",
+      "joukot": {
+        "OrientalApe2": 10,
+        "OrientalApe1": 10
+      }
+    },
+    {
+      "tunniste": 13251,
+      "sektori": 1,
+      "apunimi": "",
+      "tyyppi": 1,
+      "sijainti": "440, 125",
+      "joukot": {
+        "OrientalApe2": 15,
+        "OrientalApe4": 3
+      }
+    },
+    {
+      "tunniste": 13266,
+      "sektori": 1,
+      "apunimi": "",
+      "tyyppi": 1,
+      "sijainti": "334, 148",
+      "joukot": {
+        "MayaRecruit": 150,
+        "MayaCavalry": 75,
+        "MayaCanoneer": 75
+      }
+    },
+    {
+      "tunniste": 13283,
+      "sektori": 3,
+      "apunimi": "",
+      "tyyppi": 1,
+      "sijainti": "195, 31",
+      "joukot": {
+        "OrientalApe2": 10,
+        "OrientalApe1": 10,
+        "OrientalApe3": 10
+      }
+    },
+    {
+      "tunniste": 13750,
+      "sektori": 1,
+      "apunimi": "",
+      "tyyppi": 1,
+      "sijainti": "415, 223",
+      "joukot": {
+        "OrientalApe2": 10,
+        "OrientalApe1": 5,
+        "OrientalApe3": 10,
+        "OrientalApe4": 10
+      }
+    },
+    {
+      "tunniste": 13825,
+      "sektori": 1,
+      "apunimi": "",
+      "tyyppi": 1,
+      "sijainti": "445, 164",
+      "joukot": {
+        "MayaRecruit": 250
+      }
+    },
+    {
+      "tunniste": 13995,
+      "sektori": 2,
+      "apunimi": "",
+      "tyyppi": 1,
+      "sijainti": "155, 306",
+      "joukot": {
+        "OrientalApe1": 25
+      }
+    },
+    {
+      "tunniste": 14261,
+      "sektori": 1,
+      "apunimi": "",
+      "tyyppi": 1,
+      "sijainti": "381, 154",
+      "joukot": {
+        "MayaRecruit": 25,
+        "MayaCavalry": 100,
+        "MayaCanoneer": 100
+      }
+    },
+    {
+      "tunniste": 14380,
+      "sektori": 2,
+      "apunimi": "",
+      "tyyppi": 1,
+      "sijainti": "194, 294",
+      "joukot": {
+        "OrientalApe1": 16,
+        "OrientalApe3": 11,
+        "OrientalApe4": 10
+      }
+    },
+    {
+      "tunniste": 14606,
+      "sektori": 2,
+      "apunimi": "",
+      "tyyppi": 1,
+      "sijainti": "138, 289",
+      "joukot": {
+        "OrientalApe1": 25,
+        "OrientalApe3": 15
+      }
+    },
+    {
+      "tunniste": 14697,
+      "sektori": 3,
+      "apunimi": "",
+      "tyyppi": 1,
+      "sijainti": "184, 88",
+      "joukot": {
+        "MayaCavalry": 1200
+      }
+    },
+    {
+      "tunniste": 14777,
+      "sektori": 1,
+      "apunimi": "",
+      "tyyppi": 1,
+      "sijainti": "363, 184",
+      "joukot": {
+        "MayaCavalry": 200,
+        "MayaCanoneer": 175
+      }
+    },
+    {
+      "tunniste": 14972,
+      "sektori": 2,
+      "apunimi": "",
+      "tyyppi": 1,
+      "sijainti": "271, 283",
+      "joukot": {
+        "MayaRecruit": 250,
+        "MayaCavalry": 250
+      }
+    },
+    {
+      "tunniste": 15100,
+      "sektori": 4,
+      "apunimi": "",
+      "tyyppi": 2,
+      "sijainti": "287, 161",
+      "joukot": {
+        "WildlifeBowman": 200,
+        "ChupacabraBoss": 1
+      }
+    },
+    {
+      "tunniste": 16082,
+      "sektori": 3,
+      "apunimi": "",
+      "tyyppi": 1,
+      "sijainti": "174, 56",
+      "joukot": {
+        "MayaRecruit": 275,
+        "MayaCavalry": 125
+      }
+    },
+    {
+      "tunniste": 16735,
+      "sektori": 1,
+      "apunimi": "",
+      "tyyppi": 1,
+      "sijainti": "483, 125",
+      "joukot": {
+        "OrientalApe1": 15,
+        "OrientalApe3": 20
+      }
+    },
+    {
+      "tunniste": 16953,
+      "sektori": 1,
+      "apunimi": "",
+      "tyyppi": 1,
+      "sijainti": "420, 189",
+      "joukot": {
+        "MayaRecruit": 275,
+        "MayaCavalry": 25
+      }
+    },
+    {
+      "tunniste": 17027,
+      "sektori": 2,
+      "apunimi": "",
+      "tyyppi": 1,
+      "sijainti": "301, 246",
+      "joukot": {
+        "MayaCanoneer": 300
+      }
+    },
+    {
+      "tunniste": 17322,
+      "sektori": 3,
+      "apunimi": "",
+      "tyyppi": 1,
+      "sijainti": "296, 76",
+      "joukot": {
+        "OrientalApe1": 50
+      }
+    },
+    {
+      "tunniste": 17847,
+      "sektori": 2,
+      "apunimi": "",
+      "tyyppi": 1,
+      "sijainti": "60, 258",
+      "joukot": {
+        "OrientalApe1": 20,
+        "OrientalApe3": 20
+      }
+    },
+    {
+      "tunniste": 18261,
+      "sektori": 2,
+      "apunimi": "",
+      "tyyppi": 1,
+      "sijainti": "324, 214",
+      "joukot": {
+        "MayaRecruit": 125,
+        "MayaCanoneer": 125
+      }
+    },
+    {
+      "tunniste": 18480,
+      "sektori": 1,
+      "apunimi": "",
+      "tyyppi": 1,
+      "sijainti": "468, 197",
+      "joukot": {
+        "OrientalApe4": 10
+      }
+    },
+    {
+      "tunniste": 18552,
+      "sektori": 3,
+      "apunimi": "",
+      "tyyppi": 1,
+      "sijainti": "261, 67",
+      "joukot": {
+        "OrientalApe1": 10,
+        "OrientalApe3": 10,
+        "OrientalApe4": 10
+      }
+    },
+    {
+      "tunniste": 18635,
+      "sektori": 2,
+      "apunimi": "",
+      "tyyppi": 1,
+      "sijainti": "222, 317",
+      "joukot": {
+        "OrientalApe4": 25
+      }
+    },
+    {
+      "tunniste": 18766,
+      "sektori": 3,
+      "apunimi": "",
+      "tyyppi": 1,
+      "sijainti": "332, 42",
+      "joukot": {
+        "OrientalApe2": 15,
+        "OrientalApe3": 20
+      }
+    },
+    {
+      "tunniste": 19268,
+      "sektori": 2,
+      "apunimi": "",
+      "tyyppi": 1,
+      "sijainti": "277, 195",
+      "joukot": {
+        "MayaRecruit": 125,
+        "MayaCavalry": 50,
+        "MayaCanoneer": 50
+      }
+    },
+    {
+      "tunniste": 19328,
+      "sektori": 1,
+      "apunimi": "",
+      "tyyppi": 1,
+      "sijainti": "444, 241",
+      "joukot": {
+        "OrientalApe1": 20
+      }
+    },
+    {
+      "tunniste": 19555,
+      "sektori": 2,
+      "apunimi": "",
+      "tyyppi": 1,
+      "sijainti": "238, 274",
+      "joukot": {
+        "MayaRecruit": 225
+      }
+    }
+  ]
+}

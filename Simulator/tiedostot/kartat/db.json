@@ -1,0 +1,536 @@
+{
+  "tiedostonimi": "db",
+  "tunniste": "TheDarkBrotherhood",
+  "nimi": "The Dark Brotherhood",
+  "tyyppi": "Mission",
+  "ryhmitysnro": 2,
+  "xp": 51978,
+  "pelaajia": 3,
+  "yksiköt": [
+    "CultBoss3",
+    "CultRecruit",
+    "CultBoss1",
+    "CultCavalry",
+    "CultBowman",
+    "CultLongbowman",
+    "CultCrossbowman",
+    "CultCanoneer",
+    "CultBoss2"
+  ],
+  "leirit": [
+    {
+      "tunniste": 10233,
+      "sektori": 19,
+      "apunimi": "",
+      "tyyppi": 1,
+      "sijainti": "343, 44",
+      "joukot": {
+        "CultRecruit": 200
+      }
+    },
+    {
+      "tunniste": 10825,
+      "sektori": 20,
+      "apunimi": "",
+      "tyyppi": 1,
+      "sijainti": "480, 26",
+      "joukot": {
+        "CultRecruit": 80,
+        "CultBowman": 80,
+        "CultCavalry": 40
+      }
+    },
+    {
+      "tunniste": 11056,
+      "sektori": 16,
+      "apunimi": "",
+      "tyyppi": 2,
+      "sijainti": "311, 103",
+      "joukot": {
+        "CultRecruit": 120,
+        "CultBowman": 80
+      }
+    },
+    {
+      "tunniste": 11167,
+      "sektori": 13,
+      "apunimi": "",
+      "tyyppi": 1,
+      "sijainti": "141, 111",
+      "joukot": {
+        "CultRecruit": 80,
+        "CultBowman": 80,
+        "CultCavalry": 40
+      }
+    },
+    {
+      "tunniste": 11632,
+      "sektori": 2,
+      "apunimi": "",
+      "tyyppi": 2,
+      "sijainti": "122, 214",
+      "joukot": {
+        "CultRecruit": 80,
+        "CultBowman": 40,
+        "CultLongbowman": 40,
+        "CultCavalry": 40
+      }
+    },
+    {
+      "tunniste": 11798,
+      "sektori": 12,
+      "apunimi": "",
+      "tyyppi": 2,
+      "sijainti": "214, 181",
+      "joukot": {
+        "CultRecruit": 120,
+        "CultLongbowman": 80
+      }
+    },
+    {
+      "tunniste": 12019,
+      "sektori": 12,
+      "apunimi": "",
+      "tyyppi": 1,
+      "sijainti": "225, 139",
+      "joukot": {
+        "CultRecruit": 200
+      }
+    },
+    {
+      "tunniste": 12464,
+      "sektori": 5,
+      "apunimi": "",
+      "tyyppi": 2,
+      "sijainti": "345, 210",
+      "joukot": {
+        "CultRecruit": 50,
+        "CultLongbowman": 100,
+        "CultCavalry": 49,
+        "CultBoss2": 1
+      }
+    },
+    {
+      "tunniste": 12588,
+      "sektori": 11,
+      "apunimi": "",
+      "tyyppi": 1,
+      "sijainti": "233, 220",
+      "joukot": {
+        "CultRecruit": 200
+      }
+    },
+    {
+      "tunniste": 12968,
+      "sektori": 5,
+      "apunimi": "",
+      "tyyppi": 1,
+      "sijainti": "331, 224",
+      "joukot": {
+        "CultRecruit": 60,
+        "CultLongbowman": 140
+      }
+    },
+    {
+      "tunniste": 13400,
+      "sektori": 8,
+      "apunimi": "",
+      "tyyppi": 2,
+      "sijainti": "470, 218",
+      "joukot": {
+        "CultRecruit": 66,
+        "CultCrossbowman": 66,
+        "CultCanoneer": 66,
+        "CultBoss2": 2
+      }
+    },
+    {
+      "tunniste": 13513,
+      "sektori": 1,
+      "apunimi": "",
+      "tyyppi": 1,
+      "sijainti": "90, 340",
+      "joukot": {
+        "CultRecruit": 100,
+        "CultBowman": 100
+      }
+    },
+    {
+      "tunniste": 13579,
+      "sektori": 10,
+      "apunimi": "",
+      "tyyppi": 2,
+      "sijainti": "252, 243",
+      "joukot": {
+        "CultRecruit": 100,
+        "CultBowman": 100
+      }
+    },
+    {
+      "tunniste": 13847,
+      "sektori": 18,
+      "apunimi": "",
+      "tyyppi": 1,
+      "sijainti": "432, 108",
+      "joukot": {
+        "CultRecruit": 70,
+        "CultLongbowman": 60,
+        "CultCavalry": 70
+      }
+    },
+    {
+      "tunniste": 13966,
+      "sektori": 17,
+      "apunimi": "",
+      "tyyppi": 2,
+      "sijainti": "405, 184",
+      "joukot": {
+        "CultRecruit": 80,
+        "CultCavalry": 120
+      }
+    },
+    {
+      "tunniste": 14232,
+      "sektori": 5,
+      "apunimi": "",
+      "tyyppi": 1,
+      "sijainti": "330, 201",
+      "joukot": {
+        "CultLongbowman": 150,
+        "CultCavalry": 50
+      }
+    },
+    {
+      "tunniste": 14427,
+      "sektori": 16,
+      "apunimi": "",
+      "tyyppi": 1,
+      "sijainti": "402, 145",
+      "joukot": {
+        "CultRecruit": 200
+      }
+    },
+    {
+      "tunniste": 14434,
+      "sektori": 4,
+      "apunimi": "",
+      "tyyppi": 1,
+      "sijainti": "219, 301",
+      "joukot": {
+        "CultRecruit": 80,
+        "CultLongbowman": 120
+      }
+    },
+    {
+      "tunniste": 14457,
+      "sektori": 14,
+      "apunimi": "",
+      "tyyppi": 1,
+      "sijainti": "62, 122",
+      "joukot": {
+        "CultRecruit": 100,
+        "CultBowman": 100
+      }
+    },
+    {
+      "tunniste": 14574,
+      "sektori": 7,
+      "apunimi": "",
+      "tyyppi": 1,
+      "sijainti": "562, 308",
+      "joukot": {
+        "CultRecruit": 66,
+        "CultLongbowman": 66,
+        "CultCavalry": 66
+      }
+    },
+    {
+      "tunniste": 14621,
+      "sektori": 7,
+      "apunimi": "",
+      "tyyppi": 2,
+      "sijainti": "573, 251",
+      "joukot": {
+        "CultRecruit": 66,
+        "CultLongbowman": 66,
+        "CultCrossbowman": 66
+      }
+    },
+    {
+      "tunniste": 14663,
+      "sektori": 14,
+      "apunimi": "",
+      "tyyppi": 2,
+      "sijainti": "94, 152",
+      "joukot": {
+        "CultRecruit": 100,
+        "CultCavalry": 100
+      }
+    },
+    {
+      "tunniste": 14707,
+      "sektori": 3,
+      "apunimi": "",
+      "tyyppi": 2,
+      "sijainti": "184, 270",
+      "joukot": {
+        "CultRecruit": 70,
+        "CultLongbowman": 60,
+        "CultCavalry": 70
+      }
+    },
+    {
+      "tunniste": 14737,
+      "sektori": 18,
+      "apunimi": "",
+      "tyyppi": 2,
+      "sijainti": "492, 148",
+      "joukot": {
+        "CultRecruit": 50,
+        "CultLongbowman": 150
+      }
+    },
+    {
+      "tunniste": 14760,
+      "sektori": 5,
+      "apunimi": "",
+      "tyyppi": 1,
+      "sijainti": "353, 227",
+      "joukot": {
+        "CultRecruit": 50,
+        "CultCrossbowman": 50,
+        "CultCavalry": 100
+      }
+    },
+    {
+      "tunniste": 14935,
+      "sektori": 15,
+      "apunimi": "",
+      "tyyppi": 2,
+      "sijainti": "302, 161",
+      "joukot": {
+        "CultRecruit": 50,
+        "CultLongbowman": 100,
+        "CultCavalry": 50
+      }
+    },
+    {
+      "tunniste": 15258,
+      "sektori": 5,
+      "apunimi": "",
+      "tyyppi": 1,
+      "sijainti": "344, 192",
+      "joukot": {
+        "CultRecruit": 60,
+        "CultLongbowman": 70,
+        "CultCavalry": 70
+      }
+    },
+    {
+      "tunniste": 15341,
+      "sektori": 21,
+      "apunimi": "",
+      "tyyppi": 1,
+      "sijainti": "541, 97",
+      "joukot": {
+        "CultRecruit": 100,
+        "CultBowman": 100
+      }
+    },
+    {
+      "tunniste": 15356,
+      "sektori": 5,
+      "apunimi": "",
+      "tyyppi": 1,
+      "sijainti": "367, 201",
+      "joukot": {
+        "CultLongbowman": 75,
+        "CultCavalry": 125
+      }
+    },
+    {
+      "tunniste": 15426,
+      "sektori": 4,
+      "apunimi": "",
+      "tyyppi": 1,
+      "sijainti": "271, 322",
+      "joukot": {
+        "CultRecruit": 100,
+        "CultLongbowman": 100
+      }
+    },
+    {
+      "tunniste": 15720,
+      "sektori": 10,
+      "apunimi": "",
+      "tyyppi": 1,
+      "sijainti": "252, 267",
+      "joukot": {
+        "CultRecruit": 200
+      }
+    },
+    {
+      "tunniste": 16159,
+      "sektori": 13,
+      "apunimi": "",
+      "tyyppi": 2,
+      "sijainti": "175, 131",
+      "joukot": {
+        "CultRecruit": 80,
+        "CultBowman": 40,
+        "CultLongbowman": 40,
+        "CultCavalry": 40
+      }
+    },
+    {
+      "tunniste": 16218,
+      "sektori": 2,
+      "apunimi": "",
+      "tyyppi": 1,
+      "sijainti": "104, 248",
+      "joukot": {
+        "CultRecruit": 80,
+        "CultBowman": 80,
+        "CultCavalry": 40
+      }
+    },
+    {
+      "tunniste": 16377,
+      "sektori": 16,
+      "apunimi": "",
+      "tyyppi": 1,
+      "sijainti": "271, 123",
+      "joukot": {
+        "CultRecruit": 200
+      }
+    },
+    {
+      "tunniste": 16751,
+      "sektori": 6,
+      "apunimi": "",
+      "tyyppi": 2,
+      "sijainti": "401, 259",
+      "joukot": {
+        "CultRecruit": 66,
+        "CultLongbowman": 66,
+        "CultCrossbowman": 66,
+        "CultBoss1": 1
+      }
+    },
+    {
+      "tunniste": 17372,
+      "sektori": 1,
+      "apunimi": "",
+      "tyyppi": 2,
+      "sijainti": "147, 297",
+      "joukot": {
+        "CultRecruit": 100,
+        "CultCavalry": 100
+      }
+    },
+    {
+      "tunniste": 17688,
+      "sektori": 3,
+      "apunimi": "",
+      "tyyppi": 1,
+      "sijainti": "207, 242",
+      "joukot": {
+        "CultRecruit": 120,
+        "CultLongbowman": 80
+      }
+    },
+    {
+      "tunniste": 18072,
+      "sektori": 9,
+      "apunimi": "",
+      "tyyppi": 2,
+      "sijainti": "491, 258",
+      "joukot": {
+        "CultCrossbowman": 66,
+        "CultCavalry": 66,
+        "CultCanoneer": 66,
+        "CultBoss3": 2
+      }
+    },
+    {
+      "tunniste": 18325,
+      "sektori": 18,
+      "apunimi": "",
+      "tyyppi": 1,
+      "sijainti": "474, 107",
+      "joukot": {
+        "CultRecruit": 80,
+        "CultLongbowman": 120
+      }
+    },
+    {
+      "tunniste": 18688,
+      "sektori": 3,
+      "apunimi": "",
+      "tyyppi": 1,
+      "sijainti": "178, 209",
+      "joukot": {
+        "CultRecruit": 200
+      }
+    },
+    {
+      "tunniste": 18895,
+      "sektori": 21,
+      "apunimi": "",
+      "tyyppi": 2,
+      "sijainti": "493, 77",
+      "joukot": {
+        "CultRecruit": 100,
+        "CultCavalry": 100
+      }
+    },
+    {
+      "tunniste": 18946,
+      "sektori": 4,
+      "apunimi": "",
+      "tyyppi": 2,
+      "sijainti": "287, 305",
+      "joukot": {
+        "CultLongbowman": 100,
+        "CultCavalry": 100
+      }
+    },
+    {
+      "tunniste": 19383,
+      "sektori": 19,
+      "apunimi": "",
+      "tyyppi": 2,
+      "sijainti": "386, 81",
+      "joukot": {
+        "CultRecruit": 120,
+        "CultLongbowman": 80
+      }
+    },
+    {
+      "tunniste": 19410,
+      "sektori": 5,
+      "apunimi": "",
+      "tyyppi": 1,
+      "sijainti": "317, 210",
+      "joukot": {
+        "CultRecruit": 50,
+        "CultBowman": 50,
+        "CultLongbowman": 50,
+        "CultCavalry": 50
+      }
+    },
+    {
+      "tunniste": 19656,
+      "sektori": 20,
+      "apunimi": "",
+      "tyyppi": 2,
+      "sijainti": "438, 45",
+      "joukot": {
+        "CultRecruit": 80,
+        "CultBowman": 40,
+        "CultLongbowman": 40,
+        "CultCavalry": 40
+      }
+    }
+  ]
+}
