@@ -1,0 +1,710 @@
+{
+  "tiedostonimi": "splitcity",
+  "tunniste": "SplitCity",
+  "nimi": "Split City in Summer",
+  "tyyppi": "Coop",
+  "ryhmitysnro": 3,
+  "xp": 91097,
+  "pelaajia": 2,
+  "yksiköt": [
+    "PirateCavalry",
+    "PirateRecruit",
+    "PirateMilitia",
+    "PirateLongbowman",
+    "CultCavalry",
+    "CultLongbowman",
+    "CultCrossbowman",
+    "NeutralCavalry",
+    "WildlifeMilitia",
+    "WildlifeLongbowman",
+    "WildlifeCavalry",
+    "WildlifeCannoneer",
+    "PartyCrasherLongbowman",
+    "CultBoss2",
+    "EpicRaidBoss4",
+    "EpicRaidBoss7"
+  ],
+  "leirit": [
+    {
+      "tunniste": 10069,
+      "sektori": 6,
+      "oletusnimi": "6.3",
+      "apunimi": "B",
+      "tyyppi": 1,
+      "sijainti": "282, 50",
+      "joukot": {
+        "PirateRecruit": 12,
+        "CultLongbowman": 88,
+        "CultCrossbowman": 146,
+        "WildlifeCannoneer": 4
+      }
+    },
+    {
+      "tunniste": 10071,
+      "sektori": 4,
+      "oletusnimi": "4.4",
+      "apunimi": "A",
+      "tyyppi": 1,
+      "sijainti": "79, 179",
+      "joukot": {
+        "PirateCavalry": 44,
+        "PirateLongbowman": 204,
+        "CultCavalry": 144,
+        "CultLongbowman": 6
+      }
+    },
+    {
+      "tunniste": 10169,
+      "sektori": 5,
+      "oletusnimi": "5.4",
+      "apunimi": "A",
+      "tyyppi": 2,
+      "sijainti": "162, 70",
+      "joukot": {
+        "PirateLongbowman": 193,
+        "CultLongbowman": 51,
+        "CultCrossbowman": 52,
+        "EpicRaidBoss7": 1
+      }
+    },
+    {
+      "tunniste": 10322,
+      "sektori": 1,
+      "oletusnimi": "1.3",
+      "apunimi": "A",
+      "tyyppi": 1,
+      "sijainti": "187, 275",
+      "joukot": {
+        "PirateMilitia": 88,
+        "CultCavalry": 226,
+        "CultLongbowman": 26,
+        "WildlifeCannoneer": 17
+      }
+    },
+    {
+      "tunniste": 10705,
+      "sektori": 4,
+      "oletusnimi": "4.1",
+      "apunimi": "A",
+      "tyyppi": 1,
+      "sijainti": "141, 198",
+      "joukot": {
+        "NeutralCavalry": 200
+      }
+    },
+    {
+      "tunniste": 10731,
+      "sektori": 1,
+      "oletusnimi": "1.1",
+      "apunimi": "B",
+      "tyyppi": 1,
+      "sijainti": "423, 277",
+      "joukot": {
+        "PirateMilitia": 71,
+        "CultCavalry": 102,
+        "CultCrossbowman": 74,
+        "WildlifeCannoneer": 60
+      }
+    },
+    {
+      "tunniste": 11197,
+      "sektori": 2,
+      "oletusnimi": "2.2",
+      "apunimi": "B",
+      "tyyppi": 1,
+      "sijainti": "317, 213",
+      "joukot": {
+        "CultCavalry": 334,
+        "WildlifeMilitia": 21,
+        "WildlifeLongbowman": 4,
+        "WildlifeCavalry": 2
+      }
+    },
+    {
+      "tunniste": 11253,
+      "sektori": 6,
+      "oletusnimi": "6.3",
+      "apunimi": "A",
+      "tyyppi": 1,
+      "sijainti": "221, 48",
+      "joukot": {
+        "PirateMilitia": 61,
+        "CultCavalry": 282,
+        "CultLongbowman": 35,
+        "WildlifeCavalry": 19
+      }
+    },
+    {
+      "tunniste": 11362,
+      "sektori": 4,
+      "oletusnimi": "4.1",
+      "apunimi": "B",
+      "tyyppi": 1,
+      "sijainti": "535, 133",
+      "joukot": {
+        "CultLongbowman": 384,
+        "CultCrossbowman": 5,
+        "WildlifeMilitia": 6,
+        "WildlifeCavalry": 4
+      }
+    },
+    {
+      "tunniste": 11518,
+      "sektori": 2,
+      "oletusnimi": "2.4",
+      "apunimi": "B",
+      "tyyppi": 2,
+      "sijainti": "322, 181",
+      "joukot": {
+        "PirateMilitia": 100,
+        "PirateLongbowman": 131,
+        "CultCrossbowman": 102,
+        "WildlifeCavalry": 27
+      }
+    },
+    {
+      "tunniste": 11874,
+      "sektori": 2,
+      "oletusnimi": "2.1",
+      "apunimi": "A",
+      "tyyppi": 1,
+      "sijainti": "241, 267",
+      "joukot": {
+        "PirateCavalry": 148,
+        "PirateLongbowman": 70,
+        "CultCavalry": 26,
+        "CultLongbowman": 21
+      }
+    },
+    {
+      "tunniste": 12575,
+      "sektori": 5,
+      "oletusnimi": "5.1",
+      "apunimi": "B",
+      "tyyppi": 1,
+      "sijainti": "437, 97",
+      "joukot": {
+        "PirateMilitia": 270,
+        "CultCavalry": 121,
+        "CultLongbowman": 4
+      }
+    },
+    {
+      "tunniste": 12588,
+      "sektori": 6,
+      "oletusnimi": "6.4",
+      "apunimi": "B",
+      "tyyppi": 2,
+      "sijainti": "292, 39",
+      "joukot": {
+        "PirateRecruit": 121,
+        "PirateLongbowman": 156,
+        "WildlifeCavalry": 20,
+        "CultBoss2": 1
+      }
+    },
+    {
+      "tunniste": 12740,
+      "sektori": 6,
+      "oletusnimi": "6.1",
+      "apunimi": "B",
+      "tyyppi": 1,
+      "sijainti": "327, 59",
+      "joukot": {
+        "PirateCavalry": 11,
+        "PirateRecruit": 35,
+        "PirateMilitia": 189,
+        "CultCavalry": 54
+      }
+    },
+    {
+      "tunniste": 12775,
+      "sektori": 6,
+      "oletusnimi": "6.4",
+      "apunimi": "A",
+      "tyyppi": 2,
+      "sijainti": "234, 44",
+      "joukot": {
+        "PirateCavalry": 50,
+        "PirateMilitia": 177,
+        "CultCrossbowman": 69,
+        "CultBoss2": 1
+      }
+    },
+    {
+      "tunniste": 13302,
+      "sektori": 3,
+      "oletusnimi": "3.2",
+      "apunimi": "B",
+      "tyyppi": 1,
+      "sijainti": "466, 169",
+      "joukot": {
+        "PirateCavalry": 28,
+        "PirateRecruit": 143,
+        "PirateLongbowman": 24,
+        "CultCrossbowman": 89
+      }
+    },
+    {
+      "tunniste": 13307,
+      "sektori": 4,
+      "oletusnimi": "4.4",
+      "apunimi": "B",
+      "tyyppi": 2,
+      "sijainti": "487, 97",
+      "joukot": {
+        "PirateMilitia": 167,
+        "PirateLongbowman": 94,
+        "CultCrossbowman": 19,
+        "EpicRaidBoss4": 2
+      }
+    },
+    {
+      "tunniste": 13882,
+      "sektori": 2,
+      "oletusnimi": "2.4",
+      "apunimi": "A",
+      "tyyppi": 2,
+      "sijainti": "307, 260",
+      "joukot": {
+        "PirateLongbowman": 80,
+        "CultCavalry": 216,
+        "CultCrossbowman": 47,
+        "WildlifeCavalry": 40
+      }
+    },
+    {
+      "tunniste": 13968,
+      "sektori": 3,
+      "oletusnimi": "3.3",
+      "apunimi": "B",
+      "tyyppi": 1,
+      "sijainti": "485, 188",
+      "joukot": {
+        "PirateRecruit": 187,
+        "PirateLongbowman": 178,
+        "CultCrossbowman": 7,
+        "WildlifeCavalry": 10
+      }
+    },
+    {
+      "tunniste": 14064,
+      "sektori": 5,
+      "oletusnimi": "5.2",
+      "apunimi": "A",
+      "tyyppi": 1,
+      "sijainti": "167, 103",
+      "joukot": {
+        "PirateCavalry": 121,
+        "PirateLongbowman": 250,
+        "CultCavalry": 8,
+        "WildlifeCavalry": 16
+      }
+    },
+    {
+      "tunniste": 14189,
+      "sektori": 5,
+      "oletusnimi": "5.2",
+      "apunimi": "B",
+      "tyyppi": 1,
+      "sijainti": "409, 97",
+      "joukot": {
+        "PirateCavalry": 26,
+        "PirateRecruit": 282,
+        "CultCavalry": 68,
+        "WildlifeMilitia": 7
+      }
+    },
+    {
+      "tunniste": 14482,
+      "sektori": 1,
+      "oletusnimi": "1.2",
+      "apunimi": "B",
+      "tyyppi": 1,
+      "sijainti": "389, 275",
+      "joukot": {
+        "CultCavalry": 316,
+        "CultCrossbowman": 42,
+        "WildlifeLongbowman": 17,
+        "WildlifeCavalry": 9
+      }
+    },
+    {
+      "tunniste": 14661,
+      "sektori": 4,
+      "oletusnimi": "4.2",
+      "apunimi": "A",
+      "tyyppi": 1,
+      "sijainti": "115, 189",
+      "joukot": {
+        "CultLongbowman": 382,
+        "CultCrossbowman": 5,
+        "WildlifeCavalry": 4,
+        "WildlifeCannoneer": 2
+      }
+    },
+    {
+      "tunniste": 14822,
+      "sektori": 5,
+      "oletusnimi": "5.3",
+      "apunimi": "B",
+      "tyyppi": 1,
+      "sijainti": "394, 77",
+      "joukot": {
+        "CultCavalry": 47,
+        "WildlifeLongbowman": 18,
+        "WildlifeCavalry": 5,
+        "PartyCrasherLongbowman": 265
+      }
+    },
+    {
+      "tunniste": 14915,
+      "sektori": 5,
+      "oletusnimi": "5.3",
+      "apunimi": "A",
+      "tyyppi": 1,
+      "sijainti": "153, 84",
+      "joukot": {
+        "PirateMilitia": 95,
+        "PirateLongbowman": 234,
+        "CultCavalry": 14,
+        "WildlifeCavalry": 56
+      }
+    },
+    {
+      "tunniste": 15615,
+      "sektori": 2,
+      "oletusnimi": "2.3",
+      "apunimi": "A",
+      "tyyppi": 1,
+      "sijainti": "294, 280",
+      "joukot": {
+        "PirateMilitia": 2,
+        "PirateLongbowman": 50,
+        "CultCavalry": 297,
+        "CultCrossbowman": 57
+      }
+    },
+    {
+      "tunniste": 15697,
+      "sektori": 3,
+      "oletusnimi": "3.3",
+      "apunimi": "A",
+      "tyyppi": 1,
+      "sijainti": "201, 194",
+      "joukot": {
+        "PirateMilitia": 201,
+        "PirateLongbowman": 98,
+        "CultCavalry": 22,
+        "WildlifeCannoneer": 27
+      }
+    },
+    {
+      "tunniste": 15739,
+      "sektori": 3,
+      "oletusnimi": "3.4",
+      "apunimi": "B",
+      "tyyppi": 2,
+      "sijainti": "494, 167",
+      "joukot": {
+        "PirateCavalry": 119,
+        "PirateMilitia": 159,
+        "CultLongbowman": 11,
+        "EpicRaidBoss7": 1
+      }
+    },
+    {
+      "tunniste": 16162,
+      "sektori": 1,
+      "oletusnimi": "1.3",
+      "apunimi": "B",
+      "tyyppi": 1,
+      "sijainti": "399, 257",
+      "joukot": {
+        "PirateLongbowman": 321,
+        "CultCavalry": 61,
+        "CultCrossbowman": 8,
+        "WildlifeCannoneer": 4
+      }
+    },
+    {
+      "tunniste": 16358,
+      "sektori": 4,
+      "oletusnimi": "4.3",
+      "apunimi": "B",
+      "tyyppi": 1,
+      "sijainti": "480, 120",
+      "joukot": {
+        "PirateMilitia": 16,
+        "PirateLongbowman": 214,
+        "CultCrossbowman": 141,
+        "WildlifeCavalry": 4
+      }
+    },
+    {
+      "tunniste": 16460,
+      "sektori": 3,
+      "oletusnimi": "3.2",
+      "apunimi": "A",
+      "tyyppi": 1,
+      "sijainti": "221, 184",
+      "joukot": {
+        "PirateMilitia": 275,
+        "PirateLongbowman": 83,
+        "CultCavalry": 12,
+        "WildlifeCavalry": 8
+      }
+    },
+    {
+      "tunniste": 16471,
+      "sektori": 1,
+      "oletusnimi": "1.1",
+      "apunimi": "A",
+      "tyyppi": 1,
+      "sijainti": "144, 278",
+      "joukot": {
+        "PirateCavalry": 98,
+        "PirateLongbowman": 114,
+        "CultCavalry": 150,
+        "CultCrossbowman": 7
+      }
+    },
+    {
+      "tunniste": 16942,
+      "sektori": 4,
+      "oletusnimi": "4.3",
+      "apunimi": "A",
+      "tyyppi": 1,
+      "sijainti": "106, 167",
+      "joukot": {
+        "PirateLongbowman": 2,
+        "CultCavalry": 351,
+        "WildlifeMilitia": 35,
+        "WildlifeLongbowman": 8
+      }
+    },
+    {
+      "tunniste": 17484,
+      "sektori": 6,
+      "oletusnimi": "6.2",
+      "apunimi": "B",
+      "tyyppi": 1,
+      "sijainti": "302, 50",
+      "joukot": {
+        "PirateMilitia": 33,
+        "CultCavalry": 131,
+        "CultCrossbowman": 32,
+        "WildlifeLongbowman": 47
+      }
+    },
+    {
+      "tunniste": 17719,
+      "sektori": 3,
+      "oletusnimi": "3.1",
+      "apunimi": "B",
+      "tyyppi": 1,
+      "sijainti": "428, 168",
+      "joukot": {
+        "CultCavalry": 65,
+        "CultLongbowman": 261,
+        "CultCrossbowman": 38,
+        "WildlifeCavalry": 17
+      }
+    },
+    {
+      "tunniste": 18018,
+      "sektori": 5,
+      "oletusnimi": "5.4",
+      "apunimi": "B",
+      "tyyppi": 2,
+      "sijainti": "375, 63",
+      "joukot": {
+        "CultCavalry": 240,
+        "WildlifeCavalry": 58,
+        "CultBoss2": 1
+      }
+    },
+    {
+      "tunniste": 18077,
+      "sektori": 2,
+      "oletusnimi": "2.1",
+      "apunimi": "B",
+      "tyyppi": 1,
+      "sijainti": "352, 216",
+      "joukot": {
+        "PirateRecruit": 373,
+        "PirateMilitia": 15,
+        "CultLongbowman": 7,
+        "CultCrossbowman": 2
+      }
+    },
+    {
+      "tunniste": 18159,
+      "sektori": 1,
+      "oletusnimi": "1.4",
+      "apunimi": "B",
+      "tyyppi": 2,
+      "sijainti": "376, 253",
+      "joukot": {
+        "PirateRecruit": 131,
+        "PirateMilitia": 14,
+        "CultCavalry": 199,
+        "CultCrossbowman": 37
+      }
+    },
+    {
+      "tunniste": 18260,
+      "sektori": 4,
+      "oletusnimi": "4.5",
+      "apunimi": "A",
+      "tyyppi": 2,
+      "sijainti": "71, 157",
+      "joukot": {
+        "PirateMilitia": 191,
+        "CultCrossbowman": 96,
+        "WildlifeMilitia": 2,
+        "EpicRaidBoss4": 1
+      }
+    },
+    {
+      "tunniste": 18533,
+      "sektori": 1,
+      "oletusnimi": "1.2",
+      "apunimi": "A",
+      "tyyppi": 1,
+      "sijainti": "148, 251",
+      "joukot": {
+        "PirateCavalry": 28,
+        "PirateRecruit": 161,
+        "CultCrossbowman": 94,
+        "WildlifeCavalry": 6
+      }
+    },
+    {
+      "tunniste": 18549,
+      "sektori": 4,
+      "oletusnimi": "4.2",
+      "apunimi": "B",
+      "tyyppi": 1,
+      "sijainti": "508, 119",
+      "joukot": {
+        "PirateCavalry": 64,
+        "PirateMilitia": 57,
+        "CultCavalry": 62,
+        "WildlifeCavalry": 71
+      }
+    },
+    {
+      "tunniste": 18710,
+      "sektori": 2,
+      "oletusnimi": "2.3",
+      "apunimi": "B",
+      "tyyppi": 1,
+      "sijainti": "337, 196",
+      "joukot": {
+        "PirateCavalry": 98,
+        "PirateMilitia": 112,
+        "CultCavalry": 82,
+        "WildlifeLongbowman": 32
+      }
+    },
+    {
+      "tunniste": 18831,
+      "sektori": 6,
+      "oletusnimi": "6.1",
+      "apunimi": "A",
+      "tyyppi": 1,
+      "sijainti": "196, 63",
+      "joukot": {
+        "PirateCavalry": 68,
+        "PirateLongbowman": 122,
+        "CultCavalry": 69,
+        "CultCrossbowman": 133
+      }
+    },
+    {
+      "tunniste": 19573,
+      "sektori": 6,
+      "oletusnimi": "6.2",
+      "apunimi": "A",
+      "tyyppi": 1,
+      "sijainti": "220, 61",
+      "joukot": {
+        "PirateLongbowman": 261,
+        "CultCavalry": 41,
+        "WildlifeMilitia": 11,
+        "WildlifeCavalry": 64
+      }
+    },
+    {
+      "tunniste": 19624,
+      "sektori": 3,
+      "oletusnimi": "3.4",
+      "apunimi": "A",
+      "tyyppi": 2,
+      "sijainti": "192, 173",
+      "joukot": {
+        "PirateCavalry": 266,
+        "PirateRecruit": 25,
+        "PirateLongbowman": 6,
+        "EpicRaidBoss7": 1
+      }
+    },
+    {
+      "tunniste": 19671,
+      "sektori": 1,
+      "oletusnimi": "1.4",
+      "apunimi": "A",
+      "tyyppi": 2,
+      "sijainti": "193, 248",
+      "joukot": {
+        "PirateMilitia": 159,
+        "CultCavalry": 203,
+        "CultCrossbowman": 32,
+        "WildlifeCannoneer": 2
+      }
+    },
+    {
+      "tunniste": 19822,
+      "sektori": 5,
+      "oletusnimi": "5.1",
+      "apunimi": "A",
+      "tyyppi": 1,
+      "sijainti": "120, 92",
+      "joukot": {
+        "PirateCavalry": 20,
+        "PirateLongbowman": 176,
+        "CultCavalry": 62,
+        "WildlifeCannoneer": 20
+      }
+    },
+    {
+      "tunniste": 19938,
+      "sektori": 3,
+      "oletusnimi": "3.1",
+      "apunimi": "A",
+      "tyyppi": 1,
+      "sijainti": "239, 208",
+      "joukot": {
+        "CultLongbowman": 239,
+        "CultCrossbowman": 94,
+        "WildlifeMilitia": 47,
+        "WildlifeCavalry": 12
+      }
+    },
+    {
+      "tunniste": 19966,
+      "sektori": 2,
+      "oletusnimi": "2.2",
+      "apunimi": "A",
+      "tyyppi": 1,
+      "sijainti": "278, 255",
+      "joukot": {
+        "PirateMilitia": 274,
+        "PirateLongbowman": 13,
+        "CultLongbowman": 63,
+        "WildlifeCavalry": 10
+      }
+    }
+  ]
+}

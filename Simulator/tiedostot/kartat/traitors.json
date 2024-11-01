@@ -1,0 +1,156 @@
+{
+  "tiedostonimi": "traitors",
+  "tunniste": "Traitors",
+  "nimi": "Traitors",
+  "tyyppi": "Mission",
+  "ryhmitysnro": 2,
+  "xp": 8710,
+  "pelaajia": 1,
+  "yksiköt": [
+    "KingdomMilitia",
+    "KingdomCavalry",
+    "KingdomSoldier",
+    "KingdomLongbowman",
+    "KingdomBoss1",
+    "KingdomBoss2"
+  ],
+  "leirit": [
+    {
+      "tunniste": 10387,
+      "sektori": 1,
+      "oletusnimi": "1.2",
+      "apunimi": "",
+      "tyyppi": 1,
+      "sijainti": "89, 239",
+      "joukot": {
+        "KingdomMilitia": 60,
+        "KingdomCavalry": 60
+      }
+    },
+    {
+      "tunniste": 11292,
+      "sektori": 3,
+      "oletusnimi": "3.3",
+      "apunimi": "",
+      "tyyppi": 2,
+      "sijainti": "460, 277",
+      "joukot": {
+        "KingdomCavalry": 60,
+        "KingdomSoldier": 60,
+        "KingdomLongbowman": 60,
+        "KingdomBoss1": 1,
+        "KingdomBoss2": 1
+      }
+    },
+    {
+      "tunniste": 12400,
+      "sektori": 2,
+      "oletusnimi": "2.1",
+      "apunimi": "",
+      "tyyppi": 1,
+      "sijainti": "242, 281",
+      "joukot": {
+        "KingdomSoldier": 60,
+        "KingdomLongbowman": 60
+      }
+    },
+    {
+      "tunniste": 13133,
+      "sektori": 2,
+      "oletusnimi": "2.4",
+      "apunimi": "",
+      "tyyppi": 2,
+      "sijainti": "395, 359",
+      "joukot": {
+        "KingdomSoldier": 60,
+        "KingdomLongbowman": 100
+      }
+    },
+    {
+      "tunniste": 16287,
+      "sektori": 2,
+      "oletusnimi": "2.2",
+      "apunimi": "",
+      "tyyppi": 1,
+      "sijainti": "269, 342",
+      "joukot": {
+        "KingdomMilitia": 40,
+        "KingdomCavalry": 40,
+        "KingdomSoldier": 20,
+        "KingdomLongbowman": 60
+      }
+    },
+    {
+      "tunniste": 16816,
+      "sektori": 2,
+      "oletusnimi": "2.3",
+      "apunimi": "",
+      "tyyppi": 1,
+      "sijainti": "318, 380",
+      "joukot": {
+        "KingdomMilitia": 60,
+        "KingdomCavalry": 60,
+        "KingdomSoldier": 60
+      }
+    },
+    {
+      "tunniste": 17006,
+      "sektori": 1,
+      "oletusnimi": "1.3",
+      "apunimi": "",
+      "tyyppi": 1,
+      "sijainti": "122, 166",
+      "joukot": {
+        "KingdomSoldier": 80
+      }
+    },
+    {
+      "tunniste": 17147,
+      "sektori": 3,
+      "oletusnimi": "3.1",
+      "apunimi": "",
+      "tyyppi": 1,
+      "sijainti": "423, 281",
+      "joukot": {
+        "KingdomCavalry": 50,
+        "KingdomSoldier": 150
+      }
+    },
+    {
+      "tunniste": 17684,
+      "sektori": 3,
+      "oletusnimi": "3.2",
+      "apunimi": "",
+      "tyyppi": 1,
+      "sijainti": "480, 299",
+      "joukot": {
+        "KingdomSoldier": 100,
+        "KingdomLongbowman": 100
+      }
+    },
+    {
+      "tunniste": 18205,
+      "sektori": 1,
+      "oletusnimi": "1.1",
+      "apunimi": "",
+      "tyyppi": 1,
+      "sijainti": "81, 312",
+      "joukot": {
+        "KingdomMilitia": 40,
+        "KingdomLongbowman": 60
+      }
+    },
+    {
+      "tunniste": 18616,
+      "sektori": 1,
+      "oletusnimi": "1.4",
+      "apunimi": "",
+      "tyyppi": 2,
+      "sijainti": "173, 117",
+      "joukot": {
+        "KingdomSoldier": 40,
+        "KingdomLongbowman": 60
+      }
+    }
+  ]
+}

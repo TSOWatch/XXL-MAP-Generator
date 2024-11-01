@@ -1,0 +1,61 @@
+{
+  "tiedostonimi": "wonderland",
+  "tunniste": "XMAS_Cookie_Hard_2",
+  "nimi": "Winter Wonderland revisited",
+  "tyyppi": "Venture",
+  "teema": "Christmas",
+  "xp": 13775,
+  "pelaajia": 1,
+  "elite": true,
+  "yksiköt": [
+    "EliteWildlifeRecruit",
+    "EliteWildlifeMilitia",
+    "EliteWildlifeCavalry",
+    "EliteWildlifeAir",
+    "EliteWildlifeLongbowman",
+    "ChristmasBossTwin1",
+    "ChristmasBossTwin2",
+    "ChristmasBossTwin3"
+  ],
+  "leirit": [
+    {
+      "tunniste": 13434,
+      "sektori": 1,
+      "oletusnimi": "1.3",
+      "apunimi": "",
+      "tyyppi": 2,
+      "sijainti": "325, 79",
+      "joukot": {
+        "EliteWildlifeRecruit": 25,
+        "EliteWildlifeAir": 25,
+        "ChristmasBossTwin3": 1
+      }
+    },
+    {
+      "tunniste": 16216,
+      "sektori": 1,
+      "oletusnimi": "1.2",
+      "apunimi": "",
+      "tyyppi": 2,
+      "sijainti": "359, 100",
+      "joukot": {
+        "EliteWildlifeMilitia": 20,
+        "EliteWildlifeCavalry": 20,
+        "EliteWildlifeLongbowman": 20
+      }
+    },
+    {
+      "tunniste": 19204,
+      "sektori": 1,
+      "oletusnimi": "1.1",
+      "apunimi": "",
+      "tyyppi": 2,
+      "sijainti": "302, 110",
+      "joukot": {
+        "EliteWildlifeRecruit": 25,
+        "EliteWildlifeCavalry": 25,
+        "EliteWildlifeLongbowman": 15
+      }
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "tiedostonimi": "monstermist",
+  "tunniste": "HWCampaign1_Adv1",
+  "nimi": "Monsters from the Mist",
+  "tyyppi": "Venture",
+  "teema": "Halloween",
+  "xp": 3860,
+  "pelaajia": 1,
+  "yksiköt": [
+    "MiniGolemRecruit",
+    "MiniGolemMilitia",
+    "MiniGolemCavalry",
+    "MiniGolemCannoneer",
+    "MadScientistBoss"
+  ],
+  "leirit": [
+    {
+      "tunniste": 10849,
+      "sektori": 2,
+      "oletusnimi": "2.1",
+      "apunimi": "",
+      "tyyppi": 2,
+      "sijainti": "363, 113",
+      "joukot": {
+        "MiniGolemCannoneer": 100,
+        "MadScientistBoss": 1
+      }
+    },
+    {
+      "tunniste": 12474,
+      "sektori": 1,
+      "oletusnimi": "1.1",
+      "apunimi": "",
+      "tyyppi": 2,
+      "sijainti": "205, 265",
+      "joukot": {
+        "MiniGolemRecruit": 80,
+        "MiniGolemCannoneer": 50
+      }
+    },
+    {
+      "tunniste": 14320,
+      "sektori": 1,
+      "oletusnimi": "1.2",
+      "apunimi": "",
+      "tyyppi": 2,
+      "sijainti": "261, 271",
+      "joukot": {
+        "MiniGolemCavalry": 80,
+        "MiniGolemMilitia": 40
+      }
+    },
+    {
+      "tunniste": 15533,
+      "sektori": 1,
+      "oletusnimi": "1.3",
+      "apunimi": "",
+      "tyyppi": 2,
+      "sijainti": "325, 246",
+      "joukot": {
+        "MiniGolemRecruit": 50,
+        "MiniGolemCavalry": 30,
+        "MiniGolemCannoneer": 30
+      }
+    }
+  ]
+}

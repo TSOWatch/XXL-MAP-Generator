@@ -1,0 +1,328 @@
+{
+  "tiedostonimi": "outlaws",
+  "tunniste": "Outlaws",
+  "nimi": "Outlaws",
+  "tyyppi": "Mission",
+  "ryhmitysnro": 2,
+  "xp": 14020,
+  "pelaajia": 1,
+  "yksiköt": [
+    "BanditBoss3",
+    "BanditRecruit",
+    "BanditMilitia",
+    "BanditCavalry",
+    "BanditSoldier",
+    "BanditBowman",
+    "BanditLongbowman",
+    "BanditBoss1",
+    "BanditBoss2"
+  ],
+  "leirit": [
+    {
+      "tunniste": 10073,
+      "sektori": 5,
+      "oletusnimi": "5.4",
+      "apunimi": "",
+      "tyyppi": 1,
+      "sijainti": "478, 57",
+      "joukot": {
+        "BanditMilitia": 60,
+        "BanditCavalry": 60,
+        "BanditLongbowman": 60
+      }
+    },
+    {
+      "tunniste": 10093,
+      "sektori": 3,
+      "oletusnimi": "3.6",
+      "apunimi": "",
+      "tyyppi": 1,
+      "sijainti": "343, 57",
+      "joukot": {
+        "BanditCavalry": 80,
+        "BanditSoldier": 40,
+        "BanditLongbowman": 60
+      }
+    },
+    {
+      "tunniste": 11401,
+      "sektori": 2,
+      "oletusnimi": "2.1",
+      "apunimi": "",
+      "tyyppi": 1,
+      "sijainti": "107, 65",
+      "joukot": {
+        "BanditRecruit": 100,
+        "BanditBowman": 50
+      }
+    },
+    {
+      "tunniste": 11571,
+      "sektori": 4,
+      "oletusnimi": "4.1",
+      "apunimi": "",
+      "tyyppi": 1,
+      "sijainti": "357, 189",
+      "joukot": {
+        "BanditRecruit": 60,
+        "BanditBowman": 60
+      }
+    },
+    {
+      "tunniste": 12099,
+      "sektori": 3,
+      "oletusnimi": "3.2",
+      "apunimi": "",
+      "tyyppi": 1,
+      "sijainti": "294, 119",
+      "joukot": {
+        "BanditMilitia": 40,
+        "BanditSoldier": 40,
+        "BanditLongbowman": 80
+      }
+    },
+    {
+      "tunniste": 12593,
+      "sektori": 4,
+      "oletusnimi": "4.6",
+      "apunimi": "",
+      "tyyppi": 2,
+      "sijainti": "460, 177",
+      "joukot": {
+        "BanditMilitia": 30,
+        "BanditCavalry": 80,
+        "BanditLongbowman": 50
+      }
+    },
+    {
+      "tunniste": 13008,
+      "sektori": 4,
+      "oletusnimi": "4.3",
+      "apunimi": "",
+      "tyyppi": 1,
+      "sijainti": "413, 248",
+      "joukot": {
+        "BanditRecruit": 80
+      }
+    },
+    {
+      "tunniste": 13212,
+      "sektori": 3,
+      "oletusnimi": "3.1",
+      "apunimi": "",
+      "tyyppi": 1,
+      "sijainti": "290, 135",
+      "joukot": {
+        "BanditMilitia": 100,
+        "BanditLongbowman": 60
+      }
+    },
+    {
+      "tunniste": 14074,
+      "sektori": 3,
+      "oletusnimi": "3.3",
+      "apunimi": "",
+      "tyyppi": 1,
+      "sijainti": "308, 128",
+      "joukot": {
+        "BanditMilitia": 60,
+        "BanditLongbowman": 100
+      }
+    },
+    {
+      "tunniste": 14486,
+      "sektori": 3,
+      "oletusnimi": "3.4",
+      "apunimi": "",
+      "tyyppi": 1,
+      "sijainti": "330, 66",
+      "joukot": {
+        "BanditSoldier": 80,
+        "BanditLongbowman": 100
+      }
+    },
+    {
+      "tunniste": 14952,
+      "sektori": 5,
+      "oletusnimi": "5.1",
+      "apunimi": "",
+      "tyyppi": 1,
+      "sijainti": "471, 121",
+      "joukot": {
+        "BanditRecruit": 100,
+        "BanditBowman": 30,
+        "BanditCavalry": 30
+      }
+    },
+    {
+      "tunniste": 15055,
+      "sektori": 5,
+      "oletusnimi": "5.2",
+      "apunimi": "",
+      "tyyppi": 1,
+      "sijainti": "491, 118",
+      "joukot": {
+        "BanditRecruit": 30,
+        "BanditBowman": 100,
+        "BanditCavalry": 30
+      }
+    },
+    {
+      "tunniste": 15249,
+      "sektori": 1,
+      "oletusnimi": "1.1",
+      "apunimi": "",
+      "tyyppi": 1,
+      "sijainti": "200, 170",
+      "joukot": {
+        "BanditRecruit": 80,
+        "BanditBowman": 20
+      }
+    },
+    {
+      "tunniste": 15293,
+      "sektori": 2,
+      "oletusnimi": "2.3",
+      "apunimi": "",
+      "tyyppi": 2,
+      "sijainti": "99, 53",
+      "joukot": {
+        "BanditBowman": 80,
+        "BanditCavalry": 100,
+        "BanditBoss1": 1
+      }
+    },
+    {
+      "tunniste": 15402,
+      "sektori": 3,
+      "oletusnimi": "3.5",
+      "apunimi": "",
+      "tyyppi": 1,
+      "sijainti": "316, 58",
+      "joukot": {
+        "BanditSoldier": 150
+      }
+    },
+    {
+      "tunniste": 15493,
+      "sektori": 1,
+      "oletusnimi": "1.3",
+      "apunimi": "",
+      "tyyppi": 1,
+      "sijainti": "159, 124",
+      "joukot": {
+        "BanditRecruit": 60,
+        "BanditBowman": 60
+      }
+    },
+    {
+      "tunniste": 15789,
+      "sektori": 2,
+      "oletusnimi": "2.2",
+      "apunimi": "",
+      "tyyppi": 1,
+      "sijainti": "117, 52",
+      "joukot": {
+        "BanditRecruit": 50,
+        "BanditBowman": 50,
+        "BanditCavalry": 50
+      }
+    },
+    {
+      "tunniste": 16997,
+      "sektori": 3,
+      "oletusnimi": "3.7",
+      "apunimi": "",
+      "tyyppi": 2,
+      "sijainti": "330, 51",
+      "joukot": {
+        "BanditBoss1": 2,
+        "BanditBoss3": 1
+      }
+    },
+    {
+      "tunniste": 17002,
+      "sektori": 1,
+      "oletusnimi": "1.4",
+      "apunimi": "",
+      "tyyppi": 2,
+      "sijainti": "143, 97",
+      "joukot": {
+        "BanditRecruit": 50,
+        "BanditBowman": 50,
+        "BanditCavalry": 50
+      }
+    },
+    {
+      "tunniste": 17155,
+      "sektori": 4,
+      "oletusnimi": "4.4",
+      "apunimi": "",
+      "tyyppi": 1,
+      "sijainti": "419, 279",
+      "joukot": {
+        "BanditRecruit": 80
+      }
+    },
+    {
+      "tunniste": 18199,
+      "sektori": 4,
+      "oletusnimi": "4.2",
+      "apunimi": "",
+      "tyyppi": 1,
+      "sijainti": "370, 208",
+      "joukot": {
+        "BanditBowman": 60,
+        "BanditCavalry": 60
+      }
+    },
+    {
+      "tunniste": 18587,
+      "sektori": 1,
+      "oletusnimi": "1.2",
+      "apunimi": "",
+      "tyyppi": 1,
+      "sijainti": "209, 154",
+      "joukot": {
+        "BanditRecruit": 50,
+        "BanditBowman": 50
+      }
+    },
+    {
+      "tunniste": 18758,
+      "sektori": 5,
+      "oletusnimi": "5.3",
+      "apunimi": "",
+      "tyyppi": 1,
+      "sijainti": "450, 57",
+      "joukot": {
+        "BanditMilitia": 60,
+        "BanditCavalry": 60,
+        "BanditLongbowman": 60
+      }
+    },
+    {
+      "tunniste": 19653,
+      "sektori": 5,
+      "oletusnimi": "5.5",
+      "apunimi": "",
+      "tyyppi": 2,
+      "sijainti": "465, 36",
+      "joukot": {
+        "BanditMilitia": 180,
+        "BanditBoss2": 1
+      }
+    },
+    {
+      "tunniste": 19766,
+      "sektori": 4,
+      "oletusnimi": "4.5",
+      "apunimi": "",
+      "tyyppi": 1,
+      "sijainti": "463, 271",
+      "joukot": {
+        "BanditBowman": 80
+      }
+    }
+  ]
+}

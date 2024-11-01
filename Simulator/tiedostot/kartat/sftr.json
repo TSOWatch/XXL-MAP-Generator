@@ -1,0 +1,484 @@
+{
+  "tiedostonimi": "sftr",
+  "tunniste": "StealingFromTheRich",
+  "nimi": "Stealing From The Rich",
+  "tyyppi": "Mission",
+  "ryhmitysnro": 2,
+  "xp": 11870,
+  "pelaajia": 2,
+  "yksiköt": [
+    "KingdomRecruit",
+    "KingdomMilitia",
+    "KingdomCavalry",
+    "KingdomSoldier",
+    "KingdomEliteSoldier",
+    "KingdomBowman",
+    "KingdomLongbowman",
+    "KingdomCrossbowman",
+    "KingdomCannoneer",
+    "NeutralCavalry",
+    "KingdomBoss1",
+    "KingdomBoss2"
+  ],
+  "leirit": [
+    {
+      "tunniste": 10200,
+      "sektori": 7,
+      "apunimi": "",
+      "tyyppi": 1,
+      "sijainti": "114, 213",
+      "joukot": {
+        "KingdomRecruit": 30,
+        "KingdomBowman": 40
+      }
+    },
+    {
+      "tunniste": 10532,
+      "sektori": 4,
+      "apunimi": "",
+      "tyyppi": 2,
+      "sijainti": "292, 293",
+      "joukot": {
+        "KingdomCavalry": 50,
+        "KingdomSoldier": 50,
+        "KingdomLongbowman": 50,
+        "KingdomBoss2": 1
+      }
+    },
+    {
+      "tunniste": 10563,
+      "sektori": 3,
+      "apunimi": "",
+      "tyyppi": 1,
+      "sijainti": "424, 141",
+      "joukot": {
+        "KingdomMilitia": 80,
+        "KingdomLongbowman": 40
+      }
+    },
+    {
+      "tunniste": 10726,
+      "sektori": 2,
+      "apunimi": "",
+      "tyyppi": 2,
+      "sijainti": "472, 82",
+      "joukot": {
+        "KingdomMilitia": 40,
+        "KingdomCavalry": 40,
+        "KingdomBoss1": 1
+      }
+    },
+    {
+      "tunniste": 10973,
+      "sektori": 7,
+      "apunimi": "",
+      "tyyppi": 1,
+      "sijainti": "126, 285",
+      "joukot": {
+        "NeutralCavalry": 40
+      }
+    },
+    {
+      "tunniste": 11036,
+      "sektori": 2,
+      "apunimi": "",
+      "tyyppi": 1,
+      "sijainti": "473, 100",
+      "joukot": {
+        "KingdomMilitia": 60,
+        "KingdomLongbowman": 20
+      }
+    },
+    {
+      "tunniste": 11491,
+      "sektori": 6,
+      "apunimi": "",
+      "tyyppi": 1,
+      "sijainti": "160, 104",
+      "joukot": {
+        "NeutralCavalry": 120
+      }
+    },
+    {
+      "tunniste": 11582,
+      "sektori": 5,
+      "apunimi": "",
+      "tyyppi": 1,
+      "sijainti": "271, 111",
+      "joukot": {
+        "NeutralCavalry": 160
+      }
+    },
+    {
+      "tunniste": 11616,
+      "sektori": 1,
+      "apunimi": "",
+      "tyyppi": 2,
+      "sijainti": "457, 173",
+      "joukot": {
+        "KingdomRecruit": 65,
+        "KingdomBowman": 85
+      }
+    },
+    {
+      "tunniste": 11724,
+      "sektori": 1,
+      "apunimi": "",
+      "tyyppi": 1,
+      "sijainti": "460, 237",
+      "joukot": {
+        "NeutralCavalry": 100
+      }
+    },
+    {
+      "tunniste": 12153,
+      "sektori": 5,
+      "apunimi": "",
+      "tyyppi": 1,
+      "sijainti": "341, 115",
+      "joukot": {
+        "NeutralCavalry": 140
+      }
+    },
+    {
+      "tunniste": 12438,
+      "sektori": 5,
+      "apunimi": "",
+      "tyyppi": 1,
+      "sijainti": "324, 88",
+      "joukot": {
+        "KingdomLongbowman": 30
+      }
+    },
+    {
+      "tunniste": 12464,
+      "sektori": 5,
+      "apunimi": "",
+      "tyyppi": 1,
+      "sijainti": "368, 97",
+      "joukot": {
+        "NeutralCavalry": 160
+      }
+    },
+    {
+      "tunniste": 12616,
+      "sektori": 5,
+      "apunimi": "",
+      "tyyppi": 1,
+      "sijainti": "284, 79",
+      "joukot": {
+        "KingdomLongbowman": 30
+      }
+    },
+    {
+      "tunniste": 12717,
+      "sektori": 7,
+      "apunimi": "",
+      "tyyppi": 1,
+      "sijainti": "118, 181",
+      "joukot": {
+        "NeutralCavalry": 100
+      }
+    },
+    {
+      "tunniste": 12809,
+      "sektori": 7,
+      "apunimi": "",
+      "tyyppi": 1,
+      "sijainti": "94, 241",
+      "joukot": {
+        "NeutralCavalry": 40
+      }
+    },
+    {
+      "tunniste": 12862,
+      "sektori": 4,
+      "apunimi": "",
+      "tyyppi": 1,
+      "sijainti": "277, 277",
+      "joukot": {
+        "KingdomLongbowman": 15
+      }
+    },
+    {
+      "tunniste": 13116,
+      "sektori": 5,
+      "apunimi": "",
+      "tyyppi": 1,
+      "sijainti": "332, 78",
+      "joukot": {
+        "KingdomLongbowman": 30
+      }
+    },
+    {
+      "tunniste": 13691,
+      "sektori": 4,
+      "apunimi": "",
+      "tyyppi": 1,
+      "sijainti": "289, 256",
+      "joukot": {
+        "NeutralCavalry": 200
+      }
+    },
+    {
+      "tunniste": 13769,
+      "sektori": 5,
+      "apunimi": "",
+      "tyyppi": 2,
+      "sijainti": "298, 74",
+      "joukot": {
+        "KingdomCavalry": 30,
+        "KingdomSoldier": 30,
+        "KingdomLongbowman": 40,
+        "KingdomBoss1": 1
+      }
+    },
+    {
+      "tunniste": 14007,
+      "sektori": 7,
+      "apunimi": "",
+      "tyyppi": 1,
+      "sijainti": "62, 183",
+      "joukot": {
+        "KingdomRecruit": 40,
+        "KingdomBowman": 30
+      }
+    },
+    {
+      "tunniste": 14226,
+      "sektori": 3,
+      "apunimi": "",
+      "tyyppi": 1,
+      "sijainti": "214, 185",
+      "joukot": {
+        "NeutralCavalry": 140
+      }
+    },
+    {
+      "tunniste": 14408,
+      "sektori": 3,
+      "apunimi": "",
+      "tyyppi": 1,
+      "sijainti": "173, 138",
+      "joukot": {
+        "KingdomSoldier": 20,
+        "KingdomLongbowman": 80
+      }
+    },
+    {
+      "tunniste": 15021,
+      "sektori": 1,
+      "apunimi": "",
+      "tyyppi": 1,
+      "sijainti": "460, 192",
+      "joukot": {
+        "NeutralCavalry": 120
+      }
+    },
+    {
+      "tunniste": 15134,
+      "sektori": 3,
+      "apunimi": "",
+      "tyyppi": 1,
+      "sijainti": "372, 186",
+      "joukot": {
+        "NeutralCavalry": 40
+      }
+    },
+    {
+      "tunniste": 15286,
+      "sektori": 6,
+      "apunimi": "",
+      "tyyppi": 1,
+      "sijainti": "160, 84",
+      "joukot": {
+        "KingdomMilitia": 20,
+        "KingdomLongbowman": 60
+      }
+    },
+    {
+      "tunniste": 15297,
+      "sektori": 5,
+      "apunimi": "",
+      "tyyppi": 1,
+      "sijainti": "303, 89",
+      "joukot": {
+        "KingdomLongbowman": 30
+      }
+    },
+    {
+      "tunniste": 15493,
+      "sektori": 6,
+      "apunimi": "",
+      "tyyppi": 1,
+      "sijainti": "135, 87",
+      "joukot": {
+        "KingdomMilitia": 40,
+        "KingdomLongbowman": 40
+      }
+    },
+    {
+      "tunniste": 15626,
+      "sektori": 7,
+      "apunimi": "",
+      "tyyppi": 2,
+      "sijainti": "84, 148",
+      "joukot": {
+        "KingdomRecruit": 85,
+        "KingdomBowman": 65
+      }
+    },
+    {
+      "tunniste": 15795,
+      "sektori": 3,
+      "apunimi": "",
+      "tyyppi": 2,
+      "sijainti": "301, 206",
+      "joukot": {
+        "KingdomEliteSoldier": 20,
+        "KingdomCrossbowman": 20,
+        "KingdomCannoneer": 20,
+        "KingdomBoss1": 1
+      }
+    },
+    {
+      "tunniste": 16579,
+      "sektori": 4,
+      "apunimi": "",
+      "tyyppi": 1,
+      "sijainti": "268, 284",
+      "joukot": {
+        "KingdomLongbowman": 15
+      }
+    },
+    {
+      "tunniste": 17268,
+      "sektori": 4,
+      "apunimi": "",
+      "tyyppi": 1,
+      "sijainti": "311, 282",
+      "joukot": {
+        "KingdomLongbowman": 15
+      }
+    },
+    {
+      "tunniste": 17462,
+      "sektori": 2,
+      "apunimi": "",
+      "tyyppi": 1,
+      "sijainti": "456, 121",
+      "joukot": {
+        "NeutralCavalry": 150
+      }
+    },
+    {
+      "tunniste": 17585,
+      "sektori": 3,
+      "apunimi": "",
+      "tyyppi": 1,
+      "sijainti": "368, 150",
+      "joukot": {
+        "KingdomSoldier": 20,
+        "KingdomLongbowman": 80
+      }
+    },
+    {
+      "tunniste": 17694,
+      "sektori": 6,
+      "apunimi": "",
+      "tyyppi": 2,
+      "sijainti": "145, 73",
+      "joukot": {
+        "KingdomMilitia": 40,
+        "KingdomLongbowman": 40,
+        "KingdomBoss1": 1
+      }
+    },
+    {
+      "tunniste": 17696,
+      "sektori": 1,
+      "apunimi": "",
+      "tyyppi": 1,
+      "sijainti": "517, 170",
+      "joukot": {
+        "NeutralCavalry": 20
+      }
+    },
+    {
+      "tunniste": 18297,
+      "sektori": 3,
+      "apunimi": "",
+      "tyyppi": 1,
+      "sijainti": "216, 164",
+      "joukot": {
+        "KingdomMilitia": 80,
+        "KingdomLongbowman": 40
+      }
+    },
+    {
+      "tunniste": 18549,
+      "sektori": 1,
+      "apunimi": "",
+      "tyyppi": 1,
+      "sijainti": "508, 236",
+      "joukot": {
+        "KingdomRecruit": 40,
+        "KingdomBowman": 30
+      }
+    },
+    {
+      "tunniste": 18651,
+      "sektori": 1,
+      "apunimi": "",
+      "tyyppi": 1,
+      "sijainti": "489, 288",
+      "joukot": {
+        "NeutralCavalry": 40
+      }
+    },
+    {
+      "tunniste": 18821,
+      "sektori": 5,
+      "apunimi": "",
+      "tyyppi": 2,
+      "sijainti": "316, 73",
+      "joukot": {
+        "KingdomSoldier": 50,
+        "KingdomLongbowman": 50,
+        "KingdomBoss1": 1
+      }
+    },
+    {
+      "tunniste": 19066,
+      "sektori": 2,
+      "apunimi": "",
+      "tyyppi": 1,
+      "sijainti": "485, 86",
+      "joukot": {
+        "KingdomMilitia": 40,
+        "KingdomLongbowman": 40
+      }
+    },
+    {
+      "tunniste": 19308,
+      "sektori": 4,
+      "apunimi": "",
+      "tyyppi": 1,
+      "sijainti": "301, 274",
+      "joukot": {
+        "KingdomLongbowman": 15
+      }
+    },
+    {
+      "tunniste": 19786,
+      "sektori": 1,
+      "apunimi": "",
+      "tyyppi": 1,
+      "sijainti": "434, 240",
+      "joukot": {
+        "KingdomRecruit": 30,
+        "KingdomBowman": 40
+      }
+    }
+  ]
+}
