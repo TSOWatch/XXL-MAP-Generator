@@ -1,4 +1,5 @@
 # TSO Swift Simulator
+![TSO Swift Simulator 2024/2025](tso_sim.png)
 
 TSO Swift Simulator ist ein Community-Tool für Spieler von **Die Siedler Online (DSO)**, das entwickelt wurde, um Strategien zu simulieren, Truppenbewegungen zu planen und Abenteuer effizienter zu gestalten. Obwohl der ursprüngliche Entwickler nicht mehr aktiv ist, wird das Tool von der Community gepflegt und weiterentwickelt.
 
