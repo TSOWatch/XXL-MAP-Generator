@@ -1,0 +1,168 @@
+{
+  "tiedostonimi": "roost",
+  "tunniste": "BuffAdventures_DragonsRoost",
+  "nimi": "The Dragon's Roost",
+  "tyyppi": "Venture",
+  "ryhmitysnro": 4,
+  "xp": 3135,
+  "pelaajia": 1,
+  "yksiköt": [
+    "CultRecruit",
+    "CultCavalry",
+    "CultLongbowman",
+    "CultCrossbowman",
+    "NeutralCavalry",
+    "WildlifeRecruit",
+    "WildlifeMilitia",
+    "WildlifeBowman",
+    "WildlifeLongbowman",
+    "WildlifeCavalry",
+    "CultBoss4",
+    "EpicRaidBoss4",
+    "EpicRaidBoss7",
+    "DragonBoss"
+  ],
+  "leirit": [
+    {
+      "tunniste": 12020,
+      "sektori": 1,
+      "oletusnimi": "1.3",
+      "apunimi": "",
+      "tyyppi": 1,
+      "sijainti": "503, 309",
+      "joukot": {
+        "WildlifeBowman": 5,
+        "NeutralCavalry": 100
+      }
+    },
+    {
+      "tunniste": 12201,
+      "sektori": 3,
+      "oletusnimi": "3.1",
+      "apunimi": "",
+      "tyyppi": 1,
+      "sijainti": "158, 168",
+      "joukot": {
+        "CultLongbowman": 10,
+        "CultCavalry": 10
+      }
+    },
+    {
+      "tunniste": 12682,
+      "sektori": 2,
+      "oletusnimi": "2.2",
+      "apunimi": "",
+      "tyyppi": 1,
+      "sijainti": "468, 200",
+      "joukot": {
+        "WildlifeCavalry": 5,
+        "WildlifeLongbowman": 13
+      }
+    },
+    {
+      "tunniste": 13661,
+      "sektori": 4,
+      "oletusnimi": "4.2",
+      "apunimi": "",
+      "tyyppi": 2,
+      "sijainti": "386, 100",
+      "joukot": {
+        "CultRecruit": 20,
+        "CultBoss4": 1
+      }
+    },
+    {
+      "tunniste": 14291,
+      "sektori": 4,
+      "oletusnimi": "4.1",
+      "apunimi": "",
+      "tyyppi": 1,
+      "sijainti": "333, 90",
+      "joukot": {
+        "CultRecruit": 50
+      }
+    },
+    {
+      "tunniste": 15848,
+      "sektori": 2,
+      "oletusnimi": "2.3",
+      "apunimi": "",
+      "tyyppi": 2,
+      "sijainti": "368, 181",
+      "joukot": {
+        "EpicRaidBoss7": 1
+      }
+    },
+    {
+      "tunniste": 16160,
+      "sektori": 1,
+      "oletusnimi": "1.2",
+      "apunimi": "",
+      "tyyppi": 1,
+      "sijainti": "432, 324",
+      "joukot": {
+        "WildlifeCavalry": 15
+      }
+    },
+    {
+      "tunniste": 16589,
+      "sektori": 1,
+      "oletusnimi": "1.4",
+      "apunimi": "",
+      "tyyppi": 2,
+      "sijainti": "554, 284",
+      "joukot": {
+        "WildlifeRecruit": 5,
+        "EpicRaidBoss4": 1
+      }
+    },
+    {
+      "tunniste": 17940,
+      "sektori": 1,
+      "oletusnimi": "1.1",
+      "apunimi": "",
+      "tyyppi": 1,
+      "sijainti": "338, 309",
+      "joukot": {
+        "WildlifeRecruit": 10
+      }
+    },
+    {
+      "tunniste": 18694,
+      "sektori": 2,
+      "oletusnimi": "2.1",
+      "apunimi": "",
+      "tyyppi": 1,
+      "sijainti": "508, 255",
+      "joukot": {
+        "WildlifeCavalry": 5,
+        "WildlifeMilitia": 5
+      }
+    },
+    {
+      "tunniste": 19537,
+      "sektori": 3,
+      "oletusnimi": "3.2",
+      "apunimi": "",
+      "tyyppi": 2,
+      "sijainti": "223, 100",
+      "joukot": {
+        "CultRecruit": 10,
+        "CultCrossbowman": 5,
+        "CultCavalry": 10
+      }
+    },
+    {
+      "tunniste": 19950,
+      "sektori": 5,
+      "oletusnimi": "5.1",
+      "apunimi": "",
+      "tyyppi": 2,
+      "sijainti": "436, 28",
+      "joukot": {
+        "CultRecruit": 20,
+        "DragonBoss": 1
+      }
+    }
+  ]
+}

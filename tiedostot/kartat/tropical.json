@@ -1,0 +1,137 @@
+{
+  "tiedostonimi": "tropical",
+  "tunniste": "MiadTropicalSun",
+  "nimi": "Tropical Sun",
+  "tyyppi": "Mini",
+  "ryhmitysnro": 1,
+  "xp": 2850,
+  "pelaajia": 1,
+  "yksiköt": [
+    "BanditRecruit",
+    "BanditMilitia",
+    "BanditCavalry",
+    "BanditSoldier",
+    "BanditLongbowman",
+    "PirateCavalry",
+    "PirateMilitia",
+    "PirateBoss1",
+    "PirateBowman",
+    "PirateLongbowman",
+    "PirateCaptain",
+    "BanditBoss1"
+  ],
+  "leirit": [
+    {
+      "tunniste": 10157,
+      "sektori": 1,
+      "oletusnimi": "1.3",
+      "apunimi": "",
+      "tyyppi": 1,
+      "sijainti": "189, 254",
+      "joukot": {
+        "PirateCavalry": 20,
+        "PirateBoss1": 1,
+        "PirateBowman": 20,
+        "PirateCaptain": 20
+      }
+    },
+    {
+      "tunniste": 10570,
+      "sektori": 2,
+      "oletusnimi": "2.2",
+      "apunimi": "",
+      "tyyppi": 1,
+      "sijainti": "180, 77",
+      "joukot": {
+        "BanditCavalry": 60,
+        "BanditLongbowman": 30
+      }
+    },
+    {
+      "tunniste": 10955,
+      "sektori": 1,
+      "oletusnimi": "1.1",
+      "apunimi": "",
+      "tyyppi": 1,
+      "sijainti": "368, 255",
+      "joukot": {
+        "BanditRecruit": 30,
+        "BanditLongbowman": 30
+      }
+    },
+    {
+      "tunniste": 11777,
+      "sektori": 2,
+      "oletusnimi": "2.4",
+      "apunimi": "",
+      "tyyppi": 2,
+      "sijainti": "109, 115",
+      "joukot": {
+        "BanditMilitia": 30,
+        "BanditCavalry": 50,
+        "BanditBoss1": 1
+      }
+    },
+    {
+      "tunniste": 15876,
+      "sektori": 1,
+      "oletusnimi": "1.2",
+      "apunimi": "",
+      "tyyppi": 1,
+      "sijainti": "230, 289",
+      "joukot": {
+        "BanditRecruit": 30,
+        "BanditCavalry": 30
+      }
+    },
+    {
+      "tunniste": 16379,
+      "sektori": 1,
+      "oletusnimi": "1.5",
+      "apunimi": "",
+      "tyyppi": 1,
+      "sijainti": "277, 124",
+      "joukot": {
+        "PirateMilitia": 40,
+        "PirateLongbowman": 40,
+        "PirateCavalry": 20
+      }
+    },
+    {
+      "tunniste": 16713,
+      "sektori": 1,
+      "oletusnimi": "1.4",
+      "apunimi": "",
+      "tyyppi": 1,
+      "sijainti": "282, 196",
+      "joukot": {
+        "PirateMilitia": 50,
+        "PirateCavalry": 40
+      }
+    },
+    {
+      "tunniste": 19727,
+      "sektori": 2,
+      "oletusnimi": "2.1",
+      "apunimi": "",
+      "tyyppi": 1,
+      "sijainti": "231, 108",
+      "joukot": {
+        "BanditCavalry": 50,
+        "BanditLongbowman": 40
+      }
+    },
+    {
+      "tunniste": 19737,
+      "sektori": 2,
+      "oletusnimi": "2.3",
+      "apunimi": "",
+      "tyyppi": 1,
+      "sijainti": "180, 139",
+      "joukot": {
+        "BanditSoldier": 60,
+        "BanditLongbowman": 30
+      }
+    }
+  ]
+}

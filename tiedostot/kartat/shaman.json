@@ -1,0 +1,238 @@
+{
+  "tiedostonimi": "shaman",
+  "tunniste": "Birthday2013MilitaryAdventure1",
+  "nimi": "The Shaman",
+  "tyyppi": "Mission",
+  "teema": "Retro",
+  "xp": 14960,
+  "pelaajia": 1,
+  "yksiköt": [
+    "BanditRecruit",
+    "BanditMilitia",
+    "BanditCavalry",
+    "BanditBowman",
+    "BanditLongbowman",
+    "CultRecruit",
+    "CultBoss1",
+    "CultCavalry",
+    "CultBowman",
+    "CultLongbowman",
+    "CultCrossbowman",
+    "CultCanoneer",
+    "BanditBoss1",
+    "BanditBoss2",
+    "BirthdayShaman"
+  ],
+  "leirit": [
+    {
+      "tunniste": 10093,
+      "sektori": 2,
+      "oletusnimi": "2.1",
+      "apunimi": "",
+      "tyyppi": 1,
+      "sijainti": "264, 279",
+      "joukot": {
+        "BanditRecruit": 80,
+        "BanditMilitia": 100
+      }
+    },
+    {
+      "tunniste": 10310,
+      "sektori": 3,
+      "oletusnimi": "3.4",
+      "apunimi": "",
+      "tyyppi": 1,
+      "sijainti": "439, 184",
+      "joukot": {
+        "BanditMilitia": 160
+      }
+    },
+    {
+      "tunniste": 10468,
+      "sektori": 4,
+      "oletusnimi": "4.5",
+      "apunimi": "",
+      "tyyppi": 2,
+      "sijainti": "181, 104",
+      "joukot": {
+        "CultRecruit": 100,
+        "CultBoss1": 1,
+        "BirthdayShaman": 1
+      }
+    },
+    {
+      "tunniste": 10506,
+      "sektori": 4,
+      "oletusnimi": "4.1",
+      "apunimi": "",
+      "tyyppi": 1,
+      "sijainti": "351, 116",
+      "joukot": {
+        "CultRecruit": 60,
+        "CultLongbowman": 60,
+        "CultCavalry": 80
+      }
+    },
+    {
+      "tunniste": 10892,
+      "sektori": 2,
+      "oletusnimi": "2.4",
+      "apunimi": "",
+      "tyyppi": 2,
+      "sijainti": "358, 368",
+      "joukot": {
+        "BanditRecruit": 100,
+        "BanditCavalry": 80,
+        "BanditBoss1": 1
+      }
+    },
+    {
+      "tunniste": 11167,
+      "sektori": 3,
+      "oletusnimi": "3.5",
+      "apunimi": "",
+      "tyyppi": 2,
+      "sijainti": "433, 151",
+      "joukot": {
+        "BanditRecruit": 80,
+        "BanditLongbowman": 100,
+        "BanditBoss2": 1
+      }
+    },
+    {
+      "tunniste": 11576,
+      "sektori": 1,
+      "oletusnimi": "1.3",
+      "apunimi": "",
+      "tyyppi": 2,
+      "sijainti": "188, 255",
+      "joukot": {
+        "BanditRecruit": 50,
+        "BanditBowman": 80,
+        "BanditCavalry": 50
+      }
+    },
+    {
+      "tunniste": 13378,
+      "sektori": 3,
+      "oletusnimi": "3.1",
+      "apunimi": "",
+      "tyyppi": 1,
+      "sijainti": "509, 337",
+      "joukot": {
+        "BanditRecruit": 100,
+        "BanditCavalry": 80
+      }
+    },
+    {
+      "tunniste": 15824,
+      "sektori": 4,
+      "oletusnimi": "4.4",
+      "apunimi": "",
+      "tyyppi": 1,
+      "sijainti": "187, 123",
+      "joukot": {
+        "CultRecruit": 80,
+        "CultCrossbowman": 50,
+        "CultCavalry": 60
+      }
+    },
+    {
+      "tunniste": 16265,
+      "sektori": 4,
+      "oletusnimi": "4.2",
+      "apunimi": "",
+      "tyyppi": 1,
+      "sijainti": "296, 151",
+      "joukot": {
+        "CultRecruit": 80,
+        "CultBowman": 80
+      }
+    },
+    {
+      "tunniste": 16327,
+      "sektori": 2,
+      "oletusnimi": "2.2",
+      "apunimi": "",
+      "tyyppi": 1,
+      "sijainti": "326, 340",
+      "joukot": {
+        "BanditRecruit": 90,
+        "BanditLongbowman": 80
+      }
+    },
+    {
+      "tunniste": 16645,
+      "sektori": 1,
+      "oletusnimi": "1.2",
+      "apunimi": "",
+      "tyyppi": 1,
+      "sijainti": "180, 235",
+      "joukot": {
+        "BanditRecruit": 80
+      }
+    },
+    {
+      "tunniste": 16833,
+      "sektori": 3,
+      "oletusnimi": "3.3",
+      "apunimi": "",
+      "tyyppi": 1,
+      "sijainti": "496, 244",
+      "joukot": {
+        "BanditRecruit": 100,
+        "BanditBowman": 50,
+        "BanditCavalry": 40
+      }
+    },
+    {
+      "tunniste": 17505,
+      "sektori": 3,
+      "oletusnimi": "3.2",
+      "apunimi": "",
+      "tyyppi": 1,
+      "sijainti": "534, 289",
+      "joukot": {
+        "BanditCavalry": 100,
+        "BanditLongbowman": 80
+      }
+    },
+    {
+      "tunniste": 18414,
+      "sektori": 4,
+      "oletusnimi": "4.3",
+      "apunimi": "",
+      "tyyppi": 1,
+      "sijainti": "212, 99",
+      "joukot": {
+        "CultCrossbowman": 80,
+        "CultCavalry": 40,
+        "CultCanoneer": 80
+      }
+    },
+    {
+      "tunniste": 18939,
+      "sektori": 1,
+      "oletusnimi": "1.1",
+      "apunimi": "",
+      "tyyppi": 1,
+      "sijainti": "148, 286",
+      "joukot": {
+        "BanditRecruit": 100,
+        "BanditLongbowman": 50
+      }
+    },
+    {
+      "tunniste": 19589,
+      "sektori": 2,
+      "oletusnimi": "2.3",
+      "apunimi": "",
+      "tyyppi": 1,
+      "sijainti": "376, 348",
+      "joukot": {
+        "BanditRecruit": 80,
+        "BanditBowman": 80
+      }
+    }
+  ]
+}

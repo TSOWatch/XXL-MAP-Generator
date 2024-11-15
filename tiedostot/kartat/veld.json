@@ -1,0 +1,528 @@
+{
+  "tiedostonimi": "veld",
+  "tunniste": "SonsOfTheVeld",
+  "nimi": "Sons Of The Veld",
+  "tyyppi": "Mission",
+  "ryhmitysnro": 2,
+  "xp": 33440,
+  "pelaajia": 2,
+  "yksiköt": [
+    "BanditBoss4",
+    "BanditBoss3",
+    "BanditRecruit",
+    "BanditMilitia",
+    "BanditCavalry",
+    "BanditSoldier",
+    "BanditBowman",
+    "BanditLongbowman",
+    "BanditBoss1",
+    "BanditBoss2"
+  ],
+  "leirit": [
+    {
+      "tunniste": 10157,
+      "sektori": 5,
+      "apunimi": "",
+      "tyyppi": 1,
+      "sijainti": "384, 106",
+      "joukot": {
+        "BanditSoldier": 50,
+        "BanditLongbowman": 80
+      }
+    },
+    {
+      "tunniste": 10180,
+      "sektori": 1,
+      "apunimi": "",
+      "tyyppi": 1,
+      "sijainti": "243, 267",
+      "joukot": {
+        "BanditMilitia": 160
+      }
+    },
+    {
+      "tunniste": 10412,
+      "sektori": 5,
+      "apunimi": "",
+      "tyyppi": 2,
+      "sijainti": "427, 132",
+      "joukot": {
+        "BanditCavalry": 50,
+        "BanditSoldier": 50,
+        "BanditBoss1": 1,
+        "BanditBoss2": 2
+      }
+    },
+    {
+      "tunniste": 10652,
+      "sektori": 5,
+      "apunimi": "",
+      "tyyppi": 2,
+      "sijainti": "308, 71",
+      "joukot": {
+        "BanditCavalry": 60,
+        "BanditSoldier": 60,
+        "BanditLongbowman": 60,
+        "BanditBoss3": 1
+      }
+    },
+    {
+      "tunniste": 10693,
+      "sektori": 6,
+      "apunimi": "",
+      "tyyppi": 1,
+      "sijainti": "529, 201",
+      "joukot": {
+        "BanditCavalry": 100,
+        "BanditSoldier": 100
+      }
+    },
+    {
+      "tunniste": 11135,
+      "sektori": 6,
+      "apunimi": "",
+      "tyyppi": 1,
+      "sijainti": "511, 190",
+      "joukot": {
+        "BanditSoldier": 150
+      }
+    },
+    {
+      "tunniste": 11216,
+      "sektori": 2,
+      "apunimi": "",
+      "tyyppi": 1,
+      "sijainti": "369, 282",
+      "joukot": {
+        "BanditSoldier": 50,
+        "BanditLongbowman": 80
+      }
+    },
+    {
+      "tunniste": 11666,
+      "sektori": 4,
+      "apunimi": "",
+      "tyyppi": 2,
+      "sijainti": "233, 111",
+      "joukot": {
+        "BanditMilitia": 100,
+        "BanditLongbowman": 80,
+        "BanditBoss1": 2
+      }
+    },
+    {
+      "tunniste": 11914,
+      "sektori": 2,
+      "apunimi": "",
+      "tyyppi": 1,
+      "sijainti": "276, 218",
+      "joukot": {
+        "BanditMilitia": 100,
+        "BanditCavalry": 80
+      }
+    },
+    {
+      "tunniste": 12402,
+      "sektori": 3,
+      "apunimi": "",
+      "tyyppi": 1,
+      "sijainti": "107, 208",
+      "joukot": {
+        "BanditMilitia": 50,
+        "BanditCavalry": 100,
+        "BanditLongbowman": 60
+      }
+    },
+    {
+      "tunniste": 12617,
+      "sektori": 1,
+      "apunimi": "",
+      "tyyppi": 2,
+      "sijainti": "197, 307",
+      "joukot": {
+        "BanditMilitia": 50,
+        "BanditBowman": 80,
+        "BanditCavalry": 50,
+        "BanditBoss2": 1
+      }
+    },
+    {
+      "tunniste": 12881,
+      "sektori": 2,
+      "apunimi": "",
+      "tyyppi": 2,
+      "sijainti": "322, 304",
+      "joukot": {
+        "BanditCavalry": 60,
+        "BanditSoldier": 60,
+        "BanditLongbowman": 60,
+        "BanditBoss3": 1
+      }
+    },
+    {
+      "tunniste": 12939,
+      "sektori": 4,
+      "apunimi": "",
+      "tyyppi": 1,
+      "sijainti": "206, 102",
+      "joukot": {
+        "BanditCavalry": 200
+      }
+    },
+    {
+      "tunniste": 13186,
+      "sektori": 3,
+      "apunimi": "",
+      "tyyppi": 1,
+      "sijainti": "149, 186",
+      "joukot": {
+        "BanditRecruit": 100,
+        "BanditCavalry": 100
+      }
+    },
+    {
+      "tunniste": 13189,
+      "sektori": 5,
+      "apunimi": "",
+      "tyyppi": 1,
+      "sijainti": "267, 68",
+      "joukot": {
+        "BanditMilitia": 100,
+        "BanditCavalry": 80
+      }
+    },
+    {
+      "tunniste": 13574,
+      "sektori": 5,
+      "apunimi": "",
+      "tyyppi": 1,
+      "sijainti": "267, 109",
+      "joukot": {
+        "BanditCavalry": 100,
+        "BanditLongbowman": 80
+      }
+    },
+    {
+      "tunniste": 13598,
+      "sektori": 3,
+      "apunimi": "",
+      "tyyppi": 2,
+      "sijainti": "87, 194",
+      "joukot": {
+        "BanditCavalry": 50,
+        "BanditSoldier": 50,
+        "BanditLongbowman": 80,
+        "BanditBoss3": 1
+      }
+    },
+    {
+      "tunniste": 13740,
+      "sektori": 3,
+      "apunimi": "",
+      "tyyppi": 1,
+      "sijainti": "107, 195",
+      "joukot": {
+        "BanditMilitia": 100,
+        "BanditCavalry": 80,
+        "BanditLongbowman": 40
+      }
+    },
+    {
+      "tunniste": 13912,
+      "sektori": 4,
+      "apunimi": "",
+      "tyyppi": 1,
+      "sijainti": "197, 153",
+      "joukot": {
+        "BanditMilitia": 160
+      }
+    },
+    {
+      "tunniste": 13980,
+      "sektori": 2,
+      "apunimi": "",
+      "tyyppi": 1,
+      "sijainti": "322, 271",
+      "joukot": {
+        "BanditCavalry": 100,
+        "BanditSoldier": 50
+      }
+    },
+    {
+      "tunniste": 14095,
+      "sektori": 6,
+      "apunimi": "",
+      "tyyppi": 2,
+      "sijainti": "543, 209",
+      "joukot": {
+        "BanditCavalry": 50,
+        "BanditSoldier": 70,
+        "BanditLongbowman": 60,
+        "BanditBoss4": 1
+      }
+    },
+    {
+      "tunniste": 14128,
+      "sektori": 5,
+      "apunimi": "",
+      "tyyppi": 2,
+      "sijainti": "341, 172",
+      "joukot": {
+        "BanditSoldier": 50,
+        "BanditLongbowman": 50,
+        "BanditBoss1": 1,
+        "BanditBoss2": 1
+      }
+    },
+    {
+      "tunniste": 14796,
+      "sektori": 2,
+      "apunimi": "",
+      "tyyppi": 1,
+      "sijainti": "290, 250",
+      "joukot": {
+        "BanditCavalry": 100,
+        "BanditLongbowman": 80
+      }
+    },
+    {
+      "tunniste": 14993,
+      "sektori": 5,
+      "apunimi": "",
+      "tyyppi": 1,
+      "sijainti": "328, 148",
+      "joukot": {
+        "BanditCavalry": 100,
+        "BanditSoldier": 50
+      }
+    },
+    {
+      "tunniste": 15000,
+      "sektori": 4,
+      "apunimi": "",
+      "tyyppi": 1,
+      "sijainti": "149, 77",
+      "joukot": {
+        "BanditMilitia": 80,
+        "BanditBowman": 80
+      }
+    },
+    {
+      "tunniste": 15007,
+      "sektori": 2,
+      "apunimi": "",
+      "tyyppi": 2,
+      "sijainti": "415, 270",
+      "joukot": {
+        "BanditSoldier": 50,
+        "BanditLongbowman": 50,
+        "BanditBoss1": 1,
+        "BanditBoss2": 1
+      }
+    },
+    {
+      "tunniste": 15222,
+      "sektori": 5,
+      "apunimi": "",
+      "tyyppi": 1,
+      "sijainti": "351, 121",
+      "joukot": {
+        "BanditCavalry": 55,
+        "BanditSoldier": 55,
+        "BanditLongbowman": 55
+      }
+    },
+    {
+      "tunniste": 15250,
+      "sektori": 4,
+      "apunimi": "",
+      "tyyppi": 1,
+      "sijainti": "162, 121",
+      "joukot": {
+        "BanditRecruit": 100,
+        "BanditLongbowman": 80
+      }
+    },
+    {
+      "tunniste": 15622,
+      "sektori": 1,
+      "apunimi": "",
+      "tyyppi": 1,
+      "sijainti": "196, 291",
+      "joukot": {
+        "BanditRecruit": 100,
+        "BanditLongbowman": 80
+      }
+    },
+    {
+      "tunniste": 15752,
+      "sektori": 2,
+      "apunimi": "",
+      "tyyppi": 1,
+      "sijainti": "361, 242",
+      "joukot": {
+        "BanditCavalry": 55,
+        "BanditSoldier": 55,
+        "BanditLongbowman": 55
+      }
+    },
+    {
+      "tunniste": 15862,
+      "sektori": 4,
+      "apunimi": "",
+      "tyyppi": 2,
+      "sijainti": "181, 69",
+      "joukot": {
+        "BanditMilitia": 60,
+        "BanditCavalry": 60,
+        "BanditBoss1": 1,
+        "BanditBoss2": 1
+      }
+    },
+    {
+      "tunniste": 15978,
+      "sektori": 1,
+      "apunimi": "",
+      "tyyppi": 1,
+      "sijainti": "239, 231",
+      "joukot": {
+        "BanditCavalry": 200
+      }
+    },
+    {
+      "tunniste": 16020,
+      "sektori": 1,
+      "apunimi": "",
+      "tyyppi": 1,
+      "sijainti": "149, 267",
+      "joukot": {
+        "BanditMilitia": 80,
+        "BanditBowman": 80
+      }
+    },
+    {
+      "tunniste": 16801,
+      "sektori": 3,
+      "apunimi": "",
+      "tyyppi": 1,
+      "sijainti": "163, 207",
+      "joukot": {
+        "BanditMilitia": 80,
+        "BanditLongbowman": 80
+      }
+    },
+    {
+      "tunniste": 17536,
+      "sektori": 6,
+      "apunimi": "",
+      "tyyppi": 1,
+      "sijainti": "534, 221",
+      "joukot": {
+        "BanditSoldier": 100,
+        "BanditLongbowman": 100
+      }
+    },
+    {
+      "tunniste": 17621,
+      "sektori": 2,
+      "apunimi": "",
+      "tyyppi": 2,
+      "sijainti": "378, 212",
+      "joukot": {
+        "BanditCavalry": 50,
+        "BanditSoldier": 50,
+        "BanditBoss1": 1,
+        "BanditBoss2": 2
+      }
+    },
+    {
+      "tunniste": 17789,
+      "sektori": 6,
+      "apunimi": "",
+      "tyyppi": 1,
+      "sijainti": "507, 209",
+      "joukot": {
+        "BanditSoldier": 150
+      }
+    },
+    {
+      "tunniste": 18192,
+      "sektori": 2,
+      "apunimi": "",
+      "tyyppi": 1,
+      "sijainti": "276, 306",
+      "joukot": {
+        "BanditBowman": 80,
+        "BanditSoldier": 50
+      }
+    },
+    {
+      "tunniste": 18887,
+      "sektori": 5,
+      "apunimi": "",
+      "tyyppi": 1,
+      "sijainti": "319, 100",
+      "joukot": {
+        "BanditBowman": 80,
+        "BanditSoldier": 50
+      }
+    },
+    {
+      "tunniste": 19047,
+      "sektori": 6,
+      "apunimi": "",
+      "tyyppi": 1,
+      "sijainti": "515, 234",
+      "joukot": {
+        "BanditSoldier": 150
+      }
+    },
+    {
+      "tunniste": 19343,
+      "sektori": 1,
+      "apunimi": "",
+      "tyyppi": 1,
+      "sijainti": "186, 250",
+      "joukot": {
+        "BanditCavalry": 80,
+        "BanditLongbowman": 80
+      }
+    },
+    {
+      "tunniste": 19411,
+      "sektori": 4,
+      "apunimi": "",
+      "tyyppi": 2,
+      "sijainti": "153, 148",
+      "joukot": {
+        "BanditMilitia": 50,
+        "BanditBowman": 80,
+        "BanditCavalry": 50,
+        "BanditBoss2": 1
+      }
+    },
+    {
+      "tunniste": 19533,
+      "sektori": 1,
+      "apunimi": "",
+      "tyyppi": 2,
+      "sijainti": "191, 229",
+      "joukot": {
+        "BanditMilitia": 100,
+        "BanditLongbowman": 80,
+        "BanditBoss1": 2
+      }
+    },
+    {
+      "tunniste": 19755,
+      "sektori": 4,
+      "apunimi": "",
+      "tyyppi": 1,
+      "sijainti": "220, 69",
+      "joukot": {
+        "BanditCavalry": 80,
+        "BanditLongbowman": 80
+      }
+    }
+  ]
+}

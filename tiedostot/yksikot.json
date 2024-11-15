@@ -1,0 +1,3952 @@
+[
+  {
+    "nro": 0,
+    "tunniste": "Missing",
+    "nimi": "Missing"
+  },
+  {
+    "nro": 1,
+    "ryhmitys": 1,
+    "tunniste": "Recruit",
+    "nimi": "Recruit",
+    "luokitus": 6,
+    "pelaajayksikkö": true,
+    "barracksAika": 180,
+    "elämäpisteet": 40,
+    "osumatarkkuus": 80,
+    "osumavahinkoMin": 15,
+    "osumavahinkoMax": 30,
+    "hyökkäysjärjestys": 2,
+    "kokemuspisteet": 2
+  },
+  {
+    "nro": 2,
+    "ryhmitys": 1,
+    "tunniste": "Militia",
+    "nimi": "Militia",
+    "luokitus": 6,
+    "pelaajayksikkö": true,
+    "barracksAika": 480,
+    "elämäpisteet": 60,
+    "osumatarkkuus": 80,
+    "osumavahinkoMin": 20,
+    "osumavahinkoMax": 40,
+    "hyökkäysjärjestys": 2,
+    "kokemuspisteet": 9
+  },
+  {
+    "nro": 6,
+    "ryhmitys": 1,
+    "tunniste": "Bowman",
+    "nimi": "Bowman",
+    "luokitus": 3,
+    "pelaajayksikkö": true,
+    "barracksAika": 240,
+    "elämäpisteet": 10,
+    "osumatarkkuus": 80,
+    "osumavahinkoMin": 20,
+    "osumavahinkoMax": 40,
+    "hyökkäysjärjestys": 2,
+    "kokemuspisteet": 3
+  },
+  {
+    "nro": 5,
+    "ryhmitys": 1,
+    "tunniste": "Cavalry",
+    "nimi": "Cavalry",
+    "luokitus": 4,
+    "pelaajayksikkö": true,
+    "barracksAika": 720,
+    "elämäpisteet": 5,
+    "osumatarkkuus": 80,
+    "osumavahinkoMin": 5,
+    "osumavahinkoMax": 10,
+    "hyökkäysjärjestys": 1,
+    "kokemuspisteet": 8,
+    "taidot": [
+      "UnitSkillFirstStrike",
+      "UnitSkillAttackWeakestTarget"
+    ]
+  },
+  {
+    "nro": 3,
+    "ryhmitys": 1,
+    "tunniste": "Soldier",
+    "nimi": "Soldier",
+    "luokitus": 6,
+    "pelaajayksikkö": true,
+    "barracksAika": 720,
+    "elämäpisteet": 90,
+    "osumatarkkuus": 85,
+    "osumavahinkoMin": 20,
+    "osumavahinkoMax": 40,
+    "hyökkäysjärjestys": 2,
+    "kokemuspisteet": 6
+  },
+  {
+    "nro": 7,
+    "ryhmitys": 1,
+    "tunniste": "Longbowman",
+    "nimi": "Longbowman",
+    "luokitus": 3,
+    "pelaajayksikkö": true,
+    "barracksAika": 480,
+    "elämäpisteet": 10,
+    "osumatarkkuus": 80,
+    "osumavahinkoMin": 30,
+    "osumavahinkoMax": 60,
+    "hyökkäysjärjestys": 2,
+    "kokemuspisteet": 8
+  },
+  {
+    "nro": 4,
+    "ryhmitys": 1,
+    "tunniste": "EliteSoldier",
+    "nimi": "Elite Soldier",
+    "luokitus": 6,
+    "pelaajayksikkö": true,
+    "barracksAika": 1200,
+    "elämäpisteet": 120,
+    "osumatarkkuus": 90,
+    "osumavahinkoMin": 20,
+    "osumavahinkoMax": 40,
+    "hyökkäysjärjestys": 2,
+    "kokemuspisteet": 20
+  },
+  {
+    "nro": 8,
+    "ryhmitys": 1,
+    "tunniste": "Crossbowman",
+    "nimi": "Crossbowman",
+    "luokitus": 3,
+    "pelaajayksikkö": true,
+    "barracksAika": 720,
+    "elämäpisteet": 10,
+    "osumatarkkuus": 80,
+    "osumavahinkoMin": 45,
+    "osumavahinkoMax": 90,
+    "hyökkäysjärjestys": 2,
+    "kokemuspisteet": 20
+  },
+  {
+    "nro": 9,
+    "ryhmitys": 1,
+    "tunniste": "Cannoneer",
+    "nimi": "Cannoneer",
+    "luokitus": 5,
+    "pelaajayksikkö": true,
+    "barracksAika": 1200,
+    "elämäpisteet": 60,
+    "osumatarkkuus": 90,
+    "osumavahinkoMin": 60,
+    "osumavahinkoMax": 120,
+    "hyökkäysjärjestys": 3,
+    "kokemuspisteet": 30,
+    "taidot": [
+      "UnitSkillBonusDamageBuildings",
+      "UnitSkillLastStrike"
+    ]
+  },
+  {
+    "nro": 10,
+    "ryhmitys": 1,
+    "tunniste": "Swordsman",
+    "nimi": "Swordsman",
+    "luokitus": 6,
+    "pelaajayksikkö": true,
+    "barracksAika": 900,
+    "elämäpisteet": 150,
+    "osumatarkkuus": 90,
+    "osumavahinkoMin": 40,
+    "osumavahinkoMax": 80,
+    "hyökkäysjärjestys": 2,
+    "kokemuspisteet": 49
+  },
+  {
+    "nro": 11,
+    "ryhmitys": 1,
+    "tunniste": "MountedSwordsman",
+    "nimi": "Mounted Swordsman",
+    "luokitus": 6,
+    "pelaajayksikkö": true,
+    "barracksAika": 1800,
+    "elämäpisteet": 250,
+    "osumatarkkuus": 90,
+    "osumavahinkoMin": 25,
+    "osumavahinkoMax": 50,
+    "hyökkäysjärjestys": 2,
+    "kokemuspisteet": 66
+  },
+  {
+    "nro": 12,
+    "ryhmitys": 1,
+    "tunniste": "Knight",
+    "nimi": "Knight",
+    "luokitus": 4,
+    "pelaajayksikkö": true,
+    "barracksAika": 1200,
+    "elämäpisteet": 80,
+    "osumatarkkuus": 90,
+    "osumavahinkoMin": 35,
+    "osumavahinkoMax": 70,
+    "hyökkäysjärjestys": 1,
+    "kokemuspisteet": 18,
+    "taidot": [
+      "UnitSkillFirstStrike"
+    ]
+  },
+  {
+    "nro": 13,
+    "ryhmitys": 1,
+    "tunniste": "Marksman",
+    "nimi": "Marksman",
+    "luokitus": 3,
+    "pelaajayksikkö": true,
+    "barracksAika": 900,
+    "elämäpisteet": 50,
+    "osumatarkkuus": 90,
+    "osumavahinkoMin": 50,
+    "osumavahinkoMax": 100,
+    "hyökkäysjärjestys": 2,
+    "kokemuspisteet": 21
+  },
+  {
+    "nro": 14,
+    "ryhmitys": 1,
+    "tunniste": "ArmoredMarksman",
+    "nimi": "Armored Marksman",
+    "luokitus": 3,
+    "pelaajayksikkö": true,
+    "barracksAika": 1800,
+    "elämäpisteet": 50,
+    "osumatarkkuus": 90,
+    "osumavahinkoMin": 100,
+    "osumavahinkoMax": 200,
+    "hyökkäysjärjestys": 2,
+    "kokemuspisteet": 69,
+    "taidot": [
+      "UnitSkillAttackWeakestTarget"
+    ]
+  },
+  {
+    "nro": 15,
+    "ryhmitys": 1,
+    "tunniste": "MountedMarksman",
+    "nimi": "Mounted Marksman",
+    "luokitus": 4,
+    "pelaajayksikkö": true,
+    "barracksAika": 1800,
+    "elämäpisteet": 50,
+    "osumatarkkuus": 90,
+    "osumavahinkoMin": 50,
+    "osumavahinkoMax": 100,
+    "hyökkäysjärjestys": 1,
+    "kokemuspisteet": 38,
+    "taidot": [
+      "UnitSkillFirstStrike",
+      "UnitSkillSplashDamage"
+    ]
+  },
+  {
+    "nro": 16,
+    "ryhmitys": 1,
+    "tunniste": "Besieger",
+    "nimi": "Besieger",
+    "luokitus": 5,
+    "pelaajayksikkö": true,
+    "barracksAika": 1200,
+    "elämäpisteet": 80,
+    "osumatarkkuus": 90,
+    "osumavahinkoMin": 100,
+    "osumavahinkoMax": 200,
+    "hyökkäysjärjestys": 3,
+    "kokemuspisteet": 70,
+    "taidot": [
+      "UnitSkillBonusDamageBuildings",
+      "UnitSkillLastStrike",
+      "UnitSkillSplashDamage"
+    ]
+  },
+  {
+    "nro": 50,
+    "ryhmitys": 1,
+    "tunniste": "TMC_BossFrostBearMatriarch",
+    "nimi": "Frost Bear Matriarch",
+    "luokitus": 2,
+    "elämäpisteet": 600000,
+    "osumatarkkuus": 85,
+    "osumavahinkoMin": 300,
+    "osumavahinkoMax": 600,
+    "hyökkäysjärjestys": 1,
+    "kokemuspisteet": 60000,
+    "taidot": [
+      "UnitSkillAttackWeakestTarget",
+      "UnitSkillSplashDamage",
+      "UnitSkillFirstStrike"
+    ]
+  },
+  {
+    "nro": 51,
+    "ryhmitys": 1,
+    "tunniste": "TMC_BossRavagingOx",
+    "nimi": "Ravaging Ox",
+    "luokitus": 2,
+    "elämäpisteet": 100000,
+    "osumatarkkuus": 50,
+    "osumavahinkoMin": 600,
+    "osumavahinkoMax": 800,
+    "hyökkäysjärjestys": 1,
+    "kokemuspisteet": 10000,
+    "taidot": [
+      "UnitSkillSplashDamage",
+      "UnitSkillFirstStrike"
+    ]
+  },
+  {
+    "nro": 52,
+    "ryhmitys": 1,
+    "tunniste": "TMC_BossGargantuanLynx",
+    "nimi": "Gargantuan Lynx",
+    "luokitus": 2,
+    "elämäpisteet": 20000,
+    "osumatarkkuus": 50,
+    "osumavahinkoMin": 2500,
+    "osumavahinkoMax": 3500,
+    "hyökkäysjärjestys": 1,
+    "kokemuspisteet": 7200,
+    "taidot": [
+      "UnitSkillSplashDamage",
+      "UnitSkillFirstStrike"
+    ]
+  },
+  {
+    "nro": 100,
+    "ryhmitys": 1,
+    "tunniste": "BanditBoss5",
+    "nimi": "Wild Mary",
+    "luokitus": 2,
+    "elämäpisteet": 60000,
+    "osumatarkkuus": 50,
+    "osumavahinkoMin": 740,
+    "osumavahinkoMax": 800,
+    "hyökkäysjärjestys": 1,
+    "kokemuspisteet": 430,
+    "taidot": [
+      "UnitSkillFirstStrike",
+      "UnitSkillSplashDamage"
+    ]
+  },
+  {
+    "nro": 101,
+    "ryhmitys": 1,
+    "tunniste": "BanditBoss4",
+    "nimi": "Chuck",
+    "luokitus": 2,
+    "elämäpisteet": 9000,
+    "osumatarkkuus": 50,
+    "osumavahinkoMin": 2000,
+    "osumavahinkoMax": 2500,
+    "hyökkäysjärjestys": 3,
+    "kokemuspisteet": 250,
+    "taidot": [
+      "UnitSkillLastStrike",
+      "UnitSkillSplashDamage"
+    ]
+  },
+  {
+    "nro": 102,
+    "ryhmitys": 1,
+    "tunniste": "BanditBoss3",
+    "nimi": "Metal Tooth",
+    "luokitus": 2,
+    "elämäpisteet": 11000,
+    "osumatarkkuus": 50,
+    "osumavahinkoMin": 250,
+    "osumavahinkoMax": 500,
+    "hyökkäysjärjestys": 3,
+    "kokemuspisteet": 160,
+    "taidot": [
+      "UnitSkillLastStrike",
+      "UnitSkillSplashDamage"
+    ]
+  },
+  {
+    "nro": 103,
+    "ryhmitys": 1,
+    "tunniste": "BanditRecruit",
+    "nimi": "Scavenger",
+    "luokitus": 6,
+    "elämäpisteet": 40,
+    "osumatarkkuus": 60,
+    "osumavahinkoMin": 15,
+    "osumavahinkoMax": 30,
+    "hyökkäysjärjestys": 2,
+    "kokemuspisteet": 4
+  },
+  {
+    "nro": 104,
+    "ryhmitys": 1,
+    "tunniste": "BanditMilitia",
+    "nimi": "Thug",
+    "luokitus": 6,
+    "elämäpisteet": 60,
+    "osumatarkkuus": 60,
+    "osumavahinkoMin": 20,
+    "osumavahinkoMax": 40,
+    "hyökkäysjärjestys": 2,
+    "kokemuspisteet": 3
+  },
+  {
+    "nro": 105,
+    "ryhmitys": 1,
+    "tunniste": "BanditCavalry",
+    "nimi": "Guard Dog",
+    "luokitus": 4,
+    "elämäpisteet": 5,
+    "osumatarkkuus": 60,
+    "osumavahinkoMin": 5,
+    "osumavahinkoMax": 10,
+    "hyökkäysjärjestys": 1,
+    "kokemuspisteet": 4,
+    "taidot": [
+      "UnitSkillFirstStrike",
+      "UnitSkillAttackWeakestTarget"
+    ]
+  },
+  {
+    "nro": 106,
+    "ryhmitys": 1,
+    "tunniste": "BanditSoldier",
+    "nimi": "Roughneck",
+    "luokitus": 6,
+    "elämäpisteet": 90,
+    "osumatarkkuus": 60,
+    "osumavahinkoMin": 20,
+    "osumavahinkoMax": 40,
+    "hyökkäysjärjestys": 2,
+    "kokemuspisteet": 6
+  },
+  {
+    "nro": 107,
+    "ryhmitys": 1,
+    "tunniste": "BanditBowman",
+    "nimi": "Stone Thrower",
+    "luokitus": 3,
+    "elämäpisteet": 10,
+    "osumatarkkuus": 60,
+    "osumavahinkoMin": 20,
+    "osumavahinkoMax": 40,
+    "hyökkäysjärjestys": 2,
+    "kokemuspisteet": 3
+  },
+  {
+    "nro": 108,
+    "ryhmitys": 1,
+    "tunniste": "BanditLongbowman",
+    "nimi": "Ranger",
+    "luokitus": 3,
+    "elämäpisteet": 10,
+    "osumatarkkuus": 60,
+    "osumavahinkoMin": 30,
+    "osumavahinkoMax": 60,
+    "hyökkäysjärjestys": 2,
+    "kokemuspisteet": 4
+  },
+  {
+    "nro": 110,
+    "ryhmitys": 1,
+    "tunniste": "PirateCavalry",
+    "nimi": "Caltrop",
+    "luokitus": 4,
+    "elämäpisteet": 4,
+    "osumatarkkuus": 33,
+    "osumavahinkoMax": 20,
+    "hyökkäysjärjestys": 1,
+    "kokemuspisteet": 1,
+    "taidot": [
+      "UnitSkillAttackWeakestTarget",
+      "UnitSkillFirstStrike"
+    ]
+  },
+  {
+    "nro": 111,
+    "ryhmitys": 1,
+    "tunniste": "PirateRecruit",
+    "nimi": "Deckscrubber",
+    "luokitus": 6,
+    "elämäpisteet": 15,
+    "osumatarkkuus": 50,
+    "osumavahinkoMin": 10,
+    "osumavahinkoMax": 15,
+    "hyökkäysjärjestys": 2,
+    "kokemuspisteet": 1
+  },
+  {
+    "nro": 112,
+    "ryhmitys": 1,
+    "tunniste": "PirateMilitia",
+    "nimi": "Sabrerattler",
+    "luokitus": 6,
+    "elämäpisteet": 30,
+    "osumatarkkuus": 50,
+    "osumavahinkoMin": 10,
+    "osumavahinkoMax": 20,
+    "hyökkäysjärjestys": 2,
+    "kokemuspisteet": 2
+  },
+  {
+    "nro": 113,
+    "ryhmitys": 1,
+    "tunniste": "PirateBoss1",
+    "nimi": "Crazy Ship's Cook",
+    "luokitus": 2,
+    "elämäpisteet": 5000,
+    "osumatarkkuus": 66,
+    "osumavahinkoMin": 200,
+    "osumavahinkoMax": 300,
+    "hyökkäysjärjestys": 1,
+    "kokemuspisteet": 200,
+    "taidot": [
+      "UnitSkillSplashDamage",
+      "UnitSkillFirstStrike"
+    ]
+  },
+  {
+    "nro": 114,
+    "ryhmitys": 1,
+    "tunniste": "PirateBowman",
+    "nimi": "Knife Thrower",
+    "luokitus": 3,
+    "elämäpisteet": 5,
+    "osumatarkkuus": 50,
+    "osumavahinkoMin": 10,
+    "osumavahinkoMax": 20,
+    "hyökkäysjärjestys": 2,
+    "kokemuspisteet": 1
+  },
+  {
+    "nro": 115,
+    "ryhmitys": 1,
+    "tunniste": "PirateLongbowman",
+    "nimi": "Gunman",
+    "luokitus": 3,
+    "elämäpisteet": 5,
+    "osumatarkkuus": 50,
+    "osumavahinkoMin": 20,
+    "osumavahinkoMax": 30,
+    "hyökkäysjärjestys": 2,
+    "kokemuspisteet": 2
+  },
+  {
+    "nro": 116,
+    "ryhmitys": 1,
+    "tunniste": "PirateCaptain",
+    "nimi": "Petty Officer Second class",
+    "luokitus": 6,
+    "elämäpisteet": 60,
+    "osumatarkkuus": 70,
+    "osumavahinkoMin": 40,
+    "osumavahinkoMax": 60,
+    "hyökkäysjärjestys": 2,
+    "kokemuspisteet": 6,
+    "taidot": [
+      "UnitSkillAttackWeakestTarget",
+      "UnitSkillSplashDamage"
+    ]
+  },
+  {
+    "nro": 120,
+    "ryhmitys": 1,
+    "tunniste": "KingdomRecruit",
+    "nimi": "Recruit Deserter",
+    "luokitus": 6,
+    "elämäpisteet": 40,
+    "osumatarkkuus": 60,
+    "osumavahinkoMin": 15,
+    "osumavahinkoMax": 30,
+    "hyökkäysjärjestys": 2,
+    "kokemuspisteet": 2
+  },
+  {
+    "nro": 121,
+    "ryhmitys": 1,
+    "tunniste": "KingdomMilitia",
+    "nimi": "Militia Deserter",
+    "luokitus": 6,
+    "elämäpisteet": 60,
+    "osumatarkkuus": 60,
+    "osumavahinkoMin": 20,
+    "osumavahinkoMax": 40,
+    "hyökkäysjärjestys": 2,
+    "kokemuspisteet": 4
+  },
+  {
+    "nro": 122,
+    "ryhmitys": 1,
+    "tunniste": "KingdomCavalry",
+    "nimi": "Cavalry Deserter",
+    "luokitus": 4,
+    "elämäpisteet": 5,
+    "osumatarkkuus": 60,
+    "osumavahinkoMin": 5,
+    "osumavahinkoMax": 10,
+    "hyökkäysjärjestys": 1,
+    "kokemuspisteet": 4,
+    "taidot": [
+      "UnitSkillFirstStrike",
+      "UnitSkillAttackWeakestTarget"
+    ]
+  },
+  {
+    "nro": 123,
+    "ryhmitys": 1,
+    "tunniste": "KingdomSoldier",
+    "nimi": "Soldier Deserter",
+    "luokitus": 6,
+    "elämäpisteet": 90,
+    "osumatarkkuus": 65,
+    "osumavahinkoMin": 20,
+    "osumavahinkoMax": 40,
+    "hyökkäysjärjestys": 2,
+    "kokemuspisteet": 6
+  },
+  {
+    "nro": 124,
+    "ryhmitys": 1,
+    "tunniste": "KingdomEliteSoldier",
+    "nimi": "Elite Soldier Deserter",
+    "luokitus": 6,
+    "elämäpisteet": 120,
+    "osumatarkkuus": 70,
+    "osumavahinkoMin": 20,
+    "osumavahinkoMax": 40,
+    "hyökkäysjärjestys": 2,
+    "kokemuspisteet": 8
+  },
+  {
+    "nro": 125,
+    "ryhmitys": 1,
+    "tunniste": "KingdomBowman",
+    "nimi": "Bowman Deserter",
+    "luokitus": 3,
+    "elämäpisteet": 10,
+    "osumatarkkuus": 60,
+    "osumavahinkoMin": 20,
+    "osumavahinkoMax": 40,
+    "hyökkäysjärjestys": 2,
+    "kokemuspisteet": 3
+  },
+  {
+    "nro": 126,
+    "ryhmitys": 1,
+    "tunniste": "KingdomLongbowman",
+    "nimi": "Longbowman Deserter",
+    "luokitus": 3,
+    "elämäpisteet": 10,
+    "osumatarkkuus": 60,
+    "osumavahinkoMin": 30,
+    "osumavahinkoMax": 60,
+    "hyökkäysjärjestys": 2,
+    "kokemuspisteet": 5
+  },
+  {
+    "nro": 127,
+    "ryhmitys": 1,
+    "tunniste": "KingdomCrossbowman",
+    "nimi": "Crossbowman Deserter",
+    "luokitus": 3,
+    "elämäpisteet": 10,
+    "osumatarkkuus": 60,
+    "osumavahinkoMin": 45,
+    "osumavahinkoMax": 90,
+    "hyökkäysjärjestys": 2,
+    "kokemuspisteet": 7
+  },
+  {
+    "nro": 128,
+    "ryhmitys": 1,
+    "tunniste": "KingdomCannoneer",
+    "nimi": "Cannoneer Deserter",
+    "luokitus": 5,
+    "elämäpisteet": 60,
+    "osumatarkkuus": 70,
+    "osumavahinkoMin": 60,
+    "osumavahinkoMax": 120,
+    "hyökkäysjärjestys": 3,
+    "kokemuspisteet": 15,
+    "taidot": [
+      "UnitSkillLastStrike"
+    ]
+  },
+  {
+    "nro": 130,
+    "ryhmitys": 1,
+    "tunniste": "CultBoss3",
+    "nimi": "Spawn of Hell",
+    "luokitus": 2,
+    "elämäpisteet": 35000,
+    "osumatarkkuus": 75,
+    "osumavahinkoMin": 700,
+    "osumavahinkoMax": 800,
+    "hyökkäysjärjestys": 1,
+    "kokemuspisteet": 500,
+    "taidot": [
+      "UnitSkillAttackWeakestTarget",
+      "UnitSkillSplashDamage",
+      "UnitSkillFirstStrike"
+    ]
+  },
+  {
+    "nro": 131,
+    "ryhmitys": 1,
+    "tunniste": "CultRecruit",
+    "nimi": "Cultist",
+    "luokitus": 6,
+    "elämäpisteet": 40,
+    "osumatarkkuus": 80,
+    "osumavahinkoMin": 15,
+    "osumavahinkoMax": 30,
+    "hyökkäysjärjestys": 2,
+    "kokemuspisteet": 3
+  },
+  {
+    "nro": 132,
+    "ryhmitys": 1,
+    "tunniste": "CultBoss1",
+    "nimi": "Witch of the Swamp",
+    "luokitus": 2,
+    "elämäpisteet": 13000,
+    "osumatarkkuus": 75,
+    "osumavahinkoMin": 400,
+    "osumavahinkoMax": 600,
+    "hyökkäysjärjestys": 1,
+    "kokemuspisteet": 250,
+    "taidot": [
+      "UnitSkillSplashDamage",
+      "UnitSkillFirstStrike"
+    ]
+  },
+  {
+    "nro": 133,
+    "ryhmitys": 1,
+    "tunniste": "CultCavalry",
+    "nimi": "Shadowsneaker",
+    "luokitus": 4,
+    "elämäpisteet": 5,
+    "osumatarkkuus": 60,
+    "osumavahinkoMax": 5,
+    "hyökkäysjärjestys": 1,
+    "kokemuspisteet": 6,
+    "taidot": [
+      "UnitSkillAttackWeakestTarget",
+      "UnitSkillFirstStrike"
+    ]
+  },
+  {
+    "nro": 134,
+    "ryhmitys": 1,
+    "tunniste": "CultBowman",
+    "nimi": "Fanatic",
+    "luokitus": 3,
+    "elämäpisteet": 20,
+    "osumatarkkuus": 90,
+    "osumavahinkoMin": 30,
+    "osumavahinkoMax": 60,
+    "hyökkäysjärjestys": 2,
+    "kokemuspisteet": 6
+  },
+  {
+    "nro": 135,
+    "ryhmitys": 1,
+    "tunniste": "CultLongbowman",
+    "nimi": "Dark Priest",
+    "luokitus": 3,
+    "elämäpisteet": 20,
+    "osumatarkkuus": 100,
+    "osumavahinkoMin": 40,
+    "osumavahinkoMax": 80,
+    "hyökkäysjärjestys": 2,
+    "kokemuspisteet": 8
+  },
+  {
+    "nro": 136,
+    "ryhmitys": 1,
+    "tunniste": "CultCrossbowman",
+    "nimi": "Firedancer",
+    "luokitus": 3,
+    "elämäpisteet": 30,
+    "osumatarkkuus": 100,
+    "osumavahinkoMin": 60,
+    "osumavahinkoMax": 120,
+    "hyökkäysjärjestys": 2,
+    "kokemuspisteet": 14
+  },
+  {
+    "nro": 137,
+    "ryhmitys": 1,
+    "tunniste": "CultCanoneer",
+    "nimi": "Dancing Dervish",
+    "luokitus": 5,
+    "elämäpisteet": 90,
+    "osumatarkkuus": 90,
+    "osumavahinkoMin": 60,
+    "osumavahinkoMax": 120,
+    "hyökkäysjärjestys": 3,
+    "kokemuspisteet": 20,
+    "taidot": [
+      "UnitSkillLastStrike",
+      "UnitSkillSplashDamage"
+    ]
+  },
+  {
+    "nro": 140,
+    "ryhmitys": 1,
+    "tunniste": "RaidersRecruit",
+    "nimi": "Nomad",
+    "luokitus": 6,
+    "elämäpisteet": 30,
+    "osumatarkkuus": 60,
+    "osumavahinkoMin": 10,
+    "osumavahinkoMax": 20,
+    "hyökkäysjärjestys": 2,
+    "kokemuspisteet": 2
+  },
+  {
+    "nro": 141,
+    "ryhmitys": 1,
+    "tunniste": "RaidersCavalry",
+    "nimi": "Lance Rider",
+    "luokitus": 4,
+    "elämäpisteet": 20,
+    "osumatarkkuus": 90,
+    "osumavahinkoMin": 5,
+    "osumavahinkoMax": 20,
+    "hyökkäysjärjestys": 1,
+    "kokemuspisteet": 4,
+    "taidot": [
+      "UnitSkillAttackWeakestTarget",
+      "UnitSkillFirstStrike"
+    ]
+  },
+  {
+    "nro": 142,
+    "ryhmitys": 1,
+    "tunniste": "RaidersCavalryBow",
+    "nimi": "Riding Bowman",
+    "luokitus": 4,
+    "elämäpisteet": 20,
+    "osumatarkkuus": 90,
+    "osumavahinkoMin": 30,
+    "osumavahinkoMax": 40,
+    "hyökkäysjärjestys": 1,
+    "kokemuspisteet": 6,
+    "taidot": [
+      "UnitSkillAttackWeakestTarget",
+      "UnitSkillFirstStrike"
+    ]
+  },
+  {
+    "nro": 143,
+    "ryhmitys": 1,
+    "tunniste": "RaidersCavalryLongbow",
+    "nimi": "Riding Amazonian Guard",
+    "luokitus": 4,
+    "elämäpisteet": 20,
+    "osumatarkkuus": 90,
+    "osumavahinkoMin": 40,
+    "osumavahinkoMax": 60,
+    "hyökkäysjärjestys": 1,
+    "kokemuspisteet": 8,
+    "taidot": [
+      "UnitSkillAttackWeakestTarget",
+      "UnitSkillFirstStrike"
+    ]
+  },
+  {
+    "nro": 144,
+    "ryhmitys": 1,
+    "tunniste": "RaidersCavalryCrossbow",
+    "nimi": "Cataphract",
+    "luokitus": 4,
+    "elämäpisteet": 20,
+    "osumatarkkuus": 100,
+    "osumavahinkoMin": 90,
+    "osumavahinkoMax": 90,
+    "hyökkäysjärjestys": 1,
+    "kokemuspisteet": 12,
+    "taidot": [
+      "UnitSkillAttackWeakestTarget",
+      "UnitSkillFirstStrike"
+    ]
+  },
+  {
+    "nro": 145,
+    "ryhmitys": 1,
+    "tunniste": "RaidersBoss1",
+    "nimi": "Uproarious Bull",
+    "luokitus": 2,
+    "elämäpisteet": 2000,
+    "osumatarkkuus": 100,
+    "osumavahinkoMin": 120,
+    "osumavahinkoMax": 120,
+    "hyökkäysjärjestys": 1,
+    "kokemuspisteet": 50,
+    "taidot": [
+      "UnitSkillFirstStrike"
+    ]
+  },
+  {
+    "nro": 146,
+    "ryhmitys": 1,
+    "tunniste": "RaidersBowman",
+    "nimi": "Composite Bowman",
+    "luokitus": 3,
+    "elämäpisteet": 20,
+    "osumatarkkuus": 80,
+    "osumavahinkoMin": 20,
+    "osumavahinkoMax": 40,
+    "hyökkäysjärjestys": 3,
+    "kokemuspisteet": 2,
+    "taidot": [
+      "UnitSkillLastStrike"
+    ]
+  },
+  {
+    "nro": 150,
+    "ryhmitys": 1,
+    "tunniste": "NordsEliteSoldier",
+    "nimi": "Jomsviking",
+    "luokitus": 5,
+    "elämäpisteet": 140,
+    "osumatarkkuus": 95,
+    "osumavahinkoMin": 60,
+    "osumavahinkoMax": 80,
+    "hyökkäysjärjestys": 3,
+    "kokemuspisteet": 14,
+    "taidot": [
+      "UnitSkillLastStrike"
+    ]
+  },
+  {
+    "nro": 151,
+    "ryhmitys": 1,
+    "tunniste": "NordsSoldier",
+    "nimi": "Housecarl",
+    "luokitus": 5,
+    "elämäpisteet": 140,
+    "osumatarkkuus": 90,
+    "osumavahinkoMin": 40,
+    "osumavahinkoMax": 50,
+    "hyökkäysjärjestys": 3,
+    "kokemuspisteet": 10,
+    "taidot": [
+      "UnitSkillLastStrike"
+    ]
+  },
+  {
+    "nro": 152,
+    "ryhmitys": 1,
+    "tunniste": "NordsMilitia",
+    "nimi": "Karl",
+    "luokitus": 5,
+    "elämäpisteet": 80,
+    "osumatarkkuus": 90,
+    "osumavahinkoMin": 40,
+    "osumavahinkoMax": 50,
+    "hyökkäysjärjestys": 3,
+    "kokemuspisteet": 6,
+    "taidot": [
+      "UnitSkillLastStrike"
+    ]
+  },
+  {
+    "nro": 153,
+    "ryhmitys": 1,
+    "tunniste": "NordsRecruit",
+    "nimi": "Thrall",
+    "luokitus": 5,
+    "elämäpisteet": 60,
+    "osumatarkkuus": 85,
+    "osumavahinkoMin": 20,
+    "osumavahinkoMax": 25,
+    "hyökkäysjärjestys": 3,
+    "kokemuspisteet": 3,
+    "taidot": [
+      "UnitSkillLastStrike"
+    ]
+  },
+  {
+    "nro": 154,
+    "ryhmitys": 1,
+    "tunniste": "NordsBowman",
+    "nimi": "Valkyrie",
+    "luokitus": 3,
+    "elämäpisteet": 10,
+    "osumatarkkuus": 60,
+    "osumavahinkoMin": 20,
+    "osumavahinkoMax": 40,
+    "hyökkäysjärjestys": 2,
+    "kokemuspisteet": 3
+  },
+  {
+    "nro": 155,
+    "ryhmitys": 1,
+    "tunniste": "NordsCanoneer",
+    "nimi": "Berserk",
+    "luokitus": 5,
+    "elämäpisteet": 90,
+    "osumatarkkuus": 70,
+    "osumavahinkoMin": 20,
+    "osumavahinkoMax": 40,
+    "hyökkäysjärjestys": 3,
+    "kokemuspisteet": 20,
+    "taidot": [
+      "UnitSkillSplashDamage",
+      "UnitSkillLastStrike"
+    ]
+  },
+  {
+    "nro": 160,
+    "ryhmitys": 1,
+    "tunniste": "NeutralCavalry",
+    "nimi": "Grey Wolf",
+    "luokitus": 4,
+    "elämäpisteet": 10,
+    "osumatarkkuus": 80,
+    "osumavahinkoMin": 2,
+    "osumavahinkoMax": 3,
+    "hyökkäysjärjestys": 1,
+    "kokemuspisteet": 1,
+    "taidot": [
+      "UnitSkillFirstStrike"
+    ]
+  },
+  {
+    "nro": 180,
+    "ryhmitys": 1,
+    "tunniste": "MayaRecruit",
+    "nimi": "Tribesman",
+    "luokitus": 6,
+    "elämäpisteet": 40,
+    "osumatarkkuus": 80,
+    "osumavahinkoMin": 15,
+    "osumavahinkoMax": 30,
+    "hyökkäysjärjestys": 2,
+    "kokemuspisteet": 1
+  },
+  {
+    "nro": 181,
+    "ryhmitys": 1,
+    "tunniste": "MayaCavalry",
+    "nimi": "Shaman",
+    "luokitus": 4,
+    "elämäpisteet": 5,
+    "osumatarkkuus": 60,
+    "osumavahinkoMax": 5,
+    "hyökkäysjärjestys": 1,
+    "kokemuspisteet": 1,
+    "taidot": [
+      "UnitSkillFirstStrike",
+      "UnitSkillAttackWeakestTarget"
+    ]
+  },
+  {
+    "nro": 182,
+    "ryhmitys": 1,
+    "tunniste": "MayaCanoneer",
+    "nimi": "Jaguar Warrior",
+    "luokitus": 5,
+    "elämäpisteet": 90,
+    "osumatarkkuus": 90,
+    "osumavahinkoMin": 60,
+    "osumavahinkoMax": 120,
+    "hyökkäysjärjestys": 3,
+    "kokemuspisteet": 2,
+    "taidot": [
+      "UnitSkillSplashDamage",
+      "UnitSkillLastStrike"
+    ]
+  },
+  {
+    "nro": 190,
+    "ryhmitys": 1,
+    "tunniste": "WildlifeRecruit",
+    "nimi": "Boar",
+    "luokitus": 6,
+    "elämäpisteet": 100,
+    "osumatarkkuus": 85,
+    "osumavahinkoMin": 30,
+    "osumavahinkoMax": 60,
+    "hyökkäysjärjestys": 2,
+    "kokemuspisteet": 12
+  },
+  {
+    "nro": 191,
+    "ryhmitys": 1,
+    "tunniste": "WildlifeMilitia",
+    "nimi": "Bear",
+    "luokitus": 6,
+    "elämäpisteet": 140,
+    "osumatarkkuus": 95,
+    "osumavahinkoMin": 70,
+    "osumavahinkoMax": 90,
+    "hyökkäysjärjestys": 2,
+    "kokemuspisteet": 18,
+    "taidot": [
+      "UnitSkillSplashDamage"
+    ]
+  },
+  {
+    "nro": 192,
+    "ryhmitys": 1,
+    "tunniste": "WildlifeBowman",
+    "nimi": "Wolf",
+    "luokitus": 3,
+    "elämäpisteet": 40,
+    "osumatarkkuus": 85,
+    "osumavahinkoMin": 60,
+    "osumavahinkoMax": 100,
+    "hyökkäysjärjestys": 2,
+    "kokemuspisteet": 10
+  },
+  {
+    "nro": 193,
+    "ryhmitys": 1,
+    "tunniste": "WildlifeLongbowman",
+    "nimi": "Wolf Packleader",
+    "luokitus": 3,
+    "elämäpisteet": 60,
+    "osumatarkkuus": 95,
+    "osumavahinkoMin": 80,
+    "osumavahinkoMax": 120,
+    "hyökkäysjärjestys": 2,
+    "kokemuspisteet": 15,
+    "taidot": [
+      "UnitSkillSplashDamage"
+    ]
+  },
+  {
+    "nro": 194,
+    "ryhmitys": 1,
+    "tunniste": "WildlifeCavalry",
+    "nimi": "Fox",
+    "luokitus": 4,
+    "elämäpisteet": 30,
+    "osumatarkkuus": 95,
+    "osumavahinkoMin": 10,
+    "osumavahinkoMax": 40,
+    "hyökkäysjärjestys": 1,
+    "kokemuspisteet": 12,
+    "taidot": [
+      "UnitSkillAttackWeakestTarget",
+      "UnitSkillFirstStrike"
+    ]
+  },
+  {
+    "nro": 195,
+    "ryhmitys": 1,
+    "tunniste": "WildlifeCannoneer",
+    "nimi": "Giant",
+    "luokitus": 5,
+    "elämäpisteet": 160,
+    "osumatarkkuus": 95,
+    "osumavahinkoMin": 60,
+    "osumavahinkoMax": 90,
+    "hyökkäysjärjestys": 3,
+    "kokemuspisteet": 26,
+    "taidot": [
+      "UnitSkillLastStrike",
+      "UnitSkillSplashDamage"
+    ]
+  },
+  {
+    "nro": 196,
+    "ryhmitys": 1,
+    "tunniste": "EpicRaidKingdomRecruit",
+    "nimi": "Royal Recruit",
+    "luokitus": 6,
+    "elämäpisteet": 120,
+    "osumatarkkuus": 85,
+    "osumavahinkoMin": 30,
+    "osumavahinkoMax": 60,
+    "hyökkäysjärjestys": 2,
+    "kokemuspisteet": 14
+  },
+  {
+    "nro": 197,
+    "ryhmitys": 1,
+    "tunniste": "EpicRaidKingdomMilitia",
+    "nimi": "Royal Militia",
+    "luokitus": 6,
+    "elämäpisteet": 160,
+    "osumatarkkuus": 95,
+    "osumavahinkoMin": 70,
+    "osumavahinkoMax": 90,
+    "hyökkäysjärjestys": 2,
+    "kokemuspisteet": 17,
+    "taidot": [
+      "UnitSkillSplashDamage"
+    ]
+  },
+  {
+    "nro": 199,
+    "ryhmitys": 1,
+    "tunniste": "EpicRaidKingdomBowman",
+    "nimi": "Royal Bowman",
+    "luokitus": 3,
+    "elämäpisteet": 40,
+    "osumatarkkuus": 85,
+    "osumavahinkoMin": 60,
+    "osumavahinkoMax": 120,
+    "hyökkäysjärjestys": 2,
+    "kokemuspisteet": 12
+  },
+  {
+    "nro": 200,
+    "ryhmitys": 1,
+    "tunniste": "EpicRaidKingdomLongbowman",
+    "nimi": "Royal Longbowman",
+    "luokitus": 3,
+    "elämäpisteet": 60,
+    "osumatarkkuus": 95,
+    "osumavahinkoMin": 80,
+    "osumavahinkoMax": 140,
+    "hyökkäysjärjestys": 2,
+    "kokemuspisteet": 16,
+    "taidot": [
+      "UnitSkillSplashDamage"
+    ]
+  },
+  {
+    "nro": 201,
+    "ryhmitys": 1,
+    "tunniste": "EpicRaidKingdomCavalry",
+    "nimi": "Royal Cavalry",
+    "luokitus": 4,
+    "elämäpisteet": 40,
+    "osumatarkkuus": 95,
+    "osumavahinkoMin": 10,
+    "osumavahinkoMax": 60,
+    "hyökkäysjärjestys": 1,
+    "kokemuspisteet": 15,
+    "taidot": [
+      "UnitSkillAttackWeakestTarget",
+      "UnitSkillFirstStrike"
+    ]
+  },
+  {
+    "nro": 202,
+    "ryhmitys": 1,
+    "tunniste": "EpicRaidKingdomCannoneer",
+    "nimi": "Royal Cannoneer",
+    "luokitus": 5,
+    "elämäpisteet": 200,
+    "osumatarkkuus": 95,
+    "osumavahinkoMin": 60,
+    "osumavahinkoMax": 90,
+    "hyökkäysjärjestys": 3,
+    "kokemuspisteet": 28,
+    "taidot": [
+      "UnitSkillLastStrike",
+      "UnitSkillSplashDamage"
+    ]
+  },
+  {
+    "nro": 220,
+    "ryhmitys": 1,
+    "tunniste": "OrientalBanditRecruit",
+    "nimi": "Sword Clasher",
+    "luokitus": 6,
+    "elämäpisteet": 100,
+    "osumatarkkuus": 80,
+    "osumavahinkoMin": 75,
+    "osumavahinkoMax": 150,
+    "hyökkäysjärjestys": 2,
+    "kokemuspisteet": 27,
+    "taidot": [
+      "UnitSkillSplashDamage"
+    ]
+  },
+  {
+    "nro": 221,
+    "ryhmitys": 1,
+    "tunniste": "OrientalBanditMilitia",
+    "nimi": "Sword Wielder",
+    "luokitus": 6,
+    "elämäpisteet": 300,
+    "osumatarkkuus": 80,
+    "osumavahinkoMin": 25,
+    "osumavahinkoMax": 50,
+    "hyökkäysjärjestys": 2,
+    "kokemuspisteet": 35,
+    "taidot": [
+      "UnitSkillSplashDamage"
+    ]
+  },
+  {
+    "nro": 222,
+    "ryhmitys": 1,
+    "tunniste": "OrientalBanditSoldier",
+    "nimi": "Sword Master",
+    "luokitus": 6,
+    "elämäpisteet": 500,
+    "osumatarkkuus": 80,
+    "osumavahinkoMin": 25,
+    "osumavahinkoMax": 50,
+    "hyökkäysjärjestys": 2,
+    "kokemuspisteet": 55,
+    "taidot": [
+      "UnitSkillSplashDamage"
+    ]
+  },
+  {
+    "nro": 223,
+    "ryhmitys": 1,
+    "tunniste": "OrientalBanditCavalry",
+    "nimi": "Horseman",
+    "luokitus": 4,
+    "elämäpisteet": 50,
+    "osumatarkkuus": 80,
+    "osumavahinkoMin": 50,
+    "osumavahinkoMax": 100,
+    "hyökkäysjärjestys": 1,
+    "kokemuspisteet": 22,
+    "taidot": [
+      "UnitSkillSplashDamage",
+      "UnitSkillFirstStrike"
+    ]
+  },
+  {
+    "nro": 224,
+    "ryhmitys": 1,
+    "tunniste": "OrientalBanditBowman",
+    "nimi": "Dune Marksman",
+    "luokitus": 3,
+    "elämäpisteet": 30,
+    "osumatarkkuus": 80,
+    "osumavahinkoMin": 100,
+    "osumavahinkoMax": 200,
+    "hyökkäysjärjestys": 2,
+    "kokemuspisteet": 26,
+    "taidot": [
+      "UnitSkillSplashDamage"
+    ]
+  },
+  {
+    "nro": 225,
+    "ryhmitys": 1,
+    "tunniste": "OrientalBanditLongbowman",
+    "nimi": "Desert Marksman",
+    "luokitus": 3,
+    "elämäpisteet": 80,
+    "osumatarkkuus": 80,
+    "osumavahinkoMin": 50,
+    "osumavahinkoMax": 100,
+    "hyökkäysjärjestys": 2,
+    "kokemuspisteet": 15,
+    "taidot": [
+      "UnitSkillSplashDamage",
+      "UnitSkillAttackWeakestTarget"
+    ]
+  },
+  {
+    "nro": 226,
+    "ryhmitys": 1,
+    "tunniste": "OrientalBanditCavalryBowman",
+    "nimi": "Mounted Bowman",
+    "luokitus": 4,
+    "elämäpisteet": 70,
+    "osumatarkkuus": 80,
+    "osumavahinkoMin": 35,
+    "osumavahinkoMax": 70,
+    "hyökkäysjärjestys": 1,
+    "kokemuspisteet": 23,
+    "taidot": [
+      "UnitSkillSplashDamage",
+      "UnitSkillAttackWeakestTarget",
+      "UnitSkillFirstStrike"
+    ]
+  },
+  {
+    "nro": 227,
+    "ryhmitys": 1,
+    "tunniste": "OrientalBanditCanoneer",
+    "nimi": "Stone Cannon",
+    "luokitus": 5,
+    "elämäpisteet": 100,
+    "osumatarkkuus": 80,
+    "osumavahinkoMin": 150,
+    "osumavahinkoMax": 300,
+    "hyökkäysjärjestys": 3,
+    "kokemuspisteet": 36,
+    "taidot": [
+      "UnitSkillSplashDamage",
+      "UnitSkillLastStrike"
+    ]
+  },
+  {
+    "nro": 230,
+    "ryhmitys": 1,
+    "tunniste": "OrientalSailorRecruit",
+    "nimi": "Sailor",
+    "luokitus": 6,
+    "elämäpisteet": 100,
+    "osumatarkkuus": 80,
+    "osumavahinkoMin": 50,
+    "osumavahinkoMax": 100,
+    "hyökkäysjärjestys": 2,
+    "kokemuspisteet": 21,
+    "taidot": [
+      "UnitSkillSplashDamage"
+    ]
+  },
+  {
+    "nro": 231,
+    "ryhmitys": 1,
+    "tunniste": "OrientalSailorMilitia",
+    "nimi": "Battle Hardened Sailor",
+    "luokitus": 6,
+    "elämäpisteet": 200,
+    "osumatarkkuus": 80,
+    "osumavahinkoMin": 25,
+    "osumavahinkoMax": 50,
+    "hyökkäysjärjestys": 2,
+    "kokemuspisteet": 26,
+    "taidot": [
+      "UnitSkillSplashDamage"
+    ]
+  },
+  {
+    "nro": 232,
+    "ryhmitys": 1,
+    "tunniste": "OrientalSailorCavalry",
+    "nimi": "Mounted Sailor",
+    "luokitus": 4,
+    "elämäpisteet": 50,
+    "osumatarkkuus": 80,
+    "osumavahinkoMin": 35,
+    "osumavahinkoMax": 70,
+    "hyökkäysjärjestys": 1,
+    "kokemuspisteet": 17,
+    "taidot": [
+      "UnitSkillSplashDamage",
+      "UnitSkillFirstStrike"
+    ]
+  },
+  {
+    "nro": 233,
+    "ryhmitys": 1,
+    "tunniste": "OrientalSailorBowman",
+    "nimi": "Boatswain",
+    "luokitus": 4,
+    "elämäpisteet": 40,
+    "osumatarkkuus": 80,
+    "osumavahinkoMin": 25,
+    "osumavahinkoMax": 50,
+    "hyökkäysjärjestys": 1,
+    "kokemuspisteet": 15,
+    "taidot": [
+      "UnitSkillSplashDamage",
+      "UnitSkillFirstStrike",
+      "UnitSkillAttackWeakestTarget"
+    ]
+  },
+  {
+    "nro": 234,
+    "ryhmitys": 1,
+    "tunniste": "OrientalSailorLongbowman",
+    "nimi": "Petty Officer Second Class",
+    "luokitus": 3,
+    "elämäpisteet": 70,
+    "osumatarkkuus": 80,
+    "osumavahinkoMin": 35,
+    "osumavahinkoMax": 70,
+    "hyökkäysjärjestys": 2,
+    "kokemuspisteet": 17,
+    "taidot": [
+      "UnitSkillSplashDamage",
+      "UnitSkillAttackWeakestTarget"
+    ]
+  },
+  {
+    "nro": 235,
+    "ryhmitys": 1,
+    "tunniste": "OrientalSailorCanoneer",
+    "nimi": "Cannon Master",
+    "luokitus": 5,
+    "elämäpisteet": 100,
+    "osumatarkkuus": 80,
+    "osumavahinkoMin": 100,
+    "osumavahinkoMax": 200,
+    "hyökkäysjärjestys": 3,
+    "kokemuspisteet": 27,
+    "taidot": [
+      "UnitSkillSplashDamage",
+      "UnitSkillLastStrike"
+    ]
+  },
+  {
+    "nro": 240,
+    "ryhmitys": 1,
+    "tunniste": "OrientalApe1",
+    "nimi": "Stick-wielding Ape",
+    "luokitus": 6,
+    "elämäpisteet": 150,
+    "osumatarkkuus": 95,
+    "osumavahinkoMin": 90,
+    "osumavahinkoMax": 180,
+    "hyökkäysjärjestys": 2,
+    "kokemuspisteet": 37,
+    "taidot": [
+      "UnitSkillSplashDamage"
+    ]
+  },
+  {
+    "nro": 241,
+    "ryhmitys": 1,
+    "tunniste": "OrientalApe2",
+    "nimi": "Stone-throwing Ape",
+    "luokitus": 4,
+    "elämäpisteet": 70,
+    "osumatarkkuus": 95,
+    "osumavahinkoMin": 125,
+    "osumavahinkoMax": 250,
+    "hyökkäysjärjestys": 1,
+    "kokemuspisteet": 67,
+    "taidot": [
+      "UnitSkillAttackWeakestTarget",
+      "UnitSkillSplashDamage",
+      "UnitSkillFirstStrike"
+    ]
+  },
+  {
+    "nro": 242,
+    "ryhmitys": 1,
+    "tunniste": "OrientalApe3",
+    "nimi": "Alpha Ape",
+    "luokitus": 5,
+    "elämäpisteet": 500,
+    "osumatarkkuus": 95,
+    "osumavahinkoMin": 35,
+    "osumavahinkoMax": 70,
+    "hyökkäysjärjestys": 3,
+    "kokemuspisteet": 56,
+    "taidot": [
+      "UnitSkillSplashDamage",
+      "UnitSkillLastStrike"
+    ]
+  },
+  {
+    "nro": 243,
+    "ryhmitys": 1,
+    "tunniste": "OrientalApe4",
+    "nimi": "Nervous Ape",
+    "luokitus": 4,
+    "elämäpisteet": 100,
+    "osumatarkkuus": 95,
+    "osumavahinkoMin": 80,
+    "osumavahinkoMax": 160,
+    "hyökkäysjärjestys": 1,
+    "kokemuspisteet": 40,
+    "taidot": [
+      "UnitSkillSplashDamage",
+      "UnitSkillFirstStrike"
+    ]
+  },
+  {
+    "nro": 277,
+    "ryhmitys": 1,
+    "tunniste": "BlondeBowman",
+    "nimi": "Blonde Bowman",
+    "luokitus": 3,
+    "elämäpisteet": 70,
+    "osumatarkkuus": 80,
+    "osumavahinkoMin": 100,
+    "osumavahinkoMax": 150,
+    "hyökkäysjärjestys": 2,
+    "kokemuspisteet": 25,
+    "taidot": [
+      "UnitSkillSplashDamage"
+    ]
+  },
+  {
+    "nro": 278,
+    "ryhmitys": 1,
+    "tunniste": "DefensiveMiner",
+    "nimi": "Defensive Miner",
+    "luokitus": 6,
+    "elämäpisteet": 150,
+    "osumatarkkuus": 80,
+    "osumavahinkoMin": 75,
+    "osumavahinkoMax": 100,
+    "hyökkäysjärjestys": 2,
+    "kokemuspisteet": 20,
+    "taidot": [
+      "UnitSkillSplashDamage"
+    ]
+  },
+  {
+    "nro": 279,
+    "ryhmitys": 1,
+    "tunniste": "GoldenGuard",
+    "nimi": "Golden Guard",
+    "luokitus": 5,
+    "elämäpisteet": 280,
+    "osumatarkkuus": 85,
+    "osumavahinkoMin": 150,
+    "osumavahinkoMax": 220,
+    "hyökkäysjärjestys": 3,
+    "kokemuspisteet": 55,
+    "taidot": [
+      "UnitSkillSplashDamage",
+      "UnitSkillLastStrike"
+    ]
+  },
+  {
+    "nro": 293,
+    "ryhmitys": 1,
+    "tunniste": "RecklessRider",
+    "nimi": "Reckless Rider",
+    "luokitus": 4,
+    "elämäpisteet": 60,
+    "osumatarkkuus": 80,
+    "osumavahinkoMin": 130,
+    "osumavahinkoMax": 200,
+    "hyökkäysjärjestys": 1,
+    "kokemuspisteet": 45,
+    "taidot": [
+      "UnitSkillFirstStrike"
+    ]
+  },
+  {
+    "nro": 294,
+    "ryhmitys": 1,
+    "tunniste": "FirmDefender",
+    "nimi": "Firm Defender",
+    "luokitus": 6,
+    "elämäpisteet": 200,
+    "osumatarkkuus": 80,
+    "osumavahinkoMin": 90,
+    "osumavahinkoMax": 130,
+    "hyökkäysjärjestys": 2,
+    "kokemuspisteet": 30,
+    "taidot": [
+      "UnitSkillSplashDamage"
+    ]
+  },
+  {
+    "nro": 674,
+    "ryhmitys": 1,
+    "tunniste": "SlickBanditBoss",
+    "nimi": "Slick Bandit Boss",
+    "luokitus": 2,
+    "elämäpisteet": 6000,
+    "osumatarkkuus": 40,
+    "osumavahinkoMin": 2200,
+    "osumavahinkoMax": 3000,
+    "hyökkäysjärjestys": 1,
+    "kokemuspisteet": 700,
+    "taidot": [
+      "UnitSkillFirstStrike",
+      "UnitSkillSplashDamage",
+      "UnitSkillAttackWeakestTarget"
+    ]
+  },
+  {
+    "nro": 250,
+    "ryhmitys": 1,
+    "tunniste": "PartyCrasherRecruit",
+    "nimi": "Rascal",
+    "luokitus": 6,
+    "elämäpisteet": 20,
+    "osumatarkkuus": 90,
+    "osumavahinkoMin": 15,
+    "osumavahinkoMax": 30,
+    "hyökkäysjärjestys": 2,
+    "kokemuspisteet": 2
+  },
+  {
+    "nro": 251,
+    "ryhmitys": 1,
+    "tunniste": "PartyCrasherMilitia",
+    "nimi": "Vandal",
+    "luokitus": 6,
+    "elämäpisteet": 50,
+    "osumatarkkuus": 90,
+    "osumavahinkoMin": 20,
+    "osumavahinkoMax": 40,
+    "hyökkäysjärjestys": 2,
+    "kokemuspisteet": 9
+  },
+  {
+    "nro": 252,
+    "ryhmitys": 1,
+    "tunniste": "PartyCrasherSoldier",
+    "nimi": "Bully",
+    "luokitus": 6,
+    "elämäpisteet": 90,
+    "osumatarkkuus": 90,
+    "osumavahinkoMin": 20,
+    "osumavahinkoMax": 40,
+    "hyökkäysjärjestys": 2,
+    "kokemuspisteet": 10
+  },
+  {
+    "nro": 253,
+    "ryhmitys": 1,
+    "tunniste": "PartyCrasherCavalry",
+    "nimi": "Prankster",
+    "luokitus": 4,
+    "elämäpisteet": 20,
+    "osumatarkkuus": 80,
+    "osumavahinkoMin": 10,
+    "osumavahinkoMax": 20,
+    "hyökkäysjärjestys": 1,
+    "kokemuspisteet": 9,
+    "taidot": [
+      "UnitSkillFirstStrike",
+      "UnitSkillAttackWeakestTarget"
+    ]
+  },
+  {
+    "nro": 254,
+    "ryhmitys": 1,
+    "tunniste": "PartyCrasherBowman",
+    "nimi": "Ruffian",
+    "luokitus": 3,
+    "elämäpisteet": 10,
+    "osumatarkkuus": 90,
+    "osumavahinkoMin": 25,
+    "osumavahinkoMax": 50,
+    "hyökkäysjärjestys": 2,
+    "kokemuspisteet": 5
+  },
+  {
+    "nro": 255,
+    "ryhmitys": 1,
+    "tunniste": "PartyCrasherLongbowman",
+    "nimi": "Scoundrel",
+    "luokitus": 3,
+    "elämäpisteet": 10,
+    "osumatarkkuus": 90,
+    "osumavahinkoMin": 40,
+    "osumavahinkoMax": 75,
+    "hyökkäysjärjestys": 2,
+    "kokemuspisteet": 10
+  },
+  {
+    "nro": 256,
+    "ryhmitys": 1,
+    "tunniste": "PartyCrasherCrossbowman",
+    "nimi": "Cad",
+    "luokitus": 3,
+    "elämäpisteet": 10,
+    "osumatarkkuus": 90,
+    "osumavahinkoMin": 50,
+    "osumavahinkoMax": 100,
+    "hyökkäysjärjestys": 2,
+    "kokemuspisteet": 22
+  },
+  {
+    "nro": 257,
+    "ryhmitys": 1,
+    "tunniste": "PartyCrasherEliteSoldier",
+    "nimi": "Grouch",
+    "luokitus": 6,
+    "elämäpisteet": 120,
+    "osumatarkkuus": 90,
+    "osumavahinkoMin": 20,
+    "osumavahinkoMax": 40,
+    "hyökkäysjärjestys": 2,
+    "kokemuspisteet": 20
+  },
+  {
+    "nro": 258,
+    "ryhmitys": 1,
+    "tunniste": "PartyCrasherCannoneer",
+    "nimi": "Whiner",
+    "luokitus": 5,
+    "elämäpisteet": 40,
+    "osumatarkkuus": 90,
+    "osumavahinkoMin": 70,
+    "osumavahinkoMax": 120,
+    "hyökkäysjärjestys": 3,
+    "kokemuspisteet": 30,
+    "taidot": [
+      "UnitSkillLastStrike",
+      "UnitSkillSplashDamage"
+    ]
+  },
+  {
+    "nro": 259,
+    "ryhmitys": 1,
+    "tunniste": "PartyCrasherEliteCavalry",
+    "nimi": "Scallywag",
+    "luokitus": 4,
+    "elämäpisteet": 50,
+    "osumatarkkuus": 90,
+    "osumavahinkoMin": 25,
+    "osumavahinkoMax": 50,
+    "hyökkäysjärjestys": 1,
+    "kokemuspisteet": 80,
+    "taidot": [
+      "UnitSkillFirstStrike",
+      "UnitSkillAttackWeakestTarget"
+    ]
+  },
+  {
+    "nro": 260,
+    "ryhmitys": 1,
+    "tunniste": "Deer_Unit",
+    "nimi": "Deer",
+    "luokitus": 6,
+    "elämäpisteet": 15,
+    "osumatarkkuus": 80,
+    "osumavahinkoMin": 5,
+    "osumavahinkoMax": 10,
+    "hyökkäysjärjestys": 2,
+    "kokemuspisteet": 2
+  },
+  {
+    "nro": 270,
+    "ryhmitys": 1,
+    "tunniste": "EliteWildlifeRecruit",
+    "nimi": "Frost Ibex",
+    "luokitus": 6,
+    "elämäpisteet": 250,
+    "osumatarkkuus": 85,
+    "osumavahinkoMin": 120,
+    "osumavahinkoMax": 150,
+    "hyökkäysjärjestys": 2,
+    "kokemuspisteet": 79,
+    "taidot": [
+      "UnitSkillSplashDamage"
+    ]
+  },
+  {
+    "nro": 271,
+    "ryhmitys": 1,
+    "tunniste": "EliteWildlifeMilitia",
+    "nimi": "Frost Bear",
+    "luokitus": 6,
+    "elämäpisteet": 350,
+    "osumatarkkuus": 90,
+    "osumavahinkoMin": 160,
+    "osumavahinkoMax": 200,
+    "hyökkäysjärjestys": 2,
+    "kokemuspisteet": 110,
+    "taidot": [
+      "UnitSkillSplashDamage"
+    ]
+  },
+  {
+    "nro": 272,
+    "ryhmitys": 1,
+    "tunniste": "EliteWildlifeCavalry",
+    "nimi": "Frost Fox",
+    "luokitus": 4,
+    "elämäpisteet": 75,
+    "osumatarkkuus": 90,
+    "osumavahinkoMin": 80,
+    "osumavahinkoMax": 100,
+    "hyökkäysjärjestys": 1,
+    "kokemuspisteet": 53,
+    "taidot": [
+      "UnitSkillAttackWeakestTarget",
+      "UnitSkillSplashDamage",
+      "UnitSkillFirstStrike"
+    ]
+  },
+  {
+    "nro": 273,
+    "ryhmitys": 1,
+    "tunniste": "EliteWildlifeAir",
+    "nimi": "Frost Eagle",
+    "luokitus": 4,
+    "elämäpisteet": 100,
+    "osumatarkkuus": 95,
+    "osumavahinkoMin": 90,
+    "osumavahinkoMax": 150,
+    "hyökkäysjärjestys": 1,
+    "kokemuspisteet": 77,
+    "taidot": [
+      "UnitSkillAttackWeakestTarget",
+      "UnitSkillSplashDamage",
+      "UnitSkillFirstStrike"
+    ]
+  },
+  {
+    "nro": 274,
+    "ryhmitys": 1,
+    "tunniste": "EliteWildlifeBowman",
+    "nimi": "Frost Wolf",
+    "luokitus": 3,
+    "elämäpisteet": 100,
+    "osumatarkkuus": 85,
+    "osumavahinkoMin": 200,
+    "osumavahinkoMax": 250,
+    "hyökkäysjärjestys": 2,
+    "kokemuspisteet": 68,
+    "taidot": [
+      "UnitSkillSplashDamage"
+    ]
+  },
+  {
+    "nro": 275,
+    "ryhmitys": 1,
+    "tunniste": "EliteWildlifeLongbowman",
+    "nimi": "Frost Leopard",
+    "luokitus": 3,
+    "elämäpisteet": 150,
+    "osumatarkkuus": 90,
+    "osumavahinkoMin": 240,
+    "osumavahinkoMax": 300,
+    "hyökkäysjärjestys": 2,
+    "kokemuspisteet": 89,
+    "taidot": [
+      "UnitSkillSplashDamage"
+    ]
+  },
+  {
+    "nro": 276,
+    "ryhmitys": 1,
+    "tunniste": "EliteWildlifeCannoneer",
+    "nimi": "Frost Giant",
+    "luokitus": 5,
+    "elämäpisteet": 500,
+    "osumatarkkuus": 90,
+    "osumavahinkoMin": 280,
+    "osumavahinkoMax": 350,
+    "hyökkäysjärjestys": 3,
+    "kokemuspisteet": 170,
+    "taidot": [
+      "UnitSkillSplashDamage",
+      "UnitSkillLastStrike"
+    ]
+  },
+  {
+    "nro": 288,
+    "ryhmitys": 1,
+    "tunniste": "EnemyCannoneer",
+    "nimi": "Cannoneer",
+    "luokitus": 5,
+    "elämäpisteet": 60,
+    "osumatarkkuus": 90,
+    "osumavahinkoMin": 60,
+    "osumavahinkoMax": 120,
+    "hyökkäysjärjestys": 3,
+    "kokemuspisteet": 30,
+    "taidot": [
+      "UnitSkillLastStrike"
+    ]
+  },
+  {
+    "nro": 289,
+    "ryhmitys": 1,
+    "tunniste": "MiniGolemRecruit",
+    "nimi": "Miniature Clay Golem",
+    "luokitus": 6,
+    "elämäpisteet": 110,
+    "osumatarkkuus": 50,
+    "osumavahinkoMin": 20,
+    "osumavahinkoMax": 40,
+    "hyökkäysjärjestys": 2,
+    "kokemuspisteet": 7
+  },
+  {
+    "nro": 290,
+    "ryhmitys": 1,
+    "tunniste": "MiniGolemMilitia",
+    "nimi": "Miniature Rock Golem",
+    "luokitus": 6,
+    "elämäpisteet": 150,
+    "osumatarkkuus": 50,
+    "osumavahinkoMin": 30,
+    "osumavahinkoMax": 60,
+    "hyökkäysjärjestys": 2,
+    "kokemuspisteet": 10
+  },
+  {
+    "nro": 291,
+    "ryhmitys": 1,
+    "tunniste": "MiniGolemCavalry",
+    "nimi": "Miniature Ice Golem",
+    "luokitus": 4,
+    "elämäpisteet": 50,
+    "osumatarkkuus": 50,
+    "osumavahinkoMin": 15,
+    "osumavahinkoMax": 30,
+    "hyökkäysjärjestys": 1,
+    "kokemuspisteet": 4,
+    "taidot": [
+      "UnitSkillAttackWeakestTarget",
+      "UnitSkillFirstStrike"
+    ]
+  },
+  {
+    "nro": 292,
+    "ryhmitys": 1,
+    "tunniste": "MiniGolemCannoneer",
+    "nimi": "Miniature Lava Golem",
+    "luokitus": 5,
+    "elämäpisteet": 120,
+    "osumatarkkuus": 60,
+    "osumavahinkoMin": 50,
+    "osumavahinkoMax": 100,
+    "hyökkäysjärjestys": 3,
+    "kokemuspisteet": 11,
+    "taidot": [
+      "UnitSkillSplashDamage",
+      "UnitSkillLastStrike"
+    ]
+  },
+  {
+    "nro": 500,
+    "ryhmitys": 1,
+    "tunniste": "BanditBoss1",
+    "nimi": "Skunk",
+    "luokitus": 2,
+    "elämäpisteet": 5000,
+    "osumatarkkuus": 50,
+    "osumavahinkoMin": 1,
+    "osumavahinkoMax": 100,
+    "hyökkäysjärjestys": 3,
+    "kokemuspisteet": 200,
+    "taidot": [
+      "UnitSkillLastStrike",
+      "UnitSkillSplashDamage"
+    ]
+  },
+  {
+    "nro": 501,
+    "ryhmitys": 1,
+    "tunniste": "BanditBoss2",
+    "nimi": "One-Eyed Bert",
+    "luokitus": 2,
+    "elämäpisteet": 6000,
+    "osumatarkkuus": 50,
+    "osumavahinkoMin": 300,
+    "osumavahinkoMax": 500,
+    "hyökkäysjärjestys": 3,
+    "kokemuspisteet": 100,
+    "taidot": [
+      "UnitSkillLastStrike",
+      "UnitSkillSplashDamage"
+    ]
+  },
+  {
+    "nro": 515,
+    "ryhmitys": 1,
+    "tunniste": "KingdomBoss1",
+    "nimi": "Sir Robin",
+    "luokitus": 2,
+    "elämäpisteet": 12000,
+    "osumatarkkuus": 80,
+    "osumavahinkoMin": 200,
+    "osumavahinkoMax": 600,
+    "hyökkäysjärjestys": 1,
+    "kokemuspisteet": 200,
+    "taidot": [
+      "UnitSkillFirstStrike",
+      "UnitSkillSplashDamage",
+      "UnitSkillAttackWeakestTarget"
+    ]
+  },
+  {
+    "nro": 516,
+    "ryhmitys": 1,
+    "tunniste": "KingdomBoss2",
+    "nimi": "Big Bertha",
+    "luokitus": 2,
+    "elämäpisteet": 40000,
+    "osumatarkkuus": 75,
+    "osumavahinkoMin": 50,
+    "osumavahinkoMax": 150,
+    "hyökkäysjärjestys": 3,
+    "kokemuspisteet": 350,
+    "taidot": [
+      "UnitSkillLastStrike",
+      "UnitSkillSplashDamage",
+      "UnitSkillAttackWeakestTarget"
+    ]
+  },
+  {
+    "nro": 520,
+    "ryhmitys": 1,
+    "tunniste": "CultBoss2",
+    "nimi": "Dark High Priest",
+    "luokitus": 2,
+    "elämäpisteet": 15000,
+    "osumatarkkuus": 75,
+    "osumavahinkoMin": 800,
+    "osumavahinkoMax": 1000,
+    "hyökkäysjärjestys": 3,
+    "kokemuspisteet": 350,
+    "taidot": [
+      "UnitSkillSplashDamage",
+      "UnitSkillLastStrike"
+    ]
+  },
+  {
+    "nro": 521,
+    "ryhmitys": 1,
+    "tunniste": "CultBoss4",
+    "nimi": "Preacher of Flames",
+    "luokitus": 2,
+    "elämäpisteet": 11000,
+    "osumatarkkuus": 75,
+    "osumavahinkoMin": 500,
+    "osumavahinkoMax": 700,
+    "hyökkäysjärjestys": 3,
+    "kokemuspisteet": 250,
+    "taidot": [
+      "UnitSkillAttackWeakestTarget",
+      "UnitSkillSplashDamage",
+      "UnitSkillLastStrike"
+    ]
+  },
+  {
+    "nro": 530,
+    "ryhmitys": 1,
+    "tunniste": "EpicRaidBoss1",
+    "nimi": "Giant Bogor",
+    "luokitus": 2,
+    "elämäpisteet": 90000,
+    "osumatarkkuus": 60,
+    "osumavahinkoMin": 100,
+    "osumavahinkoMax": 300,
+    "hyökkäysjärjestys": 3,
+    "kokemuspisteet": 400,
+    "taidot": [
+      "UnitSkillSplashDamage",
+      "UnitSkillLastStrike"
+    ]
+  },
+  {
+    "nro": 531,
+    "ryhmitys": 1,
+    "tunniste": "EpicRaidBoss2",
+    "nimi": "Giant Gogor",
+    "luokitus": 2,
+    "elämäpisteet": 70000,
+    "osumatarkkuus": 80,
+    "osumavahinkoMin": 100,
+    "osumavahinkoMax": 250,
+    "hyökkäysjärjestys": 3,
+    "kokemuspisteet": 350,
+    "taidot": [
+      "UnitSkillSplashDamage",
+      "UnitSkillLastStrike"
+    ]
+  },
+  {
+    "nro": 532,
+    "ryhmitys": 1,
+    "tunniste": "EpicRaidBoss3",
+    "nimi": "Unicorn",
+    "luokitus": 2,
+    "elämäpisteet": 30000,
+    "osumatarkkuus": 90,
+    "osumavahinkoMin": 250,
+    "osumavahinkoMax": 400,
+    "hyökkäysjärjestys": 2,
+    "kokemuspisteet": 300,
+    "taidot": [
+      "UnitSkillSplashDamage"
+    ]
+  },
+  {
+    "nro": 533,
+    "ryhmitys": 1,
+    "tunniste": "EpicRaidBoss4",
+    "nimi": "Furious Boar",
+    "luokitus": 2,
+    "elämäpisteet": 50000,
+    "osumatarkkuus": 90,
+    "osumavahinkoMin": 200,
+    "osumavahinkoMax": 300,
+    "hyökkäysjärjestys": 2,
+    "kokemuspisteet": 400,
+    "taidot": [
+      "UnitSkillSplashDamage"
+    ]
+  },
+  {
+    "nro": 534,
+    "ryhmitys": 1,
+    "tunniste": "EpicRaidBoss5",
+    "nimi": "Evil King",
+    "luokitus": 2,
+    "elämäpisteet": 30000,
+    "osumatarkkuus": 80,
+    "osumavahinkoMin": 200,
+    "osumavahinkoMax": 300,
+    "hyökkäysjärjestys": 2,
+    "kokemuspisteet": 250,
+    "taidot": [
+      "UnitSkillSplashDamage"
+    ]
+  },
+  {
+    "nro": 535,
+    "ryhmitys": 1,
+    "tunniste": "EpicRaidBoss6",
+    "nimi": "Iron Fist",
+    "luokitus": 2,
+    "elämäpisteet": 45000,
+    "osumatarkkuus": 85,
+    "osumavahinkoMin": 200,
+    "osumavahinkoMax": 250,
+    "hyökkäysjärjestys": 1,
+    "kokemuspisteet": 300,
+    "taidot": [
+      "UnitSkillSplashDamage",
+      "UnitSkillFirstStrike"
+    ]
+  },
+  {
+    "nro": 536,
+    "ryhmitys": 1,
+    "tunniste": "EpicRaidBoss7",
+    "nimi": "Giant Bear",
+    "luokitus": 2,
+    "elämäpisteet": 55000,
+    "osumatarkkuus": 60,
+    "osumavahinkoMin": 400,
+    "osumavahinkoMax": 750,
+    "hyökkäysjärjestys": 3,
+    "kokemuspisteet": 600,
+    "taidot": [
+      "UnitSkillSplashDamage",
+      "UnitSkillLastStrike"
+    ]
+  },
+  {
+    "nro": 537,
+    "ryhmitys": 1,
+    "tunniste": "EpicRaidBoss8",
+    "nimi": "Rivaling Tailor",
+    "luokitus": 2,
+    "elämäpisteet": 40000,
+    "osumatarkkuus": 75,
+    "osumavahinkoMin": 150,
+    "osumavahinkoMax": 250,
+    "hyökkäysjärjestys": 3,
+    "kokemuspisteet": 350,
+    "taidot": [
+      "UnitSkillAttackWeakestTarget",
+      "UnitSkillSplashDamage",
+      "UnitSkillLastStrike"
+    ]
+  },
+  {
+    "nro": 538,
+    "ryhmitys": 1,
+    "tunniste": "EpicRaidBoss9",
+    "nimi": "Black Bull",
+    "luokitus": 2,
+    "elämäpisteet": 60000,
+    "osumatarkkuus": 90,
+    "osumavahinkoMin": 250,
+    "osumavahinkoMax": 300,
+    "hyökkäysjärjestys": 2,
+    "kokemuspisteet": 500,
+    "taidot": [
+      "UnitSkillSplashDamage"
+    ]
+  },
+  {
+    "nro": 539,
+    "ryhmitys": 1,
+    "tunniste": "EpicRaidBoss10",
+    "nimi": "Dark Magician",
+    "luokitus": 2,
+    "elämäpisteet": 30000,
+    "osumatarkkuus": 80,
+    "osumavahinkoMin": 2000,
+    "osumavahinkoMax": 2500,
+    "hyökkäysjärjestys": 2,
+    "kokemuspisteet": 1000,
+    "taidot": [
+      "UnitSkillSplashDamage"
+    ]
+  },
+  {
+    "nro": 540,
+    "ryhmitys": 1,
+    "tunniste": "EpicRaidBoss11",
+    "nimi": "Lying Goat",
+    "luokitus": 2,
+    "elämäpisteet": 25000,
+    "osumatarkkuus": 85,
+    "osumavahinkoMin": 100,
+    "osumavahinkoMax": 150,
+    "hyökkäysjärjestys": 2,
+    "kokemuspisteet": 100,
+    "taidot": [
+      "UnitSkillAttackWeakestTarget",
+      "UnitSkillSplashDamage"
+    ]
+  },
+  {
+    "nro": 541,
+    "ryhmitys": 1,
+    "tunniste": "EpicRaidBoss12",
+    "nimi": "Cudgel Claus",
+    "luokitus": 2,
+    "elämäpisteet": 40000,
+    "osumatarkkuus": 80,
+    "osumavahinkoMin": 200,
+    "osumavahinkoMax": 300,
+    "hyökkäysjärjestys": 2,
+    "kokemuspisteet": 250,
+    "taidot": [
+      "UnitSkillSplashDamage"
+    ]
+  },
+  {
+    "nro": 542,
+    "ryhmitys": 1,
+    "tunniste": "EpicRaidBoss13",
+    "nimi": "Assassin",
+    "luokitus": 2,
+    "elämäpisteet": 30000,
+    "osumatarkkuus": 80,
+    "osumavahinkoMin": 200,
+    "osumavahinkoMax": 300,
+    "hyökkäysjärjestys": 1,
+    "kokemuspisteet": 350,
+    "taidot": [
+      "UnitSkillSplashDamage",
+      "UnitSkillAttackWeakestTarget",
+      "UnitSkillFirstStrike"
+    ]
+  },
+  {
+    "nro": 543,
+    "ryhmitys": 1,
+    "tunniste": "EpicRaidBoss14",
+    "nimi": "Greedy Inn-Keeper",
+    "luokitus": 2,
+    "elämäpisteet": 50000,
+    "osumatarkkuus": 80,
+    "osumavahinkoMin": 1500,
+    "osumavahinkoMax": 2000,
+    "hyökkäysjärjestys": 3,
+    "kokemuspisteet": 950,
+    "taidot": [
+      "UnitSkillAttackWeakestTarget",
+      "UnitSkillSplashDamage",
+      "UnitSkillLastStrike"
+    ]
+  },
+  {
+    "nro": 550,
+    "ryhmitys": 1,
+    "tunniste": "EpicRaidBossPiper",
+    "nimi": "The Pied Piper of Hamelin",
+    "luokitus": 2,
+    "elämäpisteet": 55000,
+    "osumatarkkuus": 90,
+    "osumavahinkoMin": 200,
+    "osumavahinkoMax": 450,
+    "hyökkäysjärjestys": 1,
+    "kokemuspisteet": 1900,
+    "taidot": [
+      "UnitSkillAttackWeakestTarget",
+      "UnitSkillFirstStrike",
+      "UnitSkillSplashDamage"
+    ]
+  },
+  {
+    "nro": 551,
+    "ryhmitys": 1,
+    "tunniste": "EpicRaidBossMayor",
+    "nimi": "The Mayor",
+    "luokitus": 2,
+    "elämäpisteet": 95000,
+    "osumatarkkuus": 80,
+    "osumavahinkoMin": 400,
+    "osumavahinkoMax": 600,
+    "hyökkäysjärjestys": 2,
+    "kokemuspisteet": 3200,
+    "taidot": [
+      "UnitSkillSplashDamage"
+    ]
+  },
+  {
+    "nro": 552,
+    "ryhmitys": 1,
+    "tunniste": "EpicRaidBossRatKing",
+    "nimi": "The King of Rats",
+    "luokitus": 2,
+    "elämäpisteet": 40000,
+    "osumatarkkuus": 60,
+    "osumavahinkoMin": 200,
+    "osumavahinkoMax": 800,
+    "hyökkäysjärjestys": 3,
+    "kokemuspisteet": 1300,
+    "taidot": [
+      "UnitSkillSplashDamage",
+      "UnitSkillLastStrike"
+    ]
+  },
+  {
+    "nro": 553,
+    "ryhmitys": 1,
+    "tunniste": "EpicRaidBossEvilQueen",
+    "nimi": "Ilsebille, the Evil Queen",
+    "luokitus": 2,
+    "elämäpisteet": 95000,
+    "osumatarkkuus": 80,
+    "osumavahinkoMin": 400,
+    "osumavahinkoMax": 600,
+    "hyökkäysjärjestys": 2,
+    "kokemuspisteet": 3200,
+    "taidot": [
+      "UnitSkillSplashDamage"
+    ]
+  },
+  {
+    "nro": 554,
+    "ryhmitys": 1,
+    "tunniste": "EpicRaidBossHuntsman",
+    "nimi": "Royal Huntsmen Leader",
+    "luokitus": 2,
+    "elämäpisteet": 45000,
+    "osumatarkkuus": 90,
+    "osumavahinkoMin": 200,
+    "osumavahinkoMax": 700,
+    "hyökkäysjärjestys": 3,
+    "kokemuspisteet": 1500,
+    "taidot": [
+      "UnitSkillSplashDamage",
+      "UnitSkillLastStrike"
+    ]
+  },
+  {
+    "nro": 555,
+    "ryhmitys": 1,
+    "tunniste": "EpicRaidBossStepmother",
+    "nimi": "The Evil Stepmother",
+    "luokitus": 2,
+    "elämäpisteet": 95000,
+    "osumatarkkuus": 80,
+    "osumavahinkoMin": 400,
+    "osumavahinkoMax": 600,
+    "hyökkäysjärjestys": 2,
+    "kokemuspisteet": 3200,
+    "taidot": [
+      "UnitSkillSplashDamage"
+    ]
+  },
+  {
+    "nro": 556,
+    "ryhmitys": 1,
+    "tunniste": "EpicRaidBossCaptain",
+    "nimi": "Royal Captain",
+    "luokitus": 2,
+    "elämäpisteet": 45000,
+    "osumatarkkuus": 80,
+    "osumavahinkoMin": 300,
+    "osumavahinkoMax": 500,
+    "hyökkäysjärjestys": 2,
+    "kokemuspisteet": 1500,
+    "taidot": [
+      "UnitSkillSplashDamage"
+    ]
+  },
+  {
+    "nro": 557,
+    "ryhmitys": 1,
+    "tunniste": "EpicRaidBossJuggernaut",
+    "nimi": "Royal Juggernaut",
+    "luokitus": 2,
+    "elämäpisteet": 70000,
+    "osumatarkkuus": 35,
+    "osumavahinkoMin": 200,
+    "osumavahinkoMax": 1000,
+    "hyökkäysjärjestys": 3,
+    "kokemuspisteet": 2300,
+    "taidot": [
+      "UnitSkillSplashDamage",
+      "UnitSkillLastStrike"
+    ]
+  },
+  {
+    "nro": 570,
+    "ryhmitys": 1,
+    "tunniste": "OrientalBanditBoss1",
+    "nimi": "Shrewd Thief",
+    "luokitus": 2,
+    "elämäpisteet": 1000,
+    "osumatarkkuus": 80,
+    "osumavahinkoMin": 250,
+    "osumavahinkoMax": 500,
+    "hyökkäysjärjestys": 2,
+    "kokemuspisteet": 52,
+    "taidot": [
+      "UnitSkillSplashDamage"
+    ]
+  },
+  {
+    "nro": 571,
+    "ryhmitys": 1,
+    "tunniste": "OrientalBanditBoss2",
+    "nimi": "Smart Thief",
+    "luokitus": 2,
+    "elämäpisteet": 5000,
+    "osumatarkkuus": 80,
+    "osumavahinkoMin": 500,
+    "osumavahinkoMax": 1000,
+    "hyökkäysjärjestys": 2,
+    "kokemuspisteet": 200,
+    "taidot": [
+      "UnitSkillSplashDamage"
+    ]
+  },
+  {
+    "nro": 572,
+    "ryhmitys": 1,
+    "tunniste": "OrientalBanditBoss3",
+    "nimi": "Mysterious Thief",
+    "luokitus": 2,
+    "elämäpisteet": 20000,
+    "osumatarkkuus": 80,
+    "osumavahinkoMin": 1000,
+    "osumavahinkoMax": 2000,
+    "hyökkäysjärjestys": 2,
+    "kokemuspisteet": 740,
+    "taidot": [
+      "UnitSkillSplashDamage"
+    ]
+  },
+  {
+    "nro": 573,
+    "ryhmitys": 1,
+    "tunniste": "OrientalBanditBoss4",
+    "nimi": "Treacherous Thief",
+    "luokitus": 2,
+    "elämäpisteet": 50000,
+    "osumatarkkuus": 80,
+    "osumavahinkoMin": 250,
+    "osumavahinkoMax": 500,
+    "hyökkäysjärjestys": 2,
+    "kokemuspisteet": 1700,
+    "taidot": [
+      "UnitSkillSplashDamage"
+    ]
+  },
+  {
+    "nro": 574,
+    "ryhmitys": 1,
+    "tunniste": "OrientalBanditBoss5",
+    "nimi": "Snooty Thief",
+    "luokitus": 2,
+    "elämäpisteet": 150000,
+    "osumatarkkuus": 80,
+    "osumavahinkoMin": 500,
+    "osumavahinkoMax": 1000,
+    "hyökkäysjärjestys": 2,
+    "kokemuspisteet": 5000,
+    "taidot": [
+      "UnitSkillSplashDamage"
+    ]
+  },
+  {
+    "nro": 575,
+    "ryhmitys": 1,
+    "tunniste": "OrientalBanditBoss6",
+    "nimi": "Grayed Thief",
+    "luokitus": 2,
+    "elämäpisteet": 500,
+    "osumatarkkuus": 80,
+    "osumavahinkoMin": 375,
+    "osumavahinkoMax": 750,
+    "hyökkäysjärjestys": 2,
+    "kokemuspisteet": 54,
+    "taidot": [
+      "UnitSkillSplashDamage",
+      "UnitSkillAttackWeakestTarget"
+    ]
+  },
+  {
+    "nro": 576,
+    "ryhmitys": 1,
+    "tunniste": "OrientalBanditBoss7",
+    "nimi": "Sneaking Thief",
+    "luokitus": 2,
+    "elämäpisteet": 1000,
+    "osumatarkkuus": 80,
+    "osumavahinkoMin": 250,
+    "osumavahinkoMax": 500,
+    "hyökkäysjärjestys": 1,
+    "kokemuspisteet": 62,
+    "taidot": [
+      "UnitSkillSplashDamage",
+      "UnitSkillFirstStrike"
+    ]
+  },
+  {
+    "nro": 577,
+    "ryhmitys": 1,
+    "tunniste": "OrientalBanditBoss8",
+    "nimi": "Scarred Thief",
+    "luokitus": 2,
+    "elämäpisteet": 500,
+    "osumatarkkuus": 80,
+    "osumavahinkoMin": 150,
+    "osumavahinkoMax": 300,
+    "hyökkäysjärjestys": 1,
+    "kokemuspisteet": 39,
+    "taidot": [
+      "UnitSkillSplashDamage",
+      "UnitSkillFirstStrike",
+      "UnitSkillAttackWeakestTarget"
+    ]
+  },
+  {
+    "nro": 578,
+    "ryhmitys": 1,
+    "tunniste": "OrientalBanditBoss9",
+    "nimi": "Greedy Thief",
+    "luokitus": 2,
+    "elämäpisteet": 10000,
+    "osumatarkkuus": 80,
+    "osumavahinkoMin": 2500,
+    "osumavahinkoMax": 5000,
+    "hyökkäysjärjestys": 3,
+    "kokemuspisteet": 470,
+    "taidot": [
+      "UnitSkillSplashDamage",
+      "UnitSkillLastStrike",
+      "UnitSkillAttackWeakestTarget"
+    ]
+  },
+  {
+    "nro": 579,
+    "ryhmitys": 1,
+    "tunniste": "OrientalBanditBoss10",
+    "nimi": "Silly Thief",
+    "luokitus": 2,
+    "elämäpisteet": 50000,
+    "osumatarkkuus": 80,
+    "osumavahinkoMin": 2000,
+    "osumavahinkoMax": 4000,
+    "hyökkäysjärjestys": 3,
+    "kokemuspisteet": 1800,
+    "taidot": [
+      "UnitSkillSplashDamage",
+      "UnitSkillLastStrike"
+    ]
+  },
+  {
+    "nro": 590,
+    "ryhmitys": 1,
+    "tunniste": "OrientalSailorBoss1",
+    "nimi": "Steersman",
+    "luokitus": 2,
+    "elämäpisteet": 250000,
+    "osumatarkkuus": 80,
+    "osumavahinkoMin": 250,
+    "osumavahinkoMax": 500,
+    "hyökkäysjärjestys": 2,
+    "kokemuspisteet": 8300,
+    "taidot": [
+      "UnitSkillSplashDamage"
+    ]
+  },
+  {
+    "nro": 591,
+    "ryhmitys": 1,
+    "tunniste": "OrientalSailorBoss2",
+    "nimi": "Mutineer",
+    "luokitus": 2,
+    "elämäpisteet": 5000,
+    "osumatarkkuus": 80,
+    "osumavahinkoMin": 2500,
+    "osumavahinkoMax": 5000,
+    "hyökkäysjärjestys": 1,
+    "kokemuspisteet": 450,
+    "taidot": [
+      "UnitSkillSplashDamage",
+      "UnitSkillFirstStrike"
+    ]
+  },
+  {
+    "nro": 592,
+    "ryhmitys": 1,
+    "tunniste": "OrientalSailorBoss3",
+    "nimi": "Captain",
+    "luokitus": 2,
+    "elämäpisteet": 10000,
+    "osumatarkkuus": 80,
+    "osumavahinkoMin": 4000,
+    "osumavahinkoMax": 8000,
+    "hyökkäysjärjestys": 3,
+    "kokemuspisteet": 560,
+    "taidot": [
+      "UnitSkillSplashDamage",
+      "UnitSkillLastStrike"
+    ]
+  },
+  {
+    "nro": 600,
+    "ryhmitys": 1,
+    "tunniste": "OrientalBanditLord",
+    "nimi": "Bandit Lord",
+    "luokitus": 2,
+    "elämäpisteet": 30000,
+    "osumatarkkuus": 90,
+    "osumavahinkoMin": 3500,
+    "osumavahinkoMax": 7000,
+    "hyökkäysjärjestys": 2,
+    "kokemuspisteet": 1400,
+    "taidot": [
+      "UnitSkillAttackWeakestTarget",
+      "UnitSkillSplashDamage"
+    ]
+  },
+  {
+    "nro": 601,
+    "ryhmitys": 1,
+    "tunniste": "OrientalCrumpyParrot",
+    "nimi": "Grumpy Parrot",
+    "luokitus": 2,
+    "elämäpisteet": 25000,
+    "osumatarkkuus": 95,
+    "osumavahinkoMin": 2000,
+    "osumavahinkoMax": 4000,
+    "hyökkäysjärjestys": 1,
+    "kokemuspisteet": 1100,
+    "taidot": [
+      "UnitSkillAttackWeakestTarget",
+      "UnitSkillSplashDamage",
+      "UnitSkillFirstStrike"
+    ]
+  },
+  {
+    "nro": 602,
+    "ryhmitys": 1,
+    "tunniste": "OrientalOasisGuardian",
+    "nimi": "Oasis Guardian",
+    "luokitus": 2,
+    "elämäpisteet": 40000,
+    "osumatarkkuus": 90,
+    "osumavahinkoMin": 5000,
+    "osumavahinkoMax": 10000,
+    "hyökkäysjärjestys": 2,
+    "kokemuspisteet": 1700,
+    "taidot": [
+      "UnitSkillSplashDamage"
+    ]
+  },
+  {
+    "nro": 603,
+    "ryhmitys": 1,
+    "tunniste": "OrientalBolderWorm",
+    "nimi": "Boulder Worm",
+    "luokitus": 2,
+    "elämäpisteet": 200000,
+    "osumatarkkuus": 80,
+    "osumavahinkoMin": 150,
+    "osumavahinkoMax": 300,
+    "hyökkäysjärjestys": 3,
+    "kokemuspisteet": 6600,
+    "taidot": [
+      "UnitSkillAttackWeakestTarget",
+      "UnitSkillSplashDamage",
+      "UnitSkillLastStrike"
+    ]
+  },
+  {
+    "nro": 604,
+    "ryhmitys": 1,
+    "tunniste": "OrientalGiantBat",
+    "nimi": "Giant Bat",
+    "luokitus": 2,
+    "elämäpisteet": 150000,
+    "osumatarkkuus": 90,
+    "osumavahinkoMin": 450,
+    "osumavahinkoMax": 900,
+    "hyökkäysjärjestys": 1,
+    "kokemuspisteet": 5000,
+    "taidot": [
+      "UnitSkillSplashDamage",
+      "UnitSkillFirstStrike"
+    ]
+  },
+  {
+    "nro": 605,
+    "ryhmitys": 1,
+    "tunniste": "OrientalGiantBlossom1",
+    "nimi": "Hungry Blossom",
+    "luokitus": 2,
+    "elämäpisteet": 10000,
+    "osumatarkkuus": 90,
+    "osumavahinkoMin": 2250,
+    "osumavahinkoMax": 4500,
+    "hyökkäysjärjestys": 1,
+    "kokemuspisteet": 680,
+    "taidot": [
+      "UnitSkillAttackWeakestTarget",
+      "UnitSkillSplashDamage",
+      "UnitSkillFirstStrike"
+    ]
+  },
+  {
+    "nro": 606,
+    "ryhmitys": 1,
+    "tunniste": "OrientalGiantBlossom2",
+    "nimi": "Fierce Blossom",
+    "luokitus": 2,
+    "elämäpisteet": 15000,
+    "osumatarkkuus": 90,
+    "osumavahinkoMin": 2750,
+    "osumavahinkoMax": 5500,
+    "hyökkäysjärjestys": 1,
+    "kokemuspisteet": 930,
+    "taidot": [
+      "UnitSkillAttackWeakestTarget",
+      "UnitSkillSplashDamage",
+      "UnitSkillFirstStrike"
+    ]
+  },
+  {
+    "nro": 607,
+    "ryhmitys": 1,
+    "tunniste": "OrientalGiantBlossom3",
+    "nimi": "Bulbous Blossom",
+    "luokitus": 2,
+    "elämäpisteet": 20000,
+    "osumatarkkuus": 90,
+    "osumavahinkoMin": 3250,
+    "osumavahinkoMax": 6500,
+    "hyökkäysjärjestys": 3,
+    "kokemuspisteet": 920,
+    "taidot": [
+      "UnitSkillAttackWeakestTarget",
+      "UnitSkillSplashDamage",
+      "UnitSkillLastStrike"
+    ]
+  },
+  {
+    "nro": 608,
+    "ryhmitys": 1,
+    "tunniste": "OrientalLibraryBoss",
+    "nimi": "Library Golem",
+    "luokitus": 2,
+    "elämäpisteet": 70000,
+    "osumatarkkuus": 90,
+    "osumavahinkoMin": 1750,
+    "osumavahinkoMax": 3500,
+    "hyökkäysjärjestys": 2,
+    "kokemuspisteet": 2500,
+    "taidot": [
+      "UnitSkillAttackWeakestTarget",
+      "UnitSkillSplashDamage"
+    ]
+  },
+  {
+    "nro": 609,
+    "ryhmitys": 1,
+    "tunniste": "OrientalStoneStatue1",
+    "nimi": "Large Stone Statue",
+    "luokitus": 2,
+    "elämäpisteet": 400000,
+    "osumatarkkuus": 90,
+    "osumavahinkoMin": 450,
+    "osumavahinkoMax": 1000,
+    "hyökkäysjärjestys": 3,
+    "kokemuspisteet": 13000,
+    "taidot": [
+      "UnitSkillSplashDamage",
+      "UnitSkillLastStrike"
+    ]
+  },
+  {
+    "nro": 610,
+    "ryhmitys": 1,
+    "tunniste": "OrientalStoneStatue2",
+    "nimi": "Mossy Stone Statue",
+    "luokitus": 2,
+    "elämäpisteet": 500000,
+    "osumatarkkuus": 90,
+    "osumavahinkoMin": 400,
+    "osumavahinkoMax": 800,
+    "hyökkäysjärjestys": 3,
+    "kokemuspisteet": 17000,
+    "taidot": [
+      "UnitSkillSplashDamage",
+      "UnitSkillLastStrike"
+    ]
+  },
+  {
+    "nro": 611,
+    "ryhmitys": 1,
+    "tunniste": "OrientalCannonTower1",
+    "nimi": "Giant Cannon",
+    "luokitus": 2,
+    "elämäpisteet": 35000,
+    "osumatarkkuus": 85,
+    "osumavahinkoMin": 7500,
+    "osumavahinkoMax": 15000,
+    "hyökkäysjärjestys": 3,
+    "kokemuspisteet": 1600,
+    "taidot": [
+      "UnitSkillSplashDamage",
+      "UnitSkillLastStrike"
+    ]
+  },
+  {
+    "nro": 613,
+    "ryhmitys": 1,
+    "tunniste": "OrientalInformant",
+    "nimi": "Informant",
+    "luokitus": 2,
+    "elämäpisteet": 50000,
+    "osumatarkkuus": 90,
+    "osumavahinkoMin": 4500,
+    "osumavahinkoMax": 9000,
+    "hyökkäysjärjestys": 2,
+    "kokemuspisteet": 2000,
+    "taidot": [
+      "UnitSkillSplashDamage"
+    ]
+  },
+  {
+    "nro": 614,
+    "ryhmitys": 1,
+    "tunniste": "OrientalGiantSeaSnake",
+    "nimi": "Giant Sea Snake",
+    "luokitus": 2,
+    "elämäpisteet": 700000,
+    "osumatarkkuus": 80,
+    "osumavahinkoMin": 300,
+    "osumavahinkoMax": 600,
+    "hyökkäysjärjestys": 3,
+    "kokemuspisteet": 23000,
+    "taidot": [
+      "UnitSkillSplashDamage",
+      "UnitSkillLastStrike"
+    ]
+  },
+  {
+    "nro": 615,
+    "ryhmitys": 1,
+    "tunniste": "OrientalGuard1",
+    "nimi": "Grumpy Guard",
+    "luokitus": 2,
+    "elämäpisteet": 25000,
+    "osumatarkkuus": 90,
+    "osumavahinkoMin": 500,
+    "osumavahinkoMax": 1000,
+    "hyökkäysjärjestys": 1,
+    "kokemuspisteet": 910,
+    "taidot": [
+      "UnitSkillAttackWeakestTarget",
+      "UnitSkillSplashDamage",
+      "UnitSkillFirstStrike"
+    ]
+  },
+  {
+    "nro": 616,
+    "ryhmitys": 1,
+    "tunniste": "OrientalGuard2",
+    "nimi": "Insane Guard",
+    "luokitus": 2,
+    "elämäpisteet": 50000,
+    "osumatarkkuus": 90,
+    "osumavahinkoMin": 250,
+    "osumavahinkoMax": 500,
+    "hyökkäysjärjestys": 3,
+    "kokemuspisteet": 1700,
+    "taidot": [
+      "UnitSkillAttackWeakestTarget",
+      "UnitSkillSplashDamage",
+      "UnitSkillLastStrike"
+    ]
+  },
+  {
+    "nro": 617,
+    "ryhmitys": 1,
+    "tunniste": "OrientalCorruptedBolderWorm",
+    "nimi": "Corrupted Boulder Worm",
+    "luokitus": 2,
+    "elämäpisteet": 100000,
+    "osumatarkkuus": 80,
+    "osumavahinkoMin": 3500,
+    "osumavahinkoMax": 5000,
+    "hyökkäysjärjestys": 3,
+    "kokemuspisteet": 66000,
+    "taidot": [
+      "UnitSkillAttackWeakestTarget",
+      "UnitSkillSplashDamage",
+      "UnitSkillLastStrike"
+    ]
+  },
+  {
+    "nro": 618,
+    "ryhmitys": 1,
+    "tunniste": "OrientalCorruptedGiantBat",
+    "nimi": "Corrupted Giant Bat",
+    "luokitus": 2,
+    "elämäpisteet": 150000,
+    "osumatarkkuus": 90,
+    "osumavahinkoMin": 5500,
+    "osumavahinkoMax": 7000,
+    "hyökkäysjärjestys": 1,
+    "kokemuspisteet": 60000,
+    "taidot": [
+      "UnitSkillSplashDamage",
+      "UnitSkillFirstStrike"
+    ]
+  },
+  {
+    "nro": 630,
+    "ryhmitys": 1,
+    "tunniste": "ChupacabraBoss",
+    "nimi": "El Chupacabra",
+    "luokitus": 2,
+    "elämäpisteet": 50000,
+    "osumatarkkuus": 90,
+    "osumavahinkoMin": 350,
+    "osumavahinkoMax": 500,
+    "hyökkäysjärjestys": 3,
+    "kokemuspisteet": 700,
+    "taidot": [
+      "UnitSkillAttackWeakestTarget",
+      "UnitSkillLastStrike"
+    ]
+  },
+  {
+    "nro": 631,
+    "ryhmitys": 1,
+    "tunniste": "DragonBoss",
+    "nimi": "Ancient Dragon",
+    "luokitus": 2,
+    "elämäpisteet": 50000,
+    "osumatarkkuus": 50,
+    "osumavahinkoMin": 500,
+    "osumavahinkoMax": 750,
+    "hyökkäysjärjestys": 1,
+    "kokemuspisteet": 400,
+    "taidot": [
+      "UnitSkillFirstStrike",
+      "UnitSkillSplashDamage"
+    ]
+  },
+  {
+    "nro": 640,
+    "ryhmitys": 1,
+    "tunniste": "PartyCrasherBoss1",
+    "nimi": "Denis the Delinquent",
+    "luokitus": 2,
+    "elämäpisteet": 5000,
+    "osumatarkkuus": 80,
+    "osumavahinkoMin": 100,
+    "osumavahinkoMax": 200,
+    "hyökkäysjärjestys": 1,
+    "kokemuspisteet": 1500,
+    "taidot": [
+      "UnitSkillFirstStrike",
+      "UnitSkillAttackWeakestTarget"
+    ]
+  },
+  {
+    "nro": 641,
+    "ryhmitys": 1,
+    "tunniste": "PartyCrasherBoss2",
+    "nimi": "Alex the Troublemaker",
+    "luokitus": 2,
+    "elämäpisteet": 17000,
+    "osumatarkkuus": 90,
+    "osumavahinkoMin": 700,
+    "osumavahinkoMax": 1500,
+    "hyökkäysjärjestys": 3,
+    "kokemuspisteet": 7500,
+    "taidot": [
+      "UnitSkillLastStrike",
+      "UnitSkillSplashDamage"
+    ]
+  },
+  {
+    "nro": 642,
+    "ryhmitys": 1,
+    "tunniste": "PartyCrasherBoss3",
+    "nimi": "Bob the Miscreant",
+    "luokitus": 2,
+    "elämäpisteet": 35000,
+    "osumatarkkuus": 70,
+    "osumavahinkoMin": 1250,
+    "osumavahinkoMax": 2500,
+    "hyökkäysjärjestys": 3,
+    "kokemuspisteet": 17500,
+    "taidot": [
+      "UnitSkillLastStrike",
+      "UnitSkillSplashDamage"
+    ]
+  },
+  {
+    "nro": 650,
+    "ryhmitys": 1,
+    "tunniste": "ChristmasBoss1",
+    "nimi": "Croaker",
+    "luokitus": 2,
+    "elämäpisteet": 10000,
+    "osumatarkkuus": 50,
+    "osumavahinkoMin": 500,
+    "osumavahinkoMax": 700,
+    "hyökkäysjärjestys": 3,
+    "kokemuspisteet": 200,
+    "taidot": [
+      "UnitSkillAttackWeakestTarget",
+      "UnitSkillLastStrike",
+      "UnitSkillSplashDamage"
+    ]
+  },
+  {
+    "nro": 653,
+    "ryhmitys": 1,
+    "tunniste": "BirthdayShaman",
+    "nimi": "Mystical Shaman",
+    "luokitus": 2,
+    "elämäpisteet": 9000,
+    "osumatarkkuus": 70,
+    "osumavahinkoMin": 200,
+    "osumavahinkoMax": 500,
+    "hyökkäysjärjestys": 2,
+    "kokemuspisteet": 500,
+    "taidot": [
+      "UnitSkillAttackWeakestTarget",
+      "UnitSkillSplashDamage"
+    ]
+  },
+  {
+    "nro": 654,
+    "ryhmitys": 1,
+    "tunniste": "TMC_v1_NordsRightHandBoss",
+    "nimi": "Steel Beard",
+    "luokitus": 2,
+    "elämäpisteet": 30000,
+    "osumatarkkuus": 50,
+    "osumavahinkoMin": 1500,
+    "osumavahinkoMax": 3000,
+    "hyökkäysjärjestys": 3,
+    "kokemuspisteet": 4900,
+    "taidot": [
+      "UnitSkillLastStrike",
+      "UnitSkillSplashDamage"
+    ]
+  },
+  {
+    "nro": 655,
+    "ryhmitys": 1,
+    "tunniste": "TMC_ColossalEagleBoss",
+    "nimi": "Colossal Eagle",
+    "luokitus": 2,
+    "elämäpisteet": 150000,
+    "osumatarkkuus": 85,
+    "osumavahinkoMin": 6400,
+    "osumavahinkoMax": 6500,
+    "hyökkäysjärjestys": 1,
+    "kokemuspisteet": 26000,
+    "taidot": [
+      "UnitSkillFirstStrike",
+      "UnitSkillSplashDamage"
+    ]
+  },
+  {
+    "nro": 656,
+    "ryhmitys": 1,
+    "tunniste": "TMC_BossMammoth",
+    "nimi": "Mammoth",
+    "luokitus": 2,
+    "elämäpisteet": 750000,
+    "osumatarkkuus": 90,
+    "osumavahinkoMin": 1400,
+    "osumavahinkoMax": 1600,
+    "hyökkäysjärjestys": 1,
+    "kokemuspisteet": 76000,
+    "taidot": [
+      "UnitSkillFirstStrike",
+      "UnitSkillSplashDamage"
+    ]
+  },
+  {
+    "nro": 657,
+    "ryhmitys": 1,
+    "tunniste": "TMC_BossWinterTerror",
+    "nimi": "Winter Terror",
+    "luokitus": 2,
+    "elämäpisteet": 45000,
+    "osumatarkkuus": 75,
+    "osumavahinkoMin": 9500,
+    "osumavahinkoMax": 10000,
+    "hyökkäysjärjestys": 1,
+    "kokemuspisteet": 22000,
+    "taidot": [
+      "UnitSkillAttackWeakestTarget",
+      "UnitSkillFirstStrike",
+      "UnitSkillSplashDamage"
+    ]
+  },
+  {
+    "nro": 658,
+    "ryhmitys": 1,
+    "tunniste": "TMC_BossSmilodon",
+    "nimi": "Smilodon",
+    "luokitus": 2,
+    "elämäpisteet": 45000,
+    "osumatarkkuus": 35,
+    "osumavahinkoMin": 17000,
+    "osumavahinkoMax": 18000,
+    "hyökkäysjärjestys": 1,
+    "kokemuspisteet": 34000,
+    "taidot": [
+      "UnitSkillFirstStrike",
+      "UnitSkillSplashDamage"
+    ]
+  },
+  {
+    "nro": 659,
+    "ryhmitys": 1,
+    "tunniste": "TMC_BossEnormousIbex",
+    "nimi": "Enormous Ibex",
+    "luokitus": 2,
+    "elämäpisteet": 80000,
+    "osumatarkkuus": 50,
+    "osumavahinkoMin": 1000,
+    "osumavahinkoMax": 1500,
+    "hyökkäysjärjestys": 1,
+    "kokemuspisteet": 10000,
+    "taidot": [
+      "UnitSkillFirstStrike",
+      "UnitSkillSplashDamage",
+      "UnitSkillAttackWeakestTarget"
+    ]
+  },
+  {
+    "nro": 660,
+    "ryhmitys": 1,
+    "tunniste": "TMC_BossGhastlyWolf",
+    "nimi": "Ghastly Wolf",
+    "luokitus": 2,
+    "elämäpisteet": 10000,
+    "osumatarkkuus": 50,
+    "osumavahinkoMin": 5000,
+    "osumavahinkoMax": 6000,
+    "hyökkäysjärjestys": 1,
+    "kokemuspisteet": 11000,
+    "taidot": [
+      "UnitSkillFirstStrike",
+      "UnitSkillSplashDamage",
+      "UnitSkillAttackWeakestTarget"
+    ]
+  },
+  {
+    "nro": 661,
+    "ryhmitys": 1,
+    "tunniste": "TMC_BossParagonElk",
+    "nimi": "Paragon Elk",
+    "luokitus": 2,
+    "elämäpisteet": 250000,
+    "osumatarkkuus": 75,
+    "osumavahinkoMin": 5000,
+    "osumavahinkoMax": 6000,
+    "hyökkäysjärjestys": 3,
+    "kokemuspisteet": 29000,
+    "taidot": [
+      "UnitSkillLastStrike",
+      "UnitSkillSplashDamage"
+    ]
+  },
+  {
+    "nro": 662,
+    "ryhmitys": 1,
+    "tunniste": "TMC_BossFrostGiantKing_0",
+    "nimi": "Risi",
+    "luokitus": 2,
+    "elämäpisteet": 1000000,
+    "osumatarkkuus": 95,
+    "osumavahinkoMin": 550,
+    "osumavahinkoMax": 600,
+    "hyökkäysjärjestys": 1,
+    "kokemuspisteet": 99000,
+    "taidot": [
+      "UnitSkillFirstStrike",
+      "UnitSkillSplashDamage",
+      "UnitSkillAttackWeakestTarget"
+    ]
+  },
+  {
+    "nro": 663,
+    "ryhmitys": 1,
+    "tunniste": "TMC_BossFrostGiantKing_1",
+    "nimi": "Risi",
+    "luokitus": 2,
+    "elämäpisteet": 1000000,
+    "osumatarkkuus": 95,
+    "osumavahinkoMin": 550,
+    "osumavahinkoMax": 600,
+    "hyökkäysjärjestys": 3,
+    "kokemuspisteet": 99000,
+    "taidot": [
+      "UnitSkillLastStrike",
+      "UnitSkillSplashDamage",
+      "UnitSkillAttackWeakestTarget"
+    ]
+  },
+  {
+    "nro": 664,
+    "ryhmitys": 1,
+    "tunniste": "TMC_BossFrostGiantKing_2",
+    "nimi": "Risi",
+    "luokitus": 2,
+    "elämäpisteet": 900000,
+    "osumatarkkuus": 95,
+    "osumavahinkoMin": 550,
+    "osumavahinkoMax": 600,
+    "hyökkäysjärjestys": 3,
+    "kokemuspisteet": 89000,
+    "taidot": [
+      "UnitSkillLastStrike",
+      "UnitSkillSplashDamage",
+      "UnitSkillAttackWeakestTarget"
+    ]
+  },
+  {
+    "nro": 665,
+    "ryhmitys": 1,
+    "tunniste": "TMC_BossFrostGiantKing_3",
+    "nimi": "Risi",
+    "luokitus": 2,
+    "elämäpisteet": 900000,
+    "osumatarkkuus": 95,
+    "osumavahinkoMin": 500,
+    "osumavahinkoMax": 550,
+    "hyökkäysjärjestys": 3,
+    "kokemuspisteet": 89000,
+    "taidot": [
+      "UnitSkillLastStrike",
+      "UnitSkillSplashDamage",
+      "UnitSkillAttackWeakestTarget"
+    ]
+  },
+  {
+    "nro": 666,
+    "ryhmitys": 1,
+    "tunniste": "TMC_BossFrostGiantKing_4",
+    "nimi": "Risi",
+    "luokitus": 2,
+    "elämäpisteet": 900000,
+    "osumatarkkuus": 15,
+    "osumavahinkoMin": 500,
+    "osumavahinkoMax": 550,
+    "hyökkäysjärjestys": 3,
+    "kokemuspisteet": 89000,
+    "taidot": [
+      "UnitSkillLastStrike",
+      "UnitSkillSplashDamage",
+      "UnitSkillAttackWeakestTarget"
+    ]
+  },
+  {
+    "nro": 667,
+    "ryhmitys": 1,
+    "tunniste": "TMC_BossNordsLeader",
+    "nimi": "Bandit Lord Björn",
+    "luokitus": 2,
+    "elämäpisteet": 35000,
+    "osumatarkkuus": 90,
+    "osumavahinkoMin": 3000,
+    "osumavahinkoMax": 4000,
+    "hyökkäysjärjestys": 2,
+    "kokemuspisteet": 6900,
+    "taidot": [
+      "UnitSkillSplashDamage"
+    ]
+  },
+  {
+    "nro": 668,
+    "ryhmitys": 1,
+    "tunniste": "MadScientistBoss",
+    "nimi": "Mad Scientist",
+    "luokitus": 2,
+    "elämäpisteet": 30000,
+    "osumatarkkuus": 85,
+    "osumavahinkoMin": 750,
+    "osumavahinkoMax": 1000,
+    "hyökkäysjärjestys": 3,
+    "kokemuspisteet": 130,
+    "taidot": [
+      "UnitSkillLastStrike",
+      "UnitSkillSplashDamage"
+    ]
+  },
+  {
+    "nro": 669,
+    "ryhmitys": 1,
+    "tunniste": "DarkLordBoss",
+    "nimi": "Dark Lord",
+    "luokitus": 2,
+    "elämäpisteet": 50000,
+    "osumatarkkuus": 80,
+    "osumavahinkoMin": 300,
+    "osumavahinkoMax": 600,
+    "hyökkäysjärjestys": 2,
+    "kokemuspisteet": 170,
+    "taidot": [
+      "UnitSkillSplashDamage"
+    ]
+  },
+  {
+    "nro": 671,
+    "ryhmitys": 1,
+    "tunniste": "ChristmasBossTwin1",
+    "nimi": "Ribbitha",
+    "luokitus": 2,
+    "elämäpisteet": 30000,
+    "osumatarkkuus": 80,
+    "osumavahinkoMin": 700,
+    "osumavahinkoMax": 800,
+    "hyökkäysjärjestys": 2,
+    "kokemuspisteet": 100,
+    "taidot": [
+      "UnitSkillSplashDamage"
+    ]
+  },
+  {
+    "nro": 672,
+    "ryhmitys": 1,
+    "tunniste": "ChristmasBossTwin2",
+    "nimi": "Ribbitha",
+    "luokitus": 2,
+    "elämäpisteet": 45000,
+    "osumatarkkuus": 80,
+    "osumavahinkoMin": 700,
+    "osumavahinkoMax": 800,
+    "hyökkäysjärjestys": 2,
+    "kokemuspisteet": 150,
+    "taidot": [
+      "UnitSkillSplashDamage"
+    ]
+  },
+  {
+    "nro": 673,
+    "ryhmitys": 1,
+    "tunniste": "ChristmasBossTwin3",
+    "nimi": "Ribbitha",
+    "luokitus": 2,
+    "elämäpisteet": 65000,
+    "osumatarkkuus": 80,
+    "osumavahinkoMin": 700,
+    "osumavahinkoMax": 800,
+    "hyökkäysjärjestys": 2,
+    "kokemuspisteet": 200,
+    "taidot": [
+      "UnitSkillSplashDamage"
+    ]
+  },
+  {
+    "nro": 800,
+    "ryhmitys": 1,
+    "tunniste": "TreasureShipLoot",
+    "nimi": "Treasure",
+    "luokitus": 6,
+    "elämäpisteet": 1,
+    "hyökkäysjärjestys": 2,
+    "kokemuspisteet": 250
+  },
+  {
+    "nro": 901,
+    "ryhmitys": 2,
+    "tunniste": "General",
+    "nimi": "General",
+    "luokitus": 1,
+    "elämäpisteet": 1,
+    "osumatarkkuus": 80,
+    "osumavahinkoMin": 120,
+    "osumavahinkoMax": 120,
+    "hyökkäysjärjestys": 2
+  },
+  {
+    "nro": 903,
+    "ryhmitys": 2,
+    "tunniste": "StarGeneral2",
+    "nimi": "Master of Defense",
+    "luokitus": 1,
+    "elämäpisteet": 5000,
+    "osumatarkkuus": 80,
+    "osumavahinkoMin": 25,
+    "osumavahinkoMax": 50,
+    "hyökkäysjärjestys": 2,
+    "taidot": [
+      "UnitSkillAttackWeakestTarget",
+      "UnitSkillSplashDamage"
+    ]
+  },
+  {
+    "nro": 904,
+    "ryhmitys": 2,
+    "tunniste": "StarGeneral3",
+    "nimi": "Master of Martial Arts",
+    "luokitus": 1,
+    "elämäpisteet": 1,
+    "osumatarkkuus": 80,
+    "osumavahinkoMin": 450,
+    "osumavahinkoMax": 500,
+    "hyökkäysjärjestys": 1,
+    "taidot": [
+      "UnitSkillSplashDamage",
+      "UnitSkillFirstStrike",
+      "UnitSkillAttackWeakestTarget"
+    ]
+  },
+  {
+    "nro": 906,
+    "ryhmitys": 2,
+    "tunniste": "HalloweenGeneralDracul",
+    "nimi": "Lord Dracul",
+    "luokitus": 1,
+    "elämäpisteet": 999,
+    "osumatarkkuus": 77,
+    "osumavahinkoMin": 111,
+    "osumavahinkoMax": 333,
+    "hyökkäysjärjestys": 1,
+    "taidot": [
+      "UnitSkillSplashDamage",
+      "UnitSkillFirstStrike"
+    ]
+  },
+  {
+    "nro": 907,
+    "ryhmitys": 2,
+    "tunniste": "GeneralVargus",
+    "nimi": "Champion Vargus",
+    "luokitus": 1,
+    "elämäpisteet": 200,
+    "osumatarkkuus": 80,
+    "osumavahinkoMin": 750,
+    "osumavahinkoMax": 1250,
+    "hyökkäysjärjestys": 1,
+    "taidot": [
+      "UnitSkillSplashDamage",
+      "UnitSkillFirstStrike",
+      "Trait_Vargus"
+    ]
+  },
+  {
+    "nro": 908,
+    "ryhmitys": 2,
+    "tunniste": "GeneralAnslem",
+    "nimi": "Champion Anslem",
+    "luokitus": 1,
+    "elämäpisteet": 150,
+    "osumatarkkuus": 50,
+    "osumavahinkoMin": 1000,
+    "osumavahinkoMax": 1500,
+    "hyökkäysjärjestys": 2,
+    "taidot": [
+      "UnitSkillSplashDamage",
+      "UnitSkillAttackWeakestTarget",
+      "Trait_Anslem"
+    ]
+  },
+  {
+    "nro": 909,
+    "ryhmitys": 2,
+    "tunniste": "GeneralNusala",
+    "nimi": "Champion Nusala",
+    "luokitus": 1,
+    "elämäpisteet": 150,
+    "osumatarkkuus": 90,
+    "osumavahinkoMin": 1000,
+    "osumavahinkoMax": 1500,
+    "hyökkäysjärjestys": 1,
+    "taidot": [
+      "UnitSkillSplashDamage",
+      "UnitSkillFirstStrike",
+      "UnitSkillAttackWeakestTarget",
+      "Trait_Nusala"
+    ]
+  },
+  {
+    "nro": 910,
+    "ryhmitys": 2,
+    "tunniste": "MasterGeneral",
+    "nimi": "Battle Hardened General",
+    "luokitus": 1,
+    "elämäpisteet": 1,
+    "osumatarkkuus": 80,
+    "osumavahinkoMin": 120,
+    "osumavahinkoMax": 120,
+    "hyökkäysjärjestys": 2
+  },
+  {
+    "nro": 911,
+    "ryhmitys": 2,
+    "tunniste": "HalloweenGeneral",
+    "nimi": "Grim Reaper General",
+    "luokitus": 1,
+    "elämäpisteet": 1,
+    "osumatarkkuus": 80,
+    "osumavahinkoMin": 120,
+    "osumavahinkoMax": 120,
+    "hyökkäysjärjestys": 2
+  },
+  {
+    "nro": 912,
+    "ryhmitys": 2,
+    "tunniste": "RetailBoxGeneral",
+    "nimi": "General Bighelmet",
+    "luokitus": 1,
+    "elämäpisteet": 1,
+    "osumatarkkuus": 80,
+    "osumavahinkoMin": 120,
+    "osumavahinkoMax": 120,
+    "hyökkäysjärjestys": 2
+  },
+  {
+    "nro": 913,
+    "ryhmitys": 2,
+    "tunniste": "EasterGeneral",
+    "nimi": "Veteran",
+    "luokitus": 1,
+    "elämäpisteet": 1,
+    "osumatarkkuus": 80,
+    "osumavahinkoMin": 120,
+    "osumavahinkoMax": 120,
+    "hyökkäysjärjestys": 2
+  },
+  {
+    "nro": 914,
+    "ryhmitys": 2,
+    "tunniste": "RetailBox2General",
+    "nimi": "General Log",
+    "luokitus": 1,
+    "elämäpisteet": 1,
+    "osumatarkkuus": 80,
+    "osumavahinkoMin": 120,
+    "osumavahinkoMax": 120,
+    "hyökkäysjärjestys": 2
+  },
+  {
+    "nro": 915,
+    "ryhmitys": 2,
+    "tunniste": "MajorGeneral",
+    "nimi": "Major General",
+    "luokitus": 1,
+    "elämäpisteet": 1,
+    "osumatarkkuus": 80,
+    "osumavahinkoMin": 120,
+    "osumavahinkoMax": 120,
+    "hyökkäysjärjestys": 2
+  },
+  {
+    "nro": 918,
+    "ryhmitys": 2,
+    "tunniste": "GeneralMary",
+    "nimi": "General Mary Christmas",
+    "luokitus": 1,
+    "elämäpisteet": 100,
+    "osumatarkkuus": 80,
+    "osumavahinkoMin": 125,
+    "osumavahinkoMax": 250,
+    "hyökkäysjärjestys": 2,
+    "taidot": [
+      "Trait_MaryDoubleXP"
+    ]
+  },
+  {
+    "nro": 919,
+    "ryhmitys": 2,
+    "tunniste": "MedicGeneral",
+    "nimi": "Field Medic General",
+    "luokitus": 1,
+    "elämäpisteet": 100,
+    "osumatarkkuus": 80,
+    "osumavahinkoMin": 120,
+    "osumavahinkoMax": 120,
+    "hyökkäysjärjestys": 2,
+    "taidot": [
+      "Trait_MedicResurrectLosses"
+    ]
+  },
+  {
+    "nro": 920,
+    "ryhmitys": 2,
+    "tunniste": "MadScientistGeneral",
+    "nimi": "Mad Scientist",
+    "luokitus": 1,
+    "elämäpisteet": 1,
+    "osumatarkkuus": 60,
+    "osumavahinkoMin": 300,
+    "osumavahinkoMax": 600,
+    "hyökkäysjärjestys": 3,
+    "taidot": [
+      "UnitSkillBonusDamageBuildings",
+      "UnitSkillSplashDamage",
+      "UnitSkillLastStrike",
+      "Trait_MadScientist"
+    ]
+  },
+  {
+    "nro": 921,
+    "ryhmitys": 2,
+    "tunniste": "BorisGeneral",
+    "nimi": "General Boris",
+    "luokitus": 1,
+    "elämäpisteet": 100,
+    "osumatarkkuus": 80,
+    "osumavahinkoMin": 700,
+    "osumavahinkoMax": 1000,
+    "hyökkäysjärjestys": 1,
+    "taidot": [
+      "UnitSkillFirstStrike",
+      "UnitSkillAttackWeakestTarget",
+      "UnitSkillSplashDamage",
+      "Trait_Boris"
+    ]
+  },
+  {
+    "nro": 922,
+    "ryhmitys": 2,
+    "tunniste": "Anniversary2019General",
+    "nimi": "Older Gemini General",
+    "luokitus": 1,
+    "elämäpisteet": 100,
+    "osumatarkkuus": 80,
+    "osumavahinkoMin": 125,
+    "osumavahinkoMax": 250,
+    "hyökkäysjärjestys": 1,
+    "taidot": [
+      "UnitSkillAttackWeakestTarget",
+      "UnitSkillSplashDamage",
+      "UnitSkillFirstStrike",
+      "Trait_Anniversary2019General"
+    ]
+  },
+  {
+    "nro": 923,
+    "ryhmitys": 2,
+    "tunniste": "Halloween2019General",
+    "nimi": "Younger Gemini General",
+    "luokitus": 1,
+    "elämäpisteet": 2000,
+    "osumatarkkuus": 90,
+    "osumavahinkoMin": 4500,
+    "osumavahinkoMax": 5000,
+    "hyökkäysjärjestys": 2,
+    "taidot": [
+      "UnitSkillAttackWeakestTarget",
+      "UnitSkillSplashDamage",
+      "Trait_Halloween2019General"
+    ]
+  },
+  {
+    "nro": 924,
+    "ryhmitys": 2,
+    "tunniste": "Xmas2019General",
+    "nimi": "Steadfast General",
+    "luokitus": 1,
+    "elämäpisteet": 10000,
+    "osumatarkkuus": 70,
+    "osumavahinkoMin": 100,
+    "osumavahinkoMax": 200,
+    "hyökkäysjärjestys": 2,
+    "taidot": [
+      "UnitSkillAttackWeakestTarget",
+      "UnitSkillSplashDamage",
+      "Trait_Xmas2019General"
+    ]
+  },
+  {
+    "nro": 925,
+    "ryhmitys": 2,
+    "tunniste": "AssassinGeneral",
+    "nimi": "Cloaked General",
+    "luokitus": 1,
+    "elämäpisteet": 1000,
+    "osumatarkkuus": 10,
+    "osumavahinkoMin": 500,
+    "osumavahinkoMax": 5000,
+    "hyökkäysjärjestys": 1,
+    "taidot": [
+      "UnitSkillSplashDamage",
+      "UnitSkillFirstStrike",
+      "Trait_AssassinGeneral"
+    ]
+  },
+  {
+    "nro": 926,
+    "ryhmitys": 2,
+    "tunniste": "SylvanaGeneral",
+    "nimi": "General Sylvana",
+    "luokitus": 1,
+    "elämäpisteet": 100,
+    "osumatarkkuus": 80,
+    "osumavahinkoMin": 700,
+    "osumavahinkoMax": 1000,
+    "hyökkäysjärjestys": 1,
+    "taidot": [
+      "UnitSkillFirstStrike",
+      "UnitSkillAttackWeakestTarget",
+      "UnitSkillSplashDamage",
+      "Trait_Sylvana"
+    ]
+  },
+  {
+    "nro": 927,
+    "ryhmitys": 2,
+    "tunniste": "GeneralTrembleBeard",
+    "nimi": "General Tremble Beard",
+    "luokitus": 1,
+    "elämäpisteet": 1,
+    "osumatarkkuus": 90,
+    "osumavahinkoMin": 375,
+    "osumavahinkoMax": 425,
+    "hyökkäysjärjestys": 1,
+    "taidot": [
+      "UnitSkillFirstStrike",
+      "UnitSkillAttackWeakestTarget",
+      "UnitSkillSplashDamage",
+      "Trait_TrembleBeard"
+    ]
+  },
+  {
+    "nro": 928,
+    "ryhmitys": 2,
+    "tunniste": "GhostGeneral",
+    "nimi": "Ghost General",
+    "luokitus": 1,
+    "elämäpisteet": 2,
+    "osumatarkkuus": 85,
+    "osumavahinkoMin": 777,
+    "osumavahinkoMax": 999,
+    "hyökkäysjärjestys": 3,
+    "taidot": [
+      "UnitSkillLastStrike",
+      "UnitSkillAttackWeakestTarget",
+      "UnitSkillSplashDamage",
+      "Trait_GhostGeneral"
+    ]
+  },
+  {
+    "nro": 929,
+    "ryhmitys": 2,
+    "tunniste": "FrostyGeneral",
+    "nimi": "Frosty General",
+    "luokitus": 1,
+    "elämäpisteet": 2412,
+    "osumatarkkuus": 24,
+    "osumavahinkoMin": 2412,
+    "osumavahinkoMax": 2612,
+    "hyökkäysjärjestys": 2,
+    "taidot": [
+      "UnitSkillSplashDamage",
+      "Trait_FrostyGeneral"
+    ]
+  },
+  {
+    "nro": 930,
+    "ryhmitys": 2,
+    "tunniste": "LonerGeneral",
+    "nimi": "Loner General",
+    "luokitus": 1,
+    "elämäpisteet": 500,
+    "osumatarkkuus": 95,
+    "osumavahinkoMin": 500,
+    "osumavahinkoMax": 2000,
+    "hyökkäysjärjestys": 1,
+    "taidot": [
+      "UnitSkillSplashDamage",
+      "UnitSkillFirstStrike",
+      "Trait_LonerGeneral"
+    ]
+  },
+  {
+    "nro": 931,
+    "ryhmitys": 2,
+    "tunniste": "GeneralLoudmouth",
+    "nimi": "General Loudmouth",
+    "luokitus": 1,
+    "elämäpisteet": 300,
+    "osumatarkkuus": 80,
+    "osumavahinkoMin": 800,
+    "osumavahinkoMax": 1100,
+    "hyökkäysjärjestys": 1,
+    "taidot": [
+      "UnitSkillFirstStrike",
+      "Trait_Loudmouth"
+    ]
+  },
+  {
+    "nro": 932,
+    "ryhmitys": 2,
+    "tunniste": "NutcrackerGeneral",
+    "nimi": "Nutcracker General",
+    "luokitus": 1,
+    "elämäpisteet": 3000,
+    "osumatarkkuus": 70,
+    "osumavahinkoMin": 500,
+    "osumavahinkoMax": 2000,
+    "hyökkäysjärjestys": 2,
+    "taidot": [
+      "UnitSkillAttackWeakestTarget",
+      "Trait_Nutcracker"
+    ]
+  },
+  {
+    "nro": 933,
+    "ryhmitys": 2,
+    "tunniste": "MiraculousGeneral",
+    "nimi": "Miraculous General",
+    "luokitus": 1,
+    "elämäpisteet": 300,
+    "osumatarkkuus": 80,
+    "osumavahinkoMin": 400,
+    "osumavahinkoMax": 800,
+    "hyökkäysjärjestys": 3,
+    "taidot": [
+      "UnitSkillLastStrike",
+      "Trait_Miraculous"
+    ]
+  },
+  {
+    "nro": 934,
+    "ryhmitys": 2,
+    "tunniste": "ResoluteGeneral",
+    "nimi": "Resolute General",
+    "luokitus": 1,
+    "elämäpisteet": 3000,
+    "osumatarkkuus": 85,
+    "osumavahinkoMin": 400,
+    "osumavahinkoMax": 600,
+    "hyökkäysjärjestys": 2,
+    "taidot": [
+      "UnitSkillSplashDamage",
+      "Trait_Resolute"
+    ]
+  },
+  {
+    "nro": 950,
+    "ryhmitys": 2,
+    "tunniste": "JuanGeneral",
+    "nimi": "General Juan",
+    "luokitus": 1,
+    "elämäpisteet": 500,
+    "osumatarkkuus": 80,
+    "osumavahinkoMin": 700,
+    "osumavahinkoMax": 800,
+    "hyökkäysjärjestys": 1,
+    "taidot": [
+      "UnitSkillSplashDamage",
+      "UnitSkillFirstStrike",
+      "UnitSkillAttackWeakestTarget",
+      "Trait_MaryDoubleXP",
+      "Trait_Anniversary2019General"
+    ]
+  }
+
+]

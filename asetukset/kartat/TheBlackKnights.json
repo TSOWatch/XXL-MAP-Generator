@@ -1,0 +1,21 @@
+{
+  "kartta": "TheBlackKnights",
+  "ohje": "bk",
+  "exportVäri1": "201, 177, 133",
+  "exportVäri2": "252, 246, 224",
+  "exportVäri3": "223, 201, 179",
+  "exportText": "",
+  "exportTeksti1": "Black",
+  "exportTeksti2": "Green",
+  "exportTeksti3": "Maroon",
+  "exportOhjenimi": false,
+  "exportHyökkääjätKuvassa": false,
+  "exportBarracksaika": false,
+  "exportXP": true,
+  "exportExtraXP": false,
+  "exportPalautukset": false,
+  "exportViholliset": true,
+  "exportLeirityypit": false,
+  "exportPiilotaLoss": false,
+  "exportPiilotaHyökkäysmäärät": false
+}

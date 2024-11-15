@@ -1,0 +1,931 @@
+{
+  "tiedostonimi": "princess",
+  "tunniste": "1001NightsPrincess",
+  "nimi": "Aladdin and the Beautiful Princess",
+  "tyyppi": "Mission",
+  "teema": "Fairytale",
+  "kampanja": "ArabianNights",
+  "ryhmitysnro": 200,
+  "jnro": 137,
+  "xp": 584870,
+  "pelaajia": 1,
+  "elite": true,
+  "yksiköt": [
+    "OrientalSailorRecruit",
+    "OrientalSailorMilitia",
+    "OrientalSailorCavalry",
+    "OrientalSailorBowman",
+    "OrientalSailorLongbowman",
+    "OrientalSailorCanoneer",
+    "OrientalSailorBoss1",
+    "OrientalSailorBoss2",
+    "OrientalSailorBoss3",
+    "OrientalGuard1",
+    "OrientalGuard2"
+  ],
+  "leirit": [
+    {
+      "tunniste": 10023,
+      "sektori": 1,
+      "apunimi": "",
+      "tyyppi": 1,
+      "sijainti": "138, 366",
+      "joukot": {
+        "OrientalSailorBowman": 270
+      }
+    },
+    {
+      "tunniste": 10072,
+      "sektori": 2,
+      "apunimi": "",
+      "tyyppi": 1,
+      "sijainti": "106, 138",
+      "joukot": {
+        "OrientalSailorMilitia": 200,
+        "OrientalSailorBowman": 70
+      }
+    },
+    {
+      "tunniste": 10303,
+      "sektori": 1,
+      "apunimi": "",
+      "tyyppi": 1,
+      "sijainti": "106, 291",
+      "joukot": {
+        "OrientalSailorRecruit": 90,
+        "OrientalSailorCavalry": 90,
+        "OrientalSailorBowman": 90
+      }
+    },
+    {
+      "tunniste": 10860,
+      "sektori": 5,
+      "apunimi": "",
+      "tyyppi": 1,
+      "sijainti": "457, 169",
+      "joukot": {
+        "OrientalSailorCavalry": 270
+      }
+    },
+    {
+      "tunniste": 11048,
+      "sektori": 6,
+      "apunimi": "",
+      "tyyppi": 2,
+      "sijainti": "175, 113",
+      "joukot": {
+        "OrientalSailorRecruit": 100,
+        "OrientalSailorCavalry": 100,
+        "OrientalSailorBoss1": 1,
+        "OrientalSailorBoss2": 2
+      }
+    },
+    {
+      "tunniste": 11081,
+      "sektori": 7,
+      "apunimi": "",
+      "tyyppi": 1,
+      "sijainti": "352, 194",
+      "joukot": {
+        "OrientalSailorMilitia": 130,
+        "OrientalSailorCavalry": 100,
+        "OrientalSailorLongbowman": 40
+      }
+    },
+    {
+      "tunniste": 11101,
+      "sektori": 5,
+      "apunimi": "",
+      "tyyppi": 1,
+      "sijainti": "394, 235",
+      "joukot": {
+        "OrientalSailorRecruit": 180,
+        "OrientalSailorCavalry": 50,
+        "OrientalSailorBowman": 40
+      }
+    },
+    {
+      "tunniste": 11103,
+      "sektori": 2,
+      "apunimi": "",
+      "tyyppi": 1,
+      "sijainti": "38, 164",
+      "joukot": {
+        "OrientalSailorRecruit": 270
+      }
+    },
+    {
+      "tunniste": 11110,
+      "sektori": 5,
+      "apunimi": "",
+      "tyyppi": 1,
+      "sijainti": "412, 311",
+      "joukot": {
+        "OrientalSailorMilitia": 180,
+        "OrientalSailorLongbowman": 90
+      }
+    },
+    {
+      "tunniste": 11524,
+      "sektori": 3,
+      "apunimi": "",
+      "tyyppi": 1,
+      "sijainti": "238, 28",
+      "joukot": {
+        "OrientalSailorRecruit": 150,
+        "OrientalSailorCavalry": 50,
+        "OrientalSailorCanoneer": 70
+      }
+    },
+    {
+      "tunniste": 11583,
+      "sektori": 4,
+      "apunimi": "",
+      "tyyppi": 1,
+      "sijainti": "528, 206",
+      "joukot": {
+        "OrientalSailorRecruit": 200,
+        "OrientalSailorCavalry": 70
+      }
+    },
+    {
+      "tunniste": 11741,
+      "sektori": 5,
+      "apunimi": "",
+      "tyyppi": 2,
+      "sijainti": "435, 304",
+      "joukot": {
+        "OrientalSailorCanoneer": 150,
+        "OrientalSailorBoss3": 3
+      }
+    },
+    {
+      "tunniste": 11746,
+      "sektori": 3,
+      "apunimi": "",
+      "tyyppi": 1,
+      "sijainti": "216, 71",
+      "joukot": {
+        "OrientalSailorBowman": 270
+      }
+    },
+    {
+      "tunniste": 11761,
+      "sektori": 7,
+      "apunimi": "",
+      "tyyppi": 1,
+      "sijainti": "326, 116",
+      "joukot": {
+        "OrientalSailorCavalry": 170,
+        "OrientalSailorBowman": 100
+      }
+    },
+    {
+      "tunniste": 11906,
+      "sektori": 3,
+      "apunimi": "",
+      "tyyppi": 2,
+      "sijainti": "309, 24",
+      "joukot": {
+        "OrientalSailorMilitia": 180,
+        "OrientalSailorBoss1": 1,
+        "OrientalSailorBoss3": 1
+      }
+    },
+    {
+      "tunniste": 11969,
+      "sektori": 4,
+      "apunimi": "",
+      "tyyppi": 1,
+      "sijainti": "461, 101",
+      "joukot": {
+        "OrientalSailorRecruit": 120,
+        "OrientalSailorLongbowman": 150
+      }
+    },
+    {
+      "tunniste": 12044,
+      "sektori": 2,
+      "apunimi": "",
+      "tyyppi": 1,
+      "sijainti": "61, 218",
+      "joukot": {
+        "OrientalSailorMilitia": 70,
+        "OrientalSailorLongbowman": 200
+      }
+    },
+    {
+      "tunniste": 12260,
+      "sektori": 5,
+      "apunimi": "",
+      "tyyppi": 2,
+      "sijainti": "468, 157",
+      "joukot": {
+        "OrientalSailorCanoneer": 270,
+        "OrientalSailorBoss1": 1
+      }
+    },
+    {
+      "tunniste": 12278,
+      "sektori": 5,
+      "apunimi": "",
+      "tyyppi": 1,
+      "sijainti": "429, 204",
+      "joukot": {
+        "OrientalSailorRecruit": 70,
+        "OrientalSailorCanoneer": 200
+      }
+    },
+    {
+      "tunniste": 12351,
+      "sektori": 5,
+      "apunimi": "",
+      "tyyppi": 2,
+      "sijainti": "401, 96",
+      "joukot": {
+        "OrientalSailorMilitia": 150,
+        "OrientalSailorBoss1": 1,
+        "OrientalSailorBoss2": 1,
+        "OrientalSailorBoss3": 1
+      }
+    },
+    {
+      "tunniste": 12563,
+      "sektori": 7,
+      "apunimi": "",
+      "tyyppi": 2,
+      "sijainti": "395, 145",
+      "joukot": {
+        "OrientalSailorMilitia": 200,
+        "OrientalSailorCavalry": 30,
+        "OrientalSailorBoss1": 2,
+        "OrientalSailorBoss2": 1
+      }
+    },
+    {
+      "tunniste": 12647,
+      "sektori": 4,
+      "apunimi": "",
+      "tyyppi": 2,
+      "sijainti": "527, 113",
+      "joukot": {
+        "OrientalSailorMilitia": 200,
+        "OrientalSailorCavalry": 50,
+        "OrientalSailorBoss2": 1,
+        "OrientalSailorBoss3": 1
+      }
+    },
+    {
+      "tunniste": 12746,
+      "sektori": 3,
+      "apunimi": "",
+      "tyyppi": 1,
+      "sijainti": "413, 56",
+      "joukot": {
+        "OrientalSailorMilitia": 220,
+        "OrientalSailorCavalry": 50
+      }
+    },
+    {
+      "tunniste": 12806,
+      "sektori": 5,
+      "apunimi": "",
+      "tyyppi": 1,
+      "sijainti": "381, 295",
+      "joukot": {
+        "OrientalSailorMilitia": 190,
+        "OrientalSailorCanoneer": 70
+      }
+    },
+    {
+      "tunniste": 12926,
+      "sektori": 1,
+      "apunimi": "",
+      "tyyppi": 1,
+      "sijainti": "165, 294",
+      "joukot": {
+        "OrientalSailorRecruit": 170,
+        "OrientalSailorLongbowman": 100
+      }
+    },
+    {
+      "tunniste": 12954,
+      "sektori": 1,
+      "apunimi": "",
+      "tyyppi": 1,
+      "sijainti": "234, 251",
+      "joukot": {
+        "OrientalSailorCanoneer": 270
+      }
+    },
+    {
+      "tunniste": 13016,
+      "sektori": 5,
+      "apunimi": "",
+      "tyyppi": 1,
+      "sijainti": "427, 240",
+      "joukot": {
+        "OrientalSailorLongbowman": 270
+      }
+    },
+    {
+      "tunniste": 13075,
+      "sektori": 6,
+      "apunimi": "",
+      "tyyppi": 1,
+      "sijainti": "252, 193",
+      "joukot": {
+        "OrientalSailorCavalry": 270
+      }
+    },
+    {
+      "tunniste": 13080,
+      "sektori": 8,
+      "apunimi": "",
+      "tyyppi": 1,
+      "sijainti": "346, 166",
+      "joukot": {
+        "OrientalSailorMilitia": 160,
+        "OrientalSailorCavalry": 60,
+        "OrientalSailorBowman": 50
+      }
+    },
+    {
+      "tunniste": 13490,
+      "sektori": 6,
+      "apunimi": "",
+      "tyyppi": 2,
+      "sijainti": "322, 214",
+      "joukot": {
+        "OrientalSailorCavalry": 200,
+        "OrientalSailorBowman": 30,
+        "OrientalSailorBoss1": 3
+      }
+    },
+    {
+      "tunniste": 13581,
+      "sektori": 4,
+      "apunimi": "",
+      "tyyppi": 1,
+      "sijainti": "486, 67",
+      "joukot": {
+        "OrientalSailorMilitia": 190,
+        "OrientalSailorCavalry": 50,
+        "OrientalSailorLongbowman": 30
+      }
+    },
+    {
+      "tunniste": 13633,
+      "sektori": 5,
+      "apunimi": "",
+      "tyyppi": 2,
+      "sijainti": "345, 335",
+      "joukot": {
+        "OrientalSailorCavalry": 90,
+        "OrientalSailorBowman": 180,
+        "OrientalSailorBoss3": 2
+      }
+    },
+    {
+      "tunniste": 13815,
+      "sektori": 4,
+      "apunimi": "",
+      "tyyppi": 1,
+      "sijainti": "469, 67",
+      "joukot": {
+        "OrientalSailorRecruit": 150,
+        "OrientalSailorCavalry": 50,
+        "OrientalSailorBowman": 70
+      }
+    },
+    {
+      "tunniste": 14097,
+      "sektori": 1,
+      "apunimi": "",
+      "tyyppi": 1,
+      "sijainti": "101, 328",
+      "joukot": {
+        "OrientalSailorMilitia": 150,
+        "OrientalSailorBowman": 120
+      }
+    },
+    {
+      "tunniste": 14153,
+      "sektori": 4,
+      "apunimi": "",
+      "tyyppi": 1,
+      "sijainti": "495, 123",
+      "joukot": {
+        "OrientalSailorCanoneer": 270
+      }
+    },
+    {
+      "tunniste": 14369,
+      "sektori": 7,
+      "apunimi": "",
+      "tyyppi": 1,
+      "sijainti": "400, 177",
+      "joukot": {
+        "OrientalSailorRecruit": 200,
+        "OrientalSailorCavalry": 70
+      }
+    },
+    {
+      "tunniste": 14463,
+      "sektori": 2,
+      "apunimi": "",
+      "tyyppi": 1,
+      "sijainti": "153, 161",
+      "joukot": {
+        "OrientalSailorMilitia": 100,
+        "OrientalSailorCavalry": 80,
+        "OrientalSailorBowman": 80
+      }
+    },
+    {
+      "tunniste": 14663,
+      "sektori": 2,
+      "apunimi": "",
+      "tyyppi": 1,
+      "sijainti": "86, 194",
+      "joukot": {
+        "OrientalSailorMilitia": 200,
+        "OrientalSailorCanoneer": 30,
+        "OrientalSailorLongbowman": 40
+      }
+    },
+    {
+      "tunniste": 14674,
+      "sektori": 8,
+      "apunimi": "",
+      "tyyppi": 1,
+      "sijainti": "307, 142",
+      "joukot": {
+        "OrientalSailorMilitia": 140,
+        "OrientalSailorCanoneer": 130
+      }
+    },
+    {
+      "tunniste": 14675,
+      "sektori": 6,
+      "apunimi": "",
+      "tyyppi": 1,
+      "sijainti": "326, 279",
+      "joukot": {
+        "OrientalSailorRecruit": 270
+      }
+    },
+    {
+      "tunniste": 14813,
+      "sektori": 4,
+      "apunimi": "",
+      "tyyppi": 1,
+      "sijainti": "493, 176",
+      "joukot": {
+        "OrientalSailorMilitia": 60,
+        "OrientalSailorCavalry": 50,
+        "OrientalSailorBowman": 160
+      }
+    },
+    {
+      "tunniste": 14967,
+      "sektori": 5,
+      "apunimi": "",
+      "tyyppi": 1,
+      "sijainti": "387, 250",
+      "joukot": {
+        "OrientalSailorMilitia": 100,
+        "OrientalSailorBowman": 70,
+        "OrientalSailorCanoneer": 100
+      }
+    },
+    {
+      "tunniste": 15023,
+      "sektori": 3,
+      "apunimi": "",
+      "tyyppi": 2,
+      "sijainti": "452, 33",
+      "joukot": {
+        "OrientalSailorMilitia": 100,
+        "OrientalSailorCavalry": 120,
+        "OrientalSailorLongbowman": 50,
+        "OrientalSailorBoss3": 1
+      }
+    },
+    {
+      "tunniste": 15192,
+      "sektori": 3,
+      "apunimi": "",
+      "tyyppi": 1,
+      "sijainti": "314, 56",
+      "joukot": {
+        "OrientalSailorMilitia": 220,
+        "OrientalSailorCavalry": 50
+      }
+    },
+    {
+      "tunniste": 15211,
+      "sektori": 2,
+      "apunimi": "",
+      "tyyppi": 1,
+      "sijainti": "203, 194",
+      "joukot": {
+        "OrientalSailorMilitia": 200,
+        "OrientalSailorCavalry": 70
+      }
+    },
+    {
+      "tunniste": 15219,
+      "sektori": 2,
+      "apunimi": "",
+      "tyyppi": 1,
+      "sijainti": "129, 113",
+      "joukot": {
+        "OrientalSailorMilitia": 30,
+        "OrientalSailorCavalry": 100,
+        "OrientalSailorBowman": 40,
+        "OrientalSailorCanoneer": 100
+      }
+    },
+    {
+      "tunniste": 15259,
+      "sektori": 7,
+      "apunimi": "",
+      "tyyppi": 1,
+      "sijainti": "270, 150",
+      "joukot": {
+        "OrientalSailorRecruit": 250,
+        "OrientalSailorCanoneer": 10,
+        "OrientalSailorLongbowman": 10
+      }
+    },
+    {
+      "tunniste": 15394,
+      "sektori": 7,
+      "apunimi": "",
+      "tyyppi": 2,
+      "sijainti": "312, 106",
+      "joukot": {
+        "OrientalSailorRecruit": 200,
+        "OrientalSailorCavalry": 70,
+        "OrientalSailorBoss3": 2
+      }
+    },
+    {
+      "tunniste": 15401,
+      "sektori": 5,
+      "apunimi": "",
+      "tyyppi": 1,
+      "sijainti": "450, 259",
+      "joukot": {
+        "OrientalSailorMilitia": 20,
+        "OrientalSailorBowman": 250
+      }
+    },
+    {
+      "tunniste": 15576,
+      "sektori": 3,
+      "apunimi": "",
+      "tyyppi": 1,
+      "sijainti": "165, 78",
+      "joukot": {
+        "OrientalSailorMilitia": 90,
+        "OrientalSailorCavalry": 90,
+        "OrientalSailorBowman": 90
+      }
+    },
+    {
+      "tunniste": 15820,
+      "sektori": 8,
+      "apunimi": "",
+      "tyyppi": 1,
+      "sijainti": "313, 158",
+      "joukot": {
+        "OrientalSailorRecruit": 30,
+        "OrientalSailorCavalry": 130,
+        "OrientalSailorCanoneer": 110
+      }
+    },
+    {
+      "tunniste": 15915,
+      "sektori": 2,
+      "apunimi": "",
+      "tyyppi": 2,
+      "sijainti": "202, 181",
+      "joukot": {
+        "OrientalSailorBowman": 270,
+        "OrientalSailorBoss3": 1
+      }
+    },
+    {
+      "tunniste": 15991,
+      "sektori": 1,
+      "apunimi": "",
+      "tyyppi": 1,
+      "sijainti": "266, 288",
+      "joukot": {
+        "OrientalSailorMilitia": 110,
+        "OrientalSailorCanoneer": 160
+      }
+    },
+    {
+      "tunniste": 16082,
+      "sektori": 4,
+      "apunimi": "",
+      "tyyppi": 2,
+      "sijainti": "529, 195",
+      "joukot": {
+        "OrientalSailorMilitia": 250,
+        "OrientalSailorBoss1": 2
+      }
+    },
+    {
+      "tunniste": 16093,
+      "sektori": 3,
+      "apunimi": "",
+      "tyyppi": 1,
+      "sijainti": "367, 67",
+      "joukot": {
+        "OrientalSailorMilitia": 50,
+        "OrientalSailorCavalry": 70,
+        "OrientalSailorBowman": 150
+      }
+    },
+    {
+      "tunniste": 16097,
+      "sektori": 5,
+      "apunimi": "",
+      "tyyppi": 1,
+      "sijainti": "459, 226",
+      "joukot": {
+        "OrientalSailorMilitia": 270
+      }
+    },
+    {
+      "tunniste": 16101,
+      "sektori": 7,
+      "apunimi": "",
+      "tyyppi": 1,
+      "sijainti": "387, 157",
+      "joukot": {
+        "OrientalSailorRecruit": 270
+      }
+    },
+    {
+      "tunniste": 16237,
+      "sektori": 1,
+      "apunimi": "",
+      "tyyppi": 2,
+      "sijainti": "161, 229",
+      "joukot": {
+        "OrientalSailorCavalry": 150,
+        "OrientalSailorLongbowman": 120,
+        "OrientalSailorBoss2": 1
+      }
+    },
+    {
+      "tunniste": 16257,
+      "sektori": 2,
+      "apunimi": "",
+      "tyyppi": 2,
+      "sijainti": "138, 125",
+      "joukot": {
+        "OrientalSailorRecruit": 100,
+        "OrientalSailorMilitia": 100,
+        "OrientalSailorBoss2": 2
+      }
+    },
+    {
+      "tunniste": 16344,
+      "sektori": 8,
+      "apunimi": "",
+      "tyyppi": 2,
+      "sijainti": "339, 128",
+      "joukot": {
+        "OrientalGuard1": 4,
+        "OrientalGuard2": 4
+      }
+    },
+    {
+      "tunniste": 16734,
+      "sektori": 4,
+      "apunimi": "",
+      "tyyppi": 1,
+      "sijainti": "440, 102",
+      "joukot": {
+        "OrientalSailorRecruit": 150,
+        "OrientalSailorCanoneer": 120
+      }
+    },
+    {
+      "tunniste": 17318,
+      "sektori": 3,
+      "apunimi": "",
+      "tyyppi": 1,
+      "sijainti": "417, 24",
+      "joukot": {
+        "OrientalSailorMilitia": 200,
+        "OrientalSailorBowman": 70
+      }
+    },
+    {
+      "tunniste": 17671,
+      "sektori": 5,
+      "apunimi": "",
+      "tyyppi": 2,
+      "sijainti": "377, 237",
+      "joukot": {
+        "OrientalSailorCavalry": 270,
+        "OrientalSailorBoss2": 1,
+        "OrientalSailorBoss3": 1
+      }
+    },
+    {
+      "tunniste": 17734,
+      "sektori": 6,
+      "apunimi": "",
+      "tyyppi": 1,
+      "sijainti": "225, 137",
+      "joukot": {
+        "OrientalSailorMilitia": 190,
+        "OrientalSailorCanoneer": 50,
+        "OrientalSailorLongbowman": 40
+      }
+    },
+    {
+      "tunniste": 17837,
+      "sektori": 1,
+      "apunimi": "",
+      "tyyppi": 1,
+      "sijainti": "129, 345",
+      "joukot": {
+        "OrientalSailorCavalry": 200,
+        "OrientalSailorBowman": 70
+      }
+    },
+    {
+      "tunniste": 18068,
+      "sektori": 1,
+      "apunimi": "",
+      "tyyppi": 1,
+      "sijainti": "157, 243",
+      "joukot": {
+        "OrientalSailorCanoneer": 270
+      }
+    },
+    {
+      "tunniste": 18070,
+      "sektori": 2,
+      "apunimi": "",
+      "tyyppi": 2,
+      "sijainti": "52, 174",
+      "joukot": {
+        "OrientalSailorCavalry": 150,
+        "OrientalSailorBoss1": 1,
+        "OrientalSailorBoss2": 1
+      }
+    },
+    {
+      "tunniste": 18228,
+      "sektori": 6,
+      "apunimi": "",
+      "tyyppi": 2,
+      "sijainti": "340, 288",
+      "joukot": {
+        "OrientalSailorBowman": 120,
+        "OrientalSailorCanoneer": 150,
+        "OrientalSailorBoss1": 2
+      }
+    },
+    {
+      "tunniste": 18409,
+      "sektori": 3,
+      "apunimi": "",
+      "tyyppi": 1,
+      "sijainti": "378, 39",
+      "joukot": {
+        "OrientalSailorMilitia": 200,
+        "OrientalSailorCavalry": 40,
+        "OrientalSailorCanoneer": 30
+      }
+    },
+    {
+      "tunniste": 18672,
+      "sektori": 6,
+      "apunimi": "",
+      "tyyppi": 1,
+      "sijainti": "348, 266",
+      "joukot": {
+        "OrientalSailorRecruit": 90,
+        "OrientalSailorCavalry": 90,
+        "OrientalSailorBowman": 90
+      }
+    },
+    {
+      "tunniste": 18778,
+      "sektori": 6,
+      "apunimi": "",
+      "tyyppi": 1,
+      "sijainti": "253, 116",
+      "joukot": {
+        "OrientalSailorMilitia": 120,
+        "OrientalSailorBowman": 150
+      }
+    },
+    {
+      "tunniste": 19068,
+      "sektori": 4,
+      "apunimi": "",
+      "tyyppi": 2,
+      "sijainti": "491, 139",
+      "joukot": {
+        "OrientalSailorMilitia": 200,
+        "OrientalSailorCavalry": 50,
+        "OrientalSailorBoss1": 1,
+        "OrientalSailorBoss3": 1
+      }
+    },
+    {
+      "tunniste": 19162,
+      "sektori": 3,
+      "apunimi": "",
+      "tyyppi": 1,
+      "sijainti": "157, 92",
+      "joukot": {
+        "OrientalSailorRecruit": 90,
+        "OrientalSailorCavalry": 90,
+        "OrientalSailorBowman": 90
+      }
+    },
+    {
+      "tunniste": 19169,
+      "sektori": 1,
+      "apunimi": "",
+      "tyyppi": 1,
+      "sijainti": "294, 243",
+      "joukot": {
+        "OrientalSailorRecruit": 200,
+        "OrientalSailorCavalry": 70
+      }
+    },
+    {
+      "tunniste": 19399,
+      "sektori": 4,
+      "apunimi": "",
+      "tyyppi": 1,
+      "sijainti": "482, 193",
+      "joukot": {
+        "OrientalSailorRecruit": 150,
+        "OrientalSailorLongbowman": 120
+      }
+    },
+    {
+      "tunniste": 19478,
+      "sektori": 8,
+      "apunimi": "",
+      "tyyppi": 1,
+      "sijainti": "348, 146",
+      "joukot": {
+        "OrientalSailorRecruit": 50,
+        "OrientalSailorCavalry": 30,
+        "OrientalSailorBowman": 90,
+        "OrientalSailorLongbowman": 100
+      }
+    },
+    {
+      "tunniste": 19659,
+      "sektori": 6,
+      "apunimi": "",
+      "tyyppi": 1,
+      "sijainti": "302, 214",
+      "joukot": {
+        "OrientalSailorMilitia": 130,
+        "OrientalSailorCavalry": 70,
+        "OrientalSailorLongbowman": 70
+      }
+    },
+    {
+      "tunniste": 19698,
+      "sektori": 1,
+      "apunimi": "",
+      "tyyppi": 2,
+      "sijainti": "280, 296",
+      "joukot": {
+        "OrientalSailorMilitia": 70,
+        "OrientalSailorCavalry": 200,
+        "OrientalSailorBoss1": 1
+      }
+    },
+    {
+      "tunniste": 19847,
+      "sektori": 5,
+      "apunimi": "",
+      "tyyppi": 1,
+      "sijainti": "329, 346",
+      "joukot": {
+        "OrientalSailorMilitia": 220,
+        "OrientalSailorBowman": 50
+      }
+    }
+  ]
+}

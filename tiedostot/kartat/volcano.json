@@ -1,0 +1,83 @@
+{
+  "tiedostonimi": "volcano",
+  "tunniste": "MiadTheSleepingVolcano",
+  "nimi": "The Sleeping Volcano",
+  "tyyppi": "Mini",
+  "ryhmitysnro": 1,
+  "xp": 4610,
+  "pelaajia": 1,
+  "yksiköt": [
+    "CultRecruit",
+    "CultCavalry",
+    "CultBowman",
+    "CultLongbowman",
+    "CultCrossbowman",
+    "CultCanoneer",
+    "CultBoss2"
+  ],
+  "leirit": [
+    {
+      "tunniste": 10086,
+      "sektori": 1,
+      "oletusnimi": "1.1",
+      "apunimi": "",
+      "tyyppi": 1,
+      "sijainti": "461, 292",
+      "joukot": {
+        "CultRecruit": 40,
+        "CultBowman": 40
+      }
+    },
+    {
+      "tunniste": 13192,
+      "sektori": 1,
+      "oletusnimi": "1.4",
+      "apunimi": "",
+      "tyyppi": 1,
+      "sijainti": "162, 286",
+      "joukot": {
+        "CultCrossbowman": 40,
+        "CultCavalry": 40,
+        "CultCanoneer": 30
+      }
+    },
+    {
+      "tunniste": 16805,
+      "sektori": 1,
+      "oletusnimi": "1.2",
+      "apunimi": "",
+      "tyyppi": 1,
+      "sijainti": "474, 125",
+      "joukot": {
+        "CultRecruit": 50,
+        "CultLongbowman": 40
+      }
+    },
+    {
+      "tunniste": 17358,
+      "sektori": 1,
+      "oletusnimi": "1.5",
+      "apunimi": "",
+      "tyyppi": 2,
+      "sijainti": "240, 195",
+      "joukot": {
+        "CultCavalry": 80,
+        "CultCanoneer": 40,
+        "CultBoss2": 1
+      }
+    },
+    {
+      "tunniste": 19477,
+      "sektori": 1,
+      "oletusnimi": "1.3",
+      "apunimi": "",
+      "tyyppi": 1,
+      "sijainti": "121, 176",
+      "joukot": {
+        "CultRecruit": 30,
+        "CultCrossbowman": 30,
+        "CultCavalry": 40
+      }
+    }
+  ]
+}

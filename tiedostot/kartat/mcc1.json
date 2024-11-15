@@ -1,0 +1,415 @@
+{
+  "tiedostonimi": "mcc1",
+  "tunniste": "BuffAdventures_TMC_At_the_Foot_of_the_Mountain",
+  "nimi": "At the Foot of the Mountain",
+  "tyyppi": "Venture",
+  "kampanja": "TheMountainClan",
+  "ryhmitysnro": 400,
+  "jnro": 154,
+  "xp": 315310,
+  "pelaajia": 1,
+  "elite": true,
+  "yksiköt": [
+    "NordsEliteSoldier",
+    "NordsSoldier",
+    "NordsMilitia",
+    "NordsRecruit",
+    "NordsBowman",
+    "NordsCanoneer",
+    "EliteWildlifeRecruit",
+    "EliteWildlifeCavalry",
+    "TMC_v1_NordsRightHandBoss",
+    "TMC_BossEnormousIbex"
+  ],
+  "leirit": [
+    {
+      "tunniste": 10267,
+      "sektori": 4,
+      "apunimi": "",
+      "tyyppi": 1,
+      "sijainti": "508, 206",
+      "joukot": {
+        "EliteWildlifeRecruit": 80,
+        "EliteWildlifeCavalry": 60
+      }
+    },
+    {
+      "tunniste": 10493,
+      "sektori": 2,
+      "apunimi": "",
+      "tyyppi": 2,
+      "sijainti": "463, 147",
+      "joukot": {
+        "EliteWildlifeRecruit": 100,
+        "EliteWildlifeCavalry": 100
+      }
+    },
+    {
+      "tunniste": 10830,
+      "sektori": 2,
+      "apunimi": "",
+      "tyyppi": 1,
+      "sijainti": "463, 171",
+      "joukot": {
+        "EliteWildlifeRecruit": 90,
+        "EliteWildlifeCavalry": 80
+      }
+    },
+    {
+      "tunniste": 10966,
+      "sektori": 1,
+      "apunimi": "",
+      "tyyppi": 1,
+      "sijainti": "148, 269",
+      "joukot": {
+        "NordsSoldier": 150,
+        "NordsEliteSoldier": 175,
+        "NordsBowman": 200
+      }
+    },
+    {
+      "tunniste": 11005,
+      "sektori": 1,
+      "apunimi": "",
+      "tyyppi": 2,
+      "sijainti": "174, 215",
+      "joukot": {
+        "NordsMilitia": 100,
+        "NordsSoldier": 200,
+        "NordsEliteSoldier": 100,
+        "NordsBowman": 100,
+        "NordsCanoneer": 100
+      }
+    },
+    {
+      "tunniste": 11052,
+      "sektori": 4,
+      "apunimi": "",
+      "tyyppi": 1,
+      "sijainti": "476, 212",
+      "joukot": {
+        "EliteWildlifeRecruit": 75,
+        "EliteWildlifeCavalry": 25
+      }
+    },
+    {
+      "tunniste": 11407,
+      "sektori": 1,
+      "apunimi": "",
+      "tyyppi": 1,
+      "sijainti": "142, 162",
+      "joukot": {
+        "NordsRecruit": 300,
+        "NordsEliteSoldier": 150,
+        "NordsCanoneer": 150
+      }
+    },
+    {
+      "tunniste": 11836,
+      "sektori": 2,
+      "apunimi": "",
+      "tyyppi": 1,
+      "sijainti": "432, 145",
+      "joukot": {
+        "EliteWildlifeRecruit": 120,
+        "EliteWildlifeCavalry": 50
+      }
+    },
+    {
+      "tunniste": 12767,
+      "sektori": 5,
+      "apunimi": "",
+      "tyyppi": 1,
+      "sijainti": "514, 130",
+      "joukot": {
+        "EliteWildlifeRecruit": 80,
+        "EliteWildlifeCavalry": 160
+      }
+    },
+    {
+      "tunniste": 12896,
+      "sektori": 1,
+      "apunimi": "",
+      "tyyppi": 1,
+      "sijainti": "166, 91",
+      "joukot": {
+        "NordsEliteSoldier": 200,
+        "NordsBowman": 150,
+        "NordsCanoneer": 200
+      }
+    },
+    {
+      "tunniste": 12984,
+      "sektori": 5,
+      "apunimi": "",
+      "tyyppi": 1,
+      "sijainti": "527, 108",
+      "joukot": {
+        "EliteWildlifeRecruit": 150,
+        "EliteWildlifeCavalry": 50
+      }
+    },
+    {
+      "tunniste": 13263,
+      "sektori": 4,
+      "apunimi": "",
+      "tyyppi": 2,
+      "sijainti": "535, 213",
+      "joukot": {
+        "EliteWildlifeRecruit": 75,
+        "EliteWildlifeCavalry": 140,
+        "TMC_BossEnormousIbex": 1
+      }
+    },
+    {
+      "tunniste": 13888,
+      "sektori": 1,
+      "apunimi": "",
+      "tyyppi": 1,
+      "sijainti": "165, 195",
+      "joukot": {
+        "NordsSoldier": 150,
+        "NordsEliteSoldier": 150,
+        "NordsCanoneer": 200
+      }
+    },
+    {
+      "tunniste": 13907,
+      "sektori": 3,
+      "apunimi": "",
+      "tyyppi": 1,
+      "sijainti": "340, 95",
+      "joukot": {
+        "EliteWildlifeRecruit": 25,
+        "EliteWildlifeCavalry": 125
+      }
+    },
+    {
+      "tunniste": 14348,
+      "sektori": 1,
+      "apunimi": "",
+      "tyyppi": 1,
+      "sijainti": "321, 313",
+      "joukot": {
+        "NordsSoldier": 150,
+        "NordsEliteSoldier": 150,
+        "NordsCanoneer": 150
+      }
+    },
+    {
+      "tunniste": 14385,
+      "sektori": 1,
+      "apunimi": "",
+      "tyyppi": 1,
+      "sijainti": "205, 140",
+      "joukot": {
+        "NordsEliteSoldier": 250,
+        "NordsCanoneer": 200
+      }
+    },
+    {
+      "tunniste": 14506,
+      "sektori": 3,
+      "apunimi": "",
+      "tyyppi": 1,
+      "sijainti": "372, 92",
+      "joukot": {
+        "EliteWildlifeRecruit": 60,
+        "EliteWildlifeCavalry": 35
+      }
+    },
+    {
+      "tunniste": 14696,
+      "sektori": 1,
+      "apunimi": "",
+      "tyyppi": 1,
+      "sijainti": "268, 288",
+      "joukot": {
+        "NordsMilitia": 150,
+        "NordsSoldier": 125,
+        "NordsEliteSoldier": 150,
+        "NordsCanoneer": 75
+      }
+    },
+    {
+      "tunniste": 15070,
+      "sektori": 4,
+      "apunimi": "",
+      "tyyppi": 1,
+      "sijainti": "482, 231",
+      "joukot": {
+        "EliteWildlifeRecruit": 50,
+        "EliteWildlifeCavalry": 75
+      }
+    },
+    {
+      "tunniste": 15095,
+      "sektori": 5,
+      "apunimi": "",
+      "tyyppi": 1,
+      "sijainti": "501, 99",
+      "joukot": {
+        "EliteWildlifeRecruit": 50,
+        "EliteWildlifeCavalry": 170
+      }
+    },
+    {
+      "tunniste": 15107,
+      "sektori": 1,
+      "apunimi": "",
+      "tyyppi": 2,
+      "sijainti": "251, 127",
+      "joukot": {
+        "NordsEliteSoldier": 275,
+        "NordsCanoneer": 225
+      }
+    },
+    {
+      "tunniste": 16322,
+      "sektori": 1,
+      "apunimi": "",
+      "tyyppi": 1,
+      "sijainti": "296, 304",
+      "joukot": {
+        "NordsMilitia": 250,
+        "NordsSoldier": 250
+      }
+    },
+    {
+      "tunniste": 16338,
+      "sektori": 1,
+      "apunimi": "",
+      "tyyppi": 1,
+      "sijainti": "135, 212",
+      "joukot": {
+        "NordsMilitia": 150,
+        "NordsSoldier": 100,
+        "NordsEliteSoldier": 150,
+        "NordsCanoneer": 150
+      }
+    },
+    {
+      "tunniste": 16774,
+      "sektori": 5,
+      "apunimi": "",
+      "tyyppi": 2,
+      "sijainti": "521, 71",
+      "joukot": {
+        "NordsSoldier": 200,
+        "NordsEliteSoldier": 200,
+        "NordsBowman": 100,
+        "NordsCanoneer": 200,
+        "TMC_v1_NordsRightHandBoss": 1
+      }
+    },
+    {
+      "tunniste": 16818,
+      "sektori": 1,
+      "apunimi": "",
+      "tyyppi": 1,
+      "sijainti": "98, 214",
+      "joukot": {
+        "NordsEliteSoldier": 250,
+        "NordsBowman": 150,
+        "NordsCanoneer": 150
+      }
+    },
+    {
+      "tunniste": 17322,
+      "sektori": 2,
+      "apunimi": "",
+      "tyyppi": 1,
+      "sijainti": "438, 162",
+      "joukot": {
+        "EliteWildlifeRecruit": 100,
+        "EliteWildlifeCavalry": 50
+      }
+    },
+    {
+      "tunniste": 17788,
+      "sektori": 3,
+      "apunimi": "",
+      "tyyppi": 1,
+      "sijainti": "366, 64",
+      "joukot": {
+        "EliteWildlifeRecruit": 120,
+        "EliteWildlifeCavalry": 25
+      }
+    },
+    {
+      "tunniste": 17922,
+      "sektori": 1,
+      "apunimi": "",
+      "tyyppi": 2,
+      "sijainti": "308, 288",
+      "joukot": {
+        "NordsMilitia": 100,
+        "NordsSoldier": 100,
+        "NordsEliteSoldier": 250,
+        "NordsBowman": 50,
+        "NordsCanoneer": 50
+      }
+    },
+    {
+      "tunniste": 18211,
+      "sektori": 3,
+      "apunimi": "",
+      "tyyppi": 2,
+      "sijainti": "321, 67",
+      "joukot": {
+        "EliteWildlifeRecruit": 80,
+        "EliteWildlifeCavalry": 120,
+        "TMC_BossEnormousIbex": 1
+      }
+    },
+    {
+      "tunniste": 18326,
+      "sektori": 5,
+      "apunimi": "",
+      "tyyppi": 1,
+      "sijainti": "495, 119",
+      "joukot": {
+        "EliteWildlifeRecruit": 145,
+        "EliteWildlifeCavalry": 40
+      }
+    },
+    {
+      "tunniste": 18970,
+      "sektori": 1,
+      "apunimi": "",
+      "tyyppi": 1,
+      "sijainti": "347, 282",
+      "joukot": {
+        "NordsRecruit": 115,
+        "NordsSoldier": 200,
+        "NordsEliteSoldier": 200
+      }
+    },
+    {
+      "tunniste": 19138,
+      "sektori": 1,
+      "apunimi": "",
+      "tyyppi": 1,
+      "sijainti": "224, 79",
+      "joukot": {
+        "NordsRecruit": 300,
+        "NordsMilitia": 200,
+        "NordsCanoneer": 200
+      }
+    },
+    {
+      "tunniste": 19322,
+      "sektori": 1,
+      "apunimi": "",
+      "tyyppi": 1,
+      "sijainti": "178, 242",
+      "joukot": {
+        "NordsMilitia": 125,
+        "NordsSoldier": 50,
+        "NordsEliteSoldier": 200,
+        "NordsBowman": 50,
+        "NordsCanoneer": 100
+      }
+    }
+  ]
+}

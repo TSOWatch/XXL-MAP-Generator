@@ -1,0 +1,219 @@
+[
+  {
+    "järjestysnumero": 0,
+    "nimi": "General",
+    "lyhenne": "GEN",
+    "kapasiteetti": 200,
+    "yksikkötunniste": "General"
+  },
+  {
+    "järjestysnumero": 5,
+    "nimi": "Master of Defense",
+    "lyhenne": "MOD",
+    "kapasiteetti": 200,
+    "yksikkötunniste": "StarGeneral2"
+  },
+  {
+    "järjestysnumero": 6,
+    "nimi": "Master of Martial Arts",
+    "lyhenne": "MMA",
+    "kapasiteetti": 220,
+    "yksikkötunniste": "StarGeneral3"
+  },
+  {
+    "järjestysnumero": 4,
+    "nimi": "Lord Dracul",
+    "lyhenne": "Dracul",
+    "kapasiteetti": 200,
+    "yksikkötunniste": "HalloweenGeneralDracul"
+  },
+  {
+    "järjestysnumero": 9,
+    "nimi": "Champion Vargus",
+    "lyhenne": "Vargus",
+    "kapasiteetti": 180,
+    "yksikkötunniste": "GeneralVargus"
+  },
+  {
+    "järjestysnumero": 10,
+    "nimi": "Champion Anslem",
+    "lyhenne": "Anslem",
+    "kapasiteetti": 150,
+    "yksikkötunniste": "GeneralAnslem"
+  },
+  {
+    "järjestysnumero": 11,
+    "nimi": "Champion Nusala",
+    "lyhenne": "Nusala",
+    "kapasiteetti": 165,
+    "yksikkötunniste": "GeneralNusala"
+  },
+  {
+    "järjestysnumero": 1,
+    "nimi": "Battle Hardened General",
+    "lyhenne": "BHG",
+    "kapasiteetti": 200,
+    "yksikkötunniste": "MasterGeneral"
+  },
+  {
+    "järjestysnumero": 2,
+    "nimi": "Grim Reaper General",
+    "lyhenne": "Grim",
+    "kapasiteetti": 200,
+    "yksikkötunniste": "HalloweenGeneral"
+  },
+  {
+    "järjestysnumero": 3,
+    "nimi": "General Bighelmet",
+    "lyhenne": "Bighelmet",
+    "kapasiteetti": 200,
+    "yksikkötunniste": "RetailBoxGeneral"
+  },
+  {
+    "järjestysnumero": 8,
+    "nimi": "Veteran",
+    "lyhenne": "VET",
+    "kapasiteetti": 250,
+    "yksikkötunniste": "EasterGeneral"
+  },
+  {
+    "järjestysnumero": 7,
+    "nimi": "General Log",
+    "lyhenne": "Log",
+    "kapasiteetti": 220,
+    "yksikkötunniste": "RetailBox2General"
+  },
+  {
+    "järjestysnumero": 12,
+    "nimi": "Major General",
+    "lyhenne": "MG",
+    "kapasiteetti": 270,
+    "yksikkötunniste": "MajorGeneral"
+  },
+  {
+    "järjestysnumero": 13,
+    "nimi": "General Mary Christmas",
+    "lyhenne": "Mary",
+    "kapasiteetti": 200,
+    "yksikkötunniste": "GeneralMary"
+  },
+  {
+    "järjestysnumero": 14,
+    "nimi": "Field Medic General",
+    "lyhenne": "Medic",
+    "kapasiteetti": 200,
+    "yksikkötunniste": "MedicGeneral"
+  },
+  {
+    "järjestysnumero": 15,
+    "nimi": "Mad Scientist",
+    "lyhenne": "MScience",
+    "kapasiteetti": 200,
+    "yksikkötunniste": "MadScientistGeneral"
+  },
+  {
+    "järjestysnumero": 16,
+    "nimi": "General Boris",
+    "lyhenne": "Boris",
+    "kapasiteetti": 180,
+    "yksikkötunniste": "BorisGeneral"
+  },
+  {
+    "järjestysnumero": 17,
+    "nimi": "Older Gemini General",
+    "lyhenne": "Gemini",
+    "kapasiteetti": 280,
+    "yksikkötunniste": "Anniversary2019General"
+  },
+  {
+    "järjestysnumero": 18,
+    "nimi": "Younger Gemini General",
+    "lyhenne": "GeminiY",
+    "kapasiteetti": 140,
+    "yksikkötunniste": "Halloween2019General"
+  },
+  {
+    "järjestysnumero": 19,
+    "nimi": "Steadfast General",
+    "lyhenne": "Steadfast",
+    "kapasiteetti": 220,
+    "yksikkötunniste": "Xmas2019General"
+  },
+  {
+    "järjestysnumero": 20,
+    "nimi": "Cloaked General",
+    "lyhenne": "Cloaked",
+    "kapasiteetti": 200,
+    "yksikkötunniste": "AssassinGeneral"
+  },
+  {
+    "järjestysnumero": 21,
+    "nimi": "General Sylvana",
+    "lyhenne": "Sylvana",
+    "kapasiteetti": 180,
+    "yksikkötunniste": "SylvanaGeneral"
+  },
+  {
+    "järjestysnumero": 22,
+    "nimi": "General Tremble Beard",
+    "lyhenne": "Tremble",
+    "kapasiteetti": 160,
+    "yksikkötunniste": "GeneralTrembleBeard"
+  },
+  {
+    "järjestysnumero": 23,
+    "nimi": "Ghost General",
+    "lyhenne": "Ghost",
+    "kapasiteetti": 215,
+    "yksikkötunniste": "GhostGeneral"
+  },
+  {
+    "järjestysnumero": 24,
+    "nimi": "Frosty General",
+    "lyhenne": "Frosty",
+    "kapasiteetti": 190,
+    "yksikkötunniste": "FrostyGeneral"
+  },
+  {
+    "järjestysnumero": 25,
+    "nimi": "Loner General",
+    "lyhenne": "Loner",
+    "kapasiteetti": 230,
+    "yksikkötunniste": "LonerGeneral"
+  },
+  {
+    "järjestysnumero": 26,
+    "nimi": "General Loudmouth",
+    "lyhenne": "LM",
+    "kapasiteetti": 170,
+    "yksikkötunniste": "GeneralLoudmouth"
+  },
+  {
+    "järjestysnumero": 27,
+    "nimi": "Nutcracker General",
+    "lyhenne": "NG",
+    "kapasiteetti": 200,
+    "yksikkötunniste": "NutcrackerGeneral"
+  },
+  {
+    "järjestysnumero": 28,
+    "nimi": "Miraculous General",
+    "lyhenne": "MIR",
+    "kapasiteetti": 200,
+    "yksikkötunniste": "MiraculousGeneral"
+  },
+  {
+    "järjestysnumero": 29,
+    "nimi": "Resolute General",
+    "lyhenne": "RES",
+    "kapasiteetti": 200,
+    "yksikkötunniste": "ResoluteGeneral"
+  },
+  {
+    "järjestysnumero": 30,
+    "nimi": "General Juan",
+    "lyhenne": "GJ",
+    "kapasiteetti": 180,
+    "yksikkötunniste": "JuanGeneral"
+  }
+]

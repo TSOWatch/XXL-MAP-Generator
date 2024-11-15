@@ -1,0 +1,92 @@
+{
+  "tiedostonimi": "looming",
+  "tunniste": "HWCampaign1_Adv2",
+  "nimi": "Looming Danger",
+  "tyyppi": "Mini",
+  "teema": "Halloween",
+  "xp": 7530,
+  "pelaajia": 1,
+  "yksiköt": [
+    "WildlifeRecruit",
+    "WildlifeMilitia",
+    "WildlifeBowman",
+    "WildlifeCavalry",
+    "EpicRaidBoss3",
+    "EpicRaidBoss7"
+  ],
+  "leirit": [
+    {
+      "tunniste": 10266,
+      "sektori": 1,
+      "oletusnimi": "1.2",
+      "apunimi": "",
+      "tyyppi": 1,
+      "sijainti": "369, 65",
+      "joukot": {
+        "WildlifeCavalry": 50,
+        "WildlifeBowman": 30,
+        "WildlifeMilitia": 15
+      }
+    },
+    {
+      "tunniste": 12659,
+      "sektori": 1,
+      "oletusnimi": "1.1",
+      "apunimi": "",
+      "tyyppi": 1,
+      "sijainti": "420, 110",
+      "joukot": {
+        "WildlifeCavalry": 100
+      }
+    },
+    {
+      "tunniste": 13186,
+      "sektori": 2,
+      "oletusnimi": "2.1",
+      "apunimi": "",
+      "tyyppi": 1,
+      "sijainti": "244, 49",
+      "joukot": {
+        "WildlifeRecruit": 50,
+        "WildlifeMilitia": 30
+      }
+    },
+    {
+      "tunniste": 15453,
+      "sektori": 2,
+      "oletusnimi": "2.2",
+      "apunimi": "",
+      "tyyppi": 1,
+      "sijainti": "127, 133",
+      "joukot": {
+        "WildlifeCavalry": 40,
+        "WildlifeMilitia": 35
+      }
+    },
+    {
+      "tunniste": 16852,
+      "sektori": 2,
+      "oletusnimi": "2.3",
+      "apunimi": "",
+      "tyyppi": 2,
+      "sijainti": "169, 144",
+      "joukot": {
+        "WildlifeCavalry": 45,
+        "WildlifeMilitia": 15,
+        "EpicRaidBoss7": 1
+      }
+    },
+    {
+      "tunniste": 17180,
+      "sektori": 1,
+      "oletusnimi": "1.3",
+      "apunimi": "",
+      "tyyppi": 2,
+      "sijainti": "316, 55",
+      "joukot": {
+        "WildlifeRecruit": 100,
+        "EpicRaidBoss3": 1
+      }
+    }
+  ]
+}

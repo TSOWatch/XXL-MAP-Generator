@@ -1,0 +1,138 @@
+{
+  "tiedostonimi": "wots",
+  "tunniste": "WitchOfTheSwamp",
+  "nimi": "Witch of the Swamp",
+  "tyyppi": "Mission",
+  "ryhmitysnro": 2,
+  "xp": 5663,
+  "pelaajia": 1,
+  "yksiköt": [
+    "CultRecruit",
+    "CultBoss1",
+    "CultCavalry",
+    "CultBowman",
+    "CultLongbowman",
+    "CultBoss2"
+  ],
+  "leirit": [
+    {
+      "tunniste": 10549,
+      "sektori": 1,
+      "oletusnimi": "1.4",
+      "apunimi": "",
+      "tyyppi": 1,
+      "sijainti": "88, 346",
+      "joukot": {
+        "CultRecruit": 60
+      }
+    },
+    {
+      "tunniste": 11166,
+      "sektori": 1,
+      "oletusnimi": "1.6",
+      "apunimi": "",
+      "tyyppi": 2,
+      "sijainti": "134, 211",
+      "joukot": {
+        "CultRecruit": 33,
+        "CultLongbowman": 33,
+        "CultCavalry": 33
+      }
+    },
+    {
+      "tunniste": 11479,
+      "sektori": 1,
+      "oletusnimi": "1.8",
+      "apunimi": "",
+      "tyyppi": 1,
+      "sijainti": "229, 132",
+      "joukot": {
+        "CultRecruit": 80,
+        "CultLongbowman": 60
+      }
+    },
+    {
+      "tunniste": 11741,
+      "sektori": 1,
+      "oletusnimi": "1.2",
+      "apunimi": "",
+      "tyyppi": 1,
+      "sijainti": "314, 341",
+      "joukot": {
+        "CultRecruit": 50
+      }
+    },
+    {
+      "tunniste": 11838,
+      "sektori": 1,
+      "oletusnimi": "1.10",
+      "apunimi": "",
+      "tyyppi": 2,
+      "sijainti": "273, 256",
+      "joukot": {
+        "CultRecruit": 100,
+        "CultLongbowman": 99,
+        "CultBoss1": 1
+      }
+    },
+    {
+      "tunniste": 11851,
+      "sektori": 1,
+      "oletusnimi": "1.7",
+      "apunimi": "",
+      "tyyppi": 1,
+      "sijainti": "157, 176",
+      "joukot": {
+        "CultRecruit": 120
+      }
+    },
+    {
+      "tunniste": 16200,
+      "sektori": 1,
+      "oletusnimi": "1.3",
+      "apunimi": "",
+      "tyyppi": 2,
+      "sijainti": "315, 370",
+      "joukot": {
+        "CultRecruit": 40,
+        "CultBowman": 40
+      }
+    },
+    {
+      "tunniste": 16788,
+      "sektori": 1,
+      "oletusnimi": "1.9",
+      "apunimi": "",
+      "tyyppi": 2,
+      "sijainti": "220, 186",
+      "joukot": {
+        "CultRecruit": 40,
+        "CultCavalry": 120,
+        "CultBoss2": 1
+      }
+    },
+    {
+      "tunniste": 16991,
+      "sektori": 1,
+      "oletusnimi": "1.1",
+      "apunimi": "",
+      "tyyppi": 2,
+      "sijainti": "400, 279",
+      "joukot": {
+        "CultRecruit": 40
+      }
+    },
+    {
+      "tunniste": 17280,
+      "sektori": 1,
+      "oletusnimi": "1.5",
+      "apunimi": "",
+      "tyyppi": 1,
+      "sijainti": "134, 250",
+      "joukot": {
+        "CultLongbowman": 40,
+        "CultCavalry": 60
+      }
+    }
+  ]
+}

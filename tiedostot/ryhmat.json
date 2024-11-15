@@ -1,0 +1,14 @@
+{
+  "Default": {
+    "nimi": "Default attack group",
+    "kuvake": "Longbowman",
+    "tunniste": "Default",
+    "hyökkäysyhdistelmät": {},
+    "aallotHävitessä": true,
+    "aallotNollamenetyksilleKunEiFirstStrike": true,
+    "aallotNollamenetyksilleElitet": true,
+    "aallotCavalryFirstStrike": true,
+    "hyökkäysaallot": [],
+    "vakiohyökkäykset": []
+  }
+}

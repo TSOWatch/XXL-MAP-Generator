@@ -1,0 +1,506 @@
+{
+  "tiedostonimi": "thief3",
+  "tunniste": "1001NightsThirdThief",
+  "nimi": "Ali Baba and the Third Thief",
+  "tyyppi": "Mission",
+  "teema": "Fairytale",
+  "kampanja": "ArabianNights",
+  "ryhmitysnro": 200,
+  "jnro": 131,
+  "xp": 159091,
+  "pelaajia": 1,
+  "elite": true,
+  "yksiköt": [
+    "WildlifeRecruit",
+    "WildlifeMilitia",
+    "WildlifeBowman",
+    "WildlifeLongbowman",
+    "WildlifeCavalry",
+    "WildlifeCannoneer",
+    "OrientalBanditRecruit",
+    "OrientalBanditMilitia",
+    "OrientalBanditSoldier",
+    "OrientalBanditCavalry",
+    "OrientalBanditBowman",
+    "OrientalBanditLongbowman",
+    "OrientalBanditCavalryBowman",
+    "OrientalBanditCanoneer",
+    "EpicRaidBoss4",
+    "EpicRaidBoss7",
+    "OrientalBanditBoss1",
+    "OrientalBanditBoss3",
+    "OrientalBanditBoss5",
+    "OrientalBanditBoss8",
+    "OrientalBanditBoss9",
+    "OrientalBanditBoss10",
+    "OrientalBolderWorm",
+    "OrientalGiantBat"
+  ],
+  "leirit": [
+    {
+      "tunniste": 10863,
+      "sektori": 4,
+      "oletusnimi": "4.2",
+      "apunimi": "",
+      "tyyppi": 1,
+      "sijainti": "314, 196",
+      "joukot": {
+        "WildlifeBowman": 90,
+        "WildlifeCannoneer": 90
+      }
+    },
+    {
+      "tunniste": 10881,
+      "sektori": 5,
+      "oletusnimi": "5.2",
+      "apunimi": "",
+      "tyyppi": 1,
+      "sijainti": "118, 185",
+      "joukot": {
+        "OrientalBanditRecruit": 70,
+        "OrientalBanditCavalry": 70,
+        "OrientalBanditLongbowman": 70
+      }
+    },
+    {
+      "tunniste": 11235,
+      "sektori": 3,
+      "oletusnimi": "3.7",
+      "apunimi": "",
+      "tyyppi": 2,
+      "sijainti": "356, 223",
+      "joukot": {
+        "WildlifeCavalry": 80,
+        "WildlifeRecruit": 100,
+        "EpicRaidBoss7": 1
+      }
+    },
+    {
+      "tunniste": 11253,
+      "sektori": 1,
+      "oletusnimi": "1.7",
+      "apunimi": "",
+      "tyyppi": 2,
+      "sijainti": "406, 112",
+      "joukot": {
+        "OrientalBanditBowman": 90,
+        "OrientalBanditCanoneer": 50,
+        "OrientalBanditBoss3": 1
+      }
+    },
+    {
+      "tunniste": 11341,
+      "sektori": 5,
+      "oletusnimi": "5.9",
+      "apunimi": "",
+      "tyyppi": 2,
+      "sijainti": "229, 307",
+      "joukot": {
+        "OrientalBanditSoldier": 40,
+        "OrientalBanditBoss1": 1,
+        "OrientalBanditBoss10": 1
+      }
+    },
+    {
+      "tunniste": 11702,
+      "sektori": 4,
+      "oletusnimi": "4.1",
+      "apunimi": "",
+      "tyyppi": 1,
+      "sijainti": "334, 258",
+      "joukot": {
+        "WildlifeCavalry": 90,
+        "WildlifeMilitia": 90
+      }
+    },
+    {
+      "tunniste": 11874,
+      "sektori": 1,
+      "oletusnimi": "1.6",
+      "apunimi": "",
+      "tyyppi": 1,
+      "sijainti": "413, 129",
+      "joukot": {
+        "OrientalBanditCavalry": 90,
+        "OrientalBanditCavalryBowman": 80
+      }
+    },
+    {
+      "tunniste": 12549,
+      "sektori": 1,
+      "oletusnimi": "1.1",
+      "apunimi": "",
+      "tyyppi": 1,
+      "sijainti": "502, 92",
+      "joukot": {
+        "OrientalBanditRecruit": 60,
+        "OrientalBanditCavalryBowman": 70
+      }
+    },
+    {
+      "tunniste": 12671,
+      "sektori": 2,
+      "oletusnimi": "2.7",
+      "apunimi": "",
+      "tyyppi": 2,
+      "sijainti": "177, 96",
+      "joukot": {
+        "OrientalBanditMilitia": 50,
+        "OrientalBanditLongbowman": 50,
+        "OrientalBolderWorm": 1
+      }
+    },
+    {
+      "tunniste": 13124,
+      "sektori": 4,
+      "oletusnimi": "4.6",
+      "apunimi": "",
+      "tyyppi": 2,
+      "sijainti": "210, 137",
+      "joukot": {
+        "WildlifeCavalry": 80,
+        "WildlifeLongbowman": 80,
+        "EpicRaidBoss4": 1
+      }
+    },
+    {
+      "tunniste": 13212,
+      "sektori": 3,
+      "oletusnimi": "3.6",
+      "apunimi": "",
+      "tyyppi": 1,
+      "sijainti": "370, 230",
+      "joukot": {
+        "WildlifeCavalry": 100,
+        "WildlifeCannoneer": 100
+      }
+    },
+    {
+      "tunniste": 13393,
+      "sektori": 5,
+      "oletusnimi": "5.6",
+      "apunimi": "",
+      "tyyppi": 1,
+      "sijainti": "211, 282",
+      "joukot": {
+        "OrientalBanditMilitia": 50,
+        "OrientalBanditCavalry": 50,
+        "OrientalBanditCavalryBowman": 60
+      }
+    },
+    {
+      "tunniste": 13902,
+      "sektori": 3,
+      "oletusnimi": "3.3",
+      "apunimi": "",
+      "tyyppi": 1,
+      "sijainti": "314, 153",
+      "joukot": {
+        "WildlifeMilitia": 100,
+        "WildlifeCannoneer": 90
+      }
+    },
+    {
+      "tunniste": 13979,
+      "sektori": 2,
+      "oletusnimi": "2.4",
+      "apunimi": "",
+      "tyyppi": 2,
+      "sijainti": "217, 17",
+      "joukot": {
+        "OrientalBanditCavalryBowman": 70,
+        "OrientalBanditCanoneer": 70,
+        "OrientalBanditBoss9": 1
+      }
+    },
+    {
+      "tunniste": 14134,
+      "sektori": 5,
+      "oletusnimi": "5.5",
+      "apunimi": "",
+      "tyyppi": 2,
+      "sijainti": "101, 264",
+      "joukot": {
+        "OrientalBanditBowman": 90,
+        "OrientalBanditCanoneer": 90,
+        "OrientalBanditBoss5": 1
+      }
+    },
+    {
+      "tunniste": 14632,
+      "sektori": 3,
+      "oletusnimi": "3.1",
+      "apunimi": "",
+      "tyyppi": 1,
+      "sijainti": "228, 111",
+      "joukot": {
+        "WildlifeCavalry": 90,
+        "WildlifeBowman": 90
+      }
+    },
+    {
+      "tunniste": 14665,
+      "sektori": 4,
+      "oletusnimi": "4.5",
+      "apunimi": "",
+      "tyyppi": 1,
+      "sijainti": "200, 146",
+      "joukot": {
+        "WildlifeCavalry": 80,
+        "WildlifeMilitia": 100
+      }
+    },
+    {
+      "tunniste": 15012,
+      "sektori": 1,
+      "oletusnimi": "1.2",
+      "apunimi": "",
+      "tyyppi": 1,
+      "sijainti": "491, 125",
+      "joukot": {
+        "OrientalBanditRecruit": 70,
+        "OrientalBanditCavalry": 70
+      }
+    },
+    {
+      "tunniste": 15593,
+      "sektori": 2,
+      "oletusnimi": "2.2",
+      "apunimi": "",
+      "tyyppi": 1,
+      "sijainti": "295, 89",
+      "joukot": {
+        "OrientalBanditCavalryBowman": 80,
+        "OrientalBanditCanoneer": 80
+      }
+    },
+    {
+      "tunniste": 15674,
+      "sektori": 2,
+      "oletusnimi": "2.6",
+      "apunimi": "",
+      "tyyppi": 1,
+      "sijainti": "167, 106",
+      "joukot": {
+        "OrientalBanditSoldier": 70,
+        "OrientalBanditLongbowman": 60
+      }
+    },
+    {
+      "tunniste": 15706,
+      "sektori": 4,
+      "oletusnimi": "4.7",
+      "apunimi": "",
+      "tyyppi": 2,
+      "sijainti": "179, 157",
+      "joukot": {
+        "WildlifeCavalry": 100,
+        "WildlifeRecruit": 100,
+        "OrientalGiantBat": 1
+      }
+    },
+    {
+      "tunniste": 16297,
+      "sektori": 5,
+      "oletusnimi": "5.1",
+      "apunimi": "",
+      "tyyppi": 1,
+      "sijainti": "165, 178",
+      "joukot": {
+        "OrientalBanditCavalry": 90,
+        "OrientalBanditBowman": 10,
+        "OrientalBanditCanoneer": 80
+      }
+    },
+    {
+      "tunniste": 16456,
+      "sektori": 3,
+      "oletusnimi": "3.4",
+      "apunimi": "",
+      "tyyppi": 1,
+      "sijainti": "378, 150",
+      "joukot": {
+        "WildlifeCavalry": 80,
+        "WildlifeMilitia": 80,
+        "WildlifeLongbowman": 80
+      }
+    },
+    {
+      "tunniste": 16495,
+      "sektori": 4,
+      "oletusnimi": "4.4",
+      "apunimi": "",
+      "tyyppi": 1,
+      "sijainti": "227, 171",
+      "joukot": {
+        "WildlifeRecruit": 80,
+        "WildlifeLongbowman": 80
+      }
+    },
+    {
+      "tunniste": 16575,
+      "sektori": 5,
+      "oletusnimi": "5.3",
+      "apunimi": "",
+      "tyyppi": 1,
+      "sijainti": "112, 229",
+      "joukot": {
+        "OrientalBanditMilitia": 40,
+        "OrientalBanditCavalryBowman": 50,
+        "OrientalBanditCanoneer": 40
+      }
+    },
+    {
+      "tunniste": 16648,
+      "sektori": 1,
+      "oletusnimi": "1.3",
+      "apunimi": "",
+      "tyyppi": 1,
+      "sijainti": "468, 273",
+      "joukot": {
+        "OrientalBanditCavalry": 60,
+        "OrientalBanditBowman": 60,
+        "OrientalBanditCanoneer": 60
+      }
+    },
+    {
+      "tunniste": 16773,
+      "sektori": 1,
+      "oletusnimi": "1.4",
+      "apunimi": "",
+      "tyyppi": 1,
+      "sijainti": "423, 300",
+      "joukot": {
+        "OrientalBanditRecruit": 70,
+        "OrientalBanditMilitia": 70,
+        "OrientalBanditLongbowman": 70
+      }
+    },
+    {
+      "tunniste": 17091,
+      "sektori": 3,
+      "oletusnimi": "3.2",
+      "apunimi": "",
+      "tyyppi": 1,
+      "sijainti": "275, 112",
+      "joukot": {
+        "WildlifeMilitia": 80,
+        "WildlifeLongbowman": 120
+      }
+    },
+    {
+      "tunniste": 17195,
+      "sektori": 2,
+      "oletusnimi": "2.1",
+      "apunimi": "",
+      "tyyppi": 1,
+      "sijainti": "343, 99",
+      "joukot": {
+        "OrientalBanditMilitia": 60,
+        "OrientalBanditBowman": 60,
+        "OrientalBanditCanoneer": 60
+      }
+    },
+    {
+      "tunniste": 17439,
+      "sektori": 5,
+      "oletusnimi": "5.7",
+      "apunimi": "",
+      "tyyppi": 1,
+      "sijainti": "201, 291",
+      "joukot": {
+        "OrientalBanditBowman": 50,
+        "OrientalBanditCavalryBowman": 70,
+        "OrientalBanditCanoneer": 70
+      }
+    },
+    {
+      "tunniste": 17532,
+      "sektori": 5,
+      "oletusnimi": "5.4",
+      "apunimi": "",
+      "tyyppi": 1,
+      "sijainti": "160, 229",
+      "joukot": {
+        "OrientalBanditMilitia": 80,
+        "OrientalBanditCavalry": 80
+      }
+    },
+    {
+      "tunniste": 17766,
+      "sektori": 3,
+      "oletusnimi": "3.5",
+      "apunimi": "",
+      "tyyppi": 1,
+      "sijainti": "425, 226",
+      "joukot": {
+        "WildlifeRecruit": 80,
+        "WildlifeLongbowman": 90
+      }
+    },
+    {
+      "tunniste": 18047,
+      "sektori": 2,
+      "oletusnimi": "2.3",
+      "apunimi": "",
+      "tyyppi": 1,
+      "sijainti": "235, 27",
+      "joukot": {
+        "OrientalBanditRecruit": 50,
+        "OrientalBanditCavalryBowman": 50,
+        "OrientalBanditCanoneer": 50
+      }
+    },
+    {
+      "tunniste": 18337,
+      "sektori": 2,
+      "oletusnimi": "2.5",
+      "apunimi": "",
+      "tyyppi": 1,
+      "sijainti": "126, 68",
+      "joukot": {
+        "OrientalBanditRecruit": 80,
+        "OrientalBanditCavalry": 70,
+        "OrientalBanditBowman": 70
+      }
+    },
+    {
+      "tunniste": 18677,
+      "sektori": 4,
+      "oletusnimi": "4.3",
+      "apunimi": "",
+      "tyyppi": 1,
+      "sijainti": "277, 200",
+      "joukot": {
+        "WildlifeCavalry": 60,
+        "WildlifeBowman": 60,
+        "WildlifeCannoneer": 60
+      }
+    },
+    {
+      "tunniste": 18732,
+      "sektori": 5,
+      "oletusnimi": "5.8",
+      "apunimi": "",
+      "tyyppi": 1,
+      "sijainti": "200, 321",
+      "joukot": {
+        "OrientalBanditRecruit": 60,
+        "OrientalBanditCavalry": 60,
+        "OrientalBanditLongbowman": 60
+      }
+    },
+    {
+      "tunniste": 19051,
+      "sektori": 1,
+      "oletusnimi": "1.5",
+      "apunimi": "",
+      "tyyppi": 2,
+      "sijainti": "453, 304",
+      "joukot": {
+        "OrientalBanditCavalry": 120,
+        "OrientalBanditBoss8": 1
+      }
+    }
+  ]
+}

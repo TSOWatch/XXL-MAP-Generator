@@ -1,0 +1,316 @@
+{
+  "tiedostonimi": "thief2",
+  "tunniste": "1001NightsSecondThief",
+  "nimi": "Ali Baba and the Second Thief",
+  "tyyppi": "Mission",
+  "teema": "Fairytale",
+  "kampanja": "ArabianNights",
+  "ryhmitysnro": 200,
+  "jnro": 130,
+  "xp": 134525,
+  "pelaajia": 2,
+  "elite": true,
+  "yksiköt": [
+    "OrientalBanditRecruit",
+    "OrientalBanditMilitia",
+    "OrientalBanditSoldier",
+    "OrientalBanditCavalry",
+    "OrientalBanditBowman",
+    "OrientalBanditLongbowman",
+    "OrientalBanditCavalryBowman",
+    "OrientalBanditCanoneer",
+    "OrientalBanditBoss1",
+    "OrientalBanditBoss3",
+    "OrientalBanditBoss4",
+    "OrientalBanditBoss5",
+    "OrientalBanditBoss6",
+    "OrientalBanditBoss7",
+    "OrientalBanditBoss8",
+    "OrientalBanditBoss9",
+    "OrientalCrumpyParrot",
+    "OrientalOasisGuardian"
+  ],
+  "leirit": [
+    {
+      "tunniste": 10687,
+      "sektori": 1,
+      "apunimi": "",
+      "tyyppi": 1,
+      "sijainti": "178, 173",
+      "joukot": {
+        "OrientalBanditRecruit": 80,
+        "OrientalBanditCavalry": 70,
+        "OrientalBanditBowman": 70
+      }
+    },
+    {
+      "tunniste": 10956,
+      "sektori": 1,
+      "apunimi": "",
+      "tyyppi": 1,
+      "sijainti": "202, 245",
+      "joukot": {
+        "OrientalBanditRecruit": 100,
+        "OrientalBanditCavalryBowman": 100
+      }
+    },
+    {
+      "tunniste": 11640,
+      "sektori": 3,
+      "apunimi": "",
+      "tyyppi": 2,
+      "sijainti": "390, 147",
+      "joukot": {
+        "OrientalBanditCanoneer": 150,
+        "OrientalBanditBoss6": 1
+      }
+    },
+    {
+      "tunniste": 11766,
+      "sektori": 3,
+      "apunimi": "",
+      "tyyppi": 1,
+      "sijainti": "324, 89",
+      "joukot": {
+        "OrientalBanditRecruit": 220
+      }
+    },
+    {
+      "tunniste": 11779,
+      "sektori": 4,
+      "apunimi": "",
+      "tyyppi": 2,
+      "sijainti": "512, 104",
+      "joukot": {
+        "OrientalBanditMilitia": 80,
+        "OrientalBanditCavalry": 100,
+        "OrientalBanditBoss7": 1
+      }
+    },
+    {
+      "tunniste": 12028,
+      "sektori": 2,
+      "apunimi": "",
+      "tyyppi": 1,
+      "sijainti": "462, 194",
+      "joukot": {
+        "OrientalBanditRecruit": 70,
+        "OrientalBanditCavalry": 70,
+        "OrientalBanditCavalryBowman": 90
+      }
+    },
+    {
+      "tunniste": 12462,
+      "sektori": 2,
+      "apunimi": "",
+      "tyyppi": 2,
+      "sijainti": "385, 262",
+      "joukot": {
+        "OrientalBanditBoss1": 1,
+        "OrientalBanditBoss4": 1
+      }
+    },
+    {
+      "tunniste": 12468,
+      "sektori": 4,
+      "apunimi": "",
+      "tyyppi": 2,
+      "sijainti": "486, 134",
+      "joukot": {
+        "OrientalBanditBowman": 80,
+        "OrientalOasisGuardian": 1,
+        "OrientalBanditBoss7": 1,
+        "OrientalBanditBoss9": 1
+      }
+    },
+    {
+      "tunniste": 13117,
+      "sektori": 2,
+      "apunimi": "",
+      "tyyppi": 1,
+      "sijainti": "350, 233",
+      "joukot": {
+        "OrientalBanditMilitia": 80,
+        "OrientalBanditCavalry": 80,
+        "OrientalBanditLongbowman": 80
+      }
+    },
+    {
+      "tunniste": 13478,
+      "sektori": 3,
+      "apunimi": "",
+      "tyyppi": 1,
+      "sijainti": "272, 63",
+      "joukot": {
+        "OrientalBanditBowman": 90,
+        "OrientalBanditCanoneer": 90
+      }
+    },
+    {
+      "tunniste": 13529,
+      "sektori": 4,
+      "apunimi": "",
+      "tyyppi": 1,
+      "sijainti": "463, 106",
+      "joukot": {
+        "OrientalBanditSoldier": 100,
+        "OrientalBanditBowman": 100
+      }
+    },
+    {
+      "tunniste": 13584,
+      "sektori": 3,
+      "apunimi": "",
+      "tyyppi": 1,
+      "sijainti": "280, 150",
+      "joukot": {
+        "OrientalBanditMilitia": 80,
+        "OrientalBanditCavalryBowman": 80,
+        "OrientalBanditCanoneer": 80
+      }
+    },
+    {
+      "tunniste": 14004,
+      "sektori": 3,
+      "apunimi": "",
+      "tyyppi": 1,
+      "sijainti": "381, 136",
+      "joukot": {
+        "OrientalBanditCavalry": 100,
+        "OrientalBanditLongbowman": 30,
+        "OrientalBanditCanoneer": 100
+      }
+    },
+    {
+      "tunniste": 14460,
+      "sektori": 1,
+      "apunimi": "",
+      "tyyppi": 2,
+      "sijainti": "202, 170",
+      "joukot": {
+        "OrientalBanditLongbowman": 100,
+        "OrientalBanditCavalryBowman": 100,
+        "OrientalCrumpyParrot": 1
+      }
+    },
+    {
+      "tunniste": 14646,
+      "sektori": 1,
+      "apunimi": "",
+      "tyyppi": 1,
+      "sijainti": "146, 211",
+      "joukot": {
+        "OrientalBanditCavalry": 100,
+        "OrientalBanditCanoneer": 100
+      }
+    },
+    {
+      "tunniste": 14971,
+      "sektori": 4,
+      "apunimi": "",
+      "tyyppi": 1,
+      "sijainti": "465, 123",
+      "joukot": {
+        "OrientalBanditMilitia": 80,
+        "OrientalBanditCavalry": 80,
+        "OrientalBanditCavalryBowman": 70
+      }
+    },
+    {
+      "tunniste": 15548,
+      "sektori": 1,
+      "apunimi": "",
+      "tyyppi": 1,
+      "sijainti": "215, 295",
+      "joukot": {
+        "OrientalBanditRecruit": 70,
+        "OrientalBanditCavalry": 70,
+        "OrientalBanditBowman": 70
+      }
+    },
+    {
+      "tunniste": 15605,
+      "sektori": 2,
+      "apunimi": "",
+      "tyyppi": 2,
+      "sijainti": "397, 162",
+      "joukot": {
+        "OrientalBanditRecruit": 90,
+        "OrientalBanditCavalryBowman": 90,
+        "OrientalBanditBoss7": 1
+      }
+    },
+    {
+      "tunniste": 16144,
+      "sektori": 1,
+      "apunimi": "",
+      "tyyppi": 1,
+      "sijainti": "122, 157",
+      "joukot": {
+        "OrientalBanditMilitia": 80,
+        "OrientalBanditCavalry": 80,
+        "OrientalBanditBowman": 70
+      }
+    },
+    {
+      "tunniste": 16368,
+      "sektori": 2,
+      "apunimi": "",
+      "tyyppi": 2,
+      "sijainti": "491, 198",
+      "joukot": {
+        "OrientalBanditCavalry": 90,
+        "OrientalBanditBoss3": 1,
+        "OrientalBanditBoss6": 1,
+        "OrientalBanditBoss8": 1
+      }
+    },
+    {
+      "tunniste": 16727,
+      "sektori": 3,
+      "apunimi": "",
+      "tyyppi": 2,
+      "sijainti": "320, 73",
+      "joukot": {
+        "OrientalBanditBowman": 80,
+        "OrientalBanditCavalryBowman": 80,
+        "OrientalBanditBoss9": 1
+      }
+    },
+    {
+      "tunniste": 17333,
+      "sektori": 2,
+      "apunimi": "",
+      "tyyppi": 1,
+      "sijainti": "472, 209",
+      "joukot": {
+        "OrientalBanditMilitia": 100,
+        "OrientalBanditCavalry": 120
+      }
+    },
+    {
+      "tunniste": 18210,
+      "sektori": 2,
+      "apunimi": "",
+      "tyyppi": 1,
+      "sijainti": "376, 172",
+      "joukot": {
+        "OrientalBanditMilitia": 70,
+        "OrientalBanditLongbowman": 70,
+        "OrientalBanditCanoneer": 70
+      }
+    },
+    {
+      "tunniste": 19537,
+      "sektori": 1,
+      "apunimi": "",
+      "tyyppi": 2,
+      "sijainti": "302, 277",
+      "joukot": {
+        "OrientalBanditMilitia": 90,
+        "OrientalBanditCavalry": 100,
+        "OrientalBanditBoss5": 1
+      }
+    }
+  ]
+}

@@ -1,0 +1,96 @@
+{
+  "tiedostonimi": "tikki",
+  "tunniste": "MiadTikkiIsland",
+  "nimi": "Tikki Island",
+  "tyyppi": "Mini",
+  "ryhmitysnro": 1,
+  "xp": 4420,
+  "pelaajia": 1,
+  "yksiköt": [
+    "RaidersRecruit",
+    "RaidersCavalry",
+    "RaidersCavalryBow",
+    "RaidersCavalryLongbow",
+    "RaidersCavalryCrossbow",
+    "RaidersBoss1",
+    "RaidersBowman"
+  ],
+  "leirit": [
+    {
+      "tunniste": 10991,
+      "sektori": 1,
+      "oletusnimi": "1.1",
+      "apunimi": "",
+      "tyyppi": 1,
+      "sijainti": "319, 293",
+      "joukot": {
+        "RaidersRecruit": 20,
+        "RaidersCavalry": 50,
+        "RaidersCavalryLongbow": 50
+      }
+    },
+    {
+      "tunniste": 13031,
+      "sektori": 2,
+      "oletusnimi": "2.2",
+      "apunimi": "",
+      "tyyppi": 2,
+      "sijainti": "408, 118",
+      "joukot": {
+        "RaidersRecruit": 60,
+        "RaidersCavalryLongbow": 70,
+        "RaidersBoss1": 1
+      }
+    },
+    {
+      "tunniste": 16281,
+      "sektori": 2,
+      "oletusnimi": "2.1",
+      "apunimi": "",
+      "tyyppi": 1,
+      "sijainti": "380, 125",
+      "joukot": {
+        "RaidersBowman": 70,
+        "RaidersCavalryCrossbow": 60
+      }
+    },
+    {
+      "tunniste": 16809,
+      "sektori": 1,
+      "oletusnimi": "1.2",
+      "apunimi": "",
+      "tyyppi": 1,
+      "sijainti": "372, 261",
+      "joukot": {
+        "RaidersRecruit": 50,
+        "RaidersCavalryBow": 50,
+        "RaidersCavalryLongbow": 50
+      }
+    },
+    {
+      "tunniste": 18142,
+      "sektori": 1,
+      "oletusnimi": "1.3",
+      "apunimi": "",
+      "tyyppi": 1,
+      "sijainti": "283, 206",
+      "joukot": {
+        "RaidersRecruit": 70,
+        "RaidersCavalryCrossbow": 70
+      }
+    },
+    {
+      "tunniste": 19094,
+      "sektori": 1,
+      "oletusnimi": "1.4",
+      "apunimi": "",
+      "tyyppi": 2,
+      "sijainti": "269, 184",
+      "joukot": {
+        "RaidersRecruit": 60,
+        "RaidersCavalry": 60,
+        "RaidersBoss1": 1
+      }
+    }
+  ]
+}

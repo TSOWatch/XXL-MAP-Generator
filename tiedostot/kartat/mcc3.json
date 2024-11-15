@@ -1,0 +1,381 @@
+{
+  "tiedostonimi": "mcc3",
+  "tunniste": "BuffAdventures_TMC_Mountain_Labyrinth",
+  "nimi": "Mountain Labyrinth",
+  "tyyppi": "Venture",
+  "kampanja": "TheMountainClan",
+  "ryhmitysnro": 400,
+  "jnro": 156,
+  "xp": 626313,
+  "pelaajia": 1,
+  "elite": true,
+  "MCCDebuffit": true,
+  "yksiköt": [
+    "TMC_BossFrostBearMatriarch",
+    "TMC_BossRavagingOx",
+    "TMC_BossGargantuanLynx",
+    "EliteWildlifeRecruit",
+    "EliteWildlifeMilitia",
+    "EliteWildlifeCavalry",
+    "EliteWildlifeBowman",
+    "EliteWildlifeLongbowman",
+    "TMC_BossEnormousIbex",
+    "TMC_BossGhastlyWolf"
+  ],
+  "leirit": [
+    {
+      "tunniste": 10193,
+      "apunimi": "",
+      "tyyppi": 2,
+      "sijainti": "113, 242",
+      "joukot": {
+        "EliteWildlifeCavalry": 50,
+        "EliteWildlifeLongbowman": 50,
+        "TMC_BossRavagingOx": 1
+      }
+    },
+    {
+      "tunniste": 10446,
+      "apunimi": "",
+      "tyyppi": 2,
+      "sijainti": "323, 121",
+      "joukot": {
+        "EliteWildlifeRecruit": 50,
+        "EliteWildlifeCavalry": 75,
+        "EliteWildlifeBowman": 50,
+        "EliteWildlifeMilitia": 50,
+        "EliteWildlifeLongbowman": 50
+      }
+    },
+    {
+      "tunniste": 11044,
+      "apunimi": "",
+      "tyyppi": 1,
+      "sijainti": "170, 122",
+      "joukot": {
+        "EliteWildlifeMilitia": 75,
+        "EliteWildlifeLongbowman": 75
+      }
+    },
+    {
+      "tunniste": 11195,
+      "apunimi": "",
+      "tyyppi": 2,
+      "sijainti": "199, 320",
+      "joukot": {
+        "TMC_BossEnormousIbex": 1,
+        "EliteWildlifeMilitia": 75,
+        "EliteWildlifeLongbowman": 50
+      }
+    },
+    {
+      "tunniste": 12192,
+      "apunimi": "",
+      "tyyppi": 2,
+      "sijainti": "521, 251",
+      "joukot": {
+        "EliteWildlifeRecruit": 25,
+        "EliteWildlifeCavalry": 50,
+        "EliteWildlifeMilitia": 50,
+        "TMC_BossFrostBearMatriarch": 1
+      }
+    },
+    {
+      "tunniste": 12344,
+      "apunimi": "",
+      "tyyppi": 1,
+      "sijainti": "486, 93",
+      "joukot": {
+        "EliteWildlifeRecruit": 50,
+        "EliteWildlifeCavalry": 50,
+        "EliteWildlifeLongbowman": 100
+      }
+    },
+    {
+      "tunniste": 12615,
+      "apunimi": "",
+      "tyyppi": 2,
+      "sijainti": "298, 78",
+      "joukot": {
+        "EliteWildlifeRecruit": 100,
+        "EliteWildlifeCavalry": 75,
+        "EliteWildlifeLongbowman": 100
+      }
+    },
+    {
+      "tunniste": 12653,
+      "apunimi": "",
+      "tyyppi": 2,
+      "sijainti": "404, 121",
+      "joukot": {
+        "EliteWildlifeRecruit": 100,
+        "EliteWildlifeCavalry": 20,
+        "TMC_BossEnormousIbex": 1,
+        "EliteWildlifeLongbowman": 40
+      }
+    },
+    {
+      "tunniste": 12685,
+      "apunimi": "",
+      "tyyppi": 2,
+      "sijainti": "524, 55",
+      "joukot": {
+        "EliteWildlifeMilitia": 25,
+        "EliteWildlifeLongbowman": 75,
+        "TMC_BossGhastlyWolf": 2
+      }
+    },
+    {
+      "tunniste": 12920,
+      "apunimi": "",
+      "tyyppi": 1,
+      "sijainti": "221, 184",
+      "joukot": {
+        "EliteWildlifeCavalry": 5,
+        "EliteWildlifeBowman": 50,
+        "EliteWildlifeMilitia": 105
+      }
+    },
+    {
+      "tunniste": 12974,
+      "apunimi": "",
+      "tyyppi": 2,
+      "sijainti": "549, 176",
+      "joukot": {
+        "EliteWildlifeRecruit": 50,
+        "EliteWildlifeCavalry": 100,
+        "TMC_BossRavagingOx": 1
+      }
+    },
+    {
+      "tunniste": 13137,
+      "apunimi": "",
+      "tyyppi": 1,
+      "sijainti": "274, 145",
+      "joukot": {
+        "EliteWildlifeRecruit": 50,
+        "EliteWildlifeCavalry": 175
+      }
+    },
+    {
+      "tunniste": 13412,
+      "apunimi": "",
+      "tyyppi": 2,
+      "sijainti": "270, 221",
+      "joukot": {
+        "EliteWildlifeRecruit": 50,
+        "EliteWildlifeCavalry": 75,
+        "TMC_BossGargantuanLynx": 1
+      }
+    },
+    {
+      "tunniste": 14273,
+      "apunimi": "",
+      "tyyppi": 1,
+      "sijainti": "526, 117",
+      "joukot": {
+        "EliteWildlifeRecruit": 100,
+        "EliteWildlifeLongbowman": 92
+      }
+    },
+    {
+      "tunniste": 15001,
+      "apunimi": "",
+      "tyyppi": 2,
+      "sijainti": "216, 101",
+      "joukot": {
+        "EliteWildlifeRecruit": 100,
+        "TMC_BossRavagingOx": 1,
+        "TMC_BossGhastlyWolf": 1
+      }
+    },
+    {
+      "tunniste": 15072,
+      "apunimi": "",
+      "tyyppi": 1,
+      "sijainti": "375, 54",
+      "joukot": {
+        "EliteWildlifeRecruit": 42,
+        "EliteWildlifeCavalry": 42,
+        "EliteWildlifeMilitia": 42,
+        "EliteWildlifeLongbowman": 42
+      }
+    },
+    {
+      "tunniste": 15147,
+      "apunimi": "",
+      "tyyppi": 1,
+      "sijainti": "468, 161",
+      "joukot": {
+        "EliteWildlifeBowman": 75,
+        "EliteWildlifeMilitia": 98
+      }
+    },
+    {
+      "tunniste": 16365,
+      "apunimi": "",
+      "tyyppi": 2,
+      "sijainti": "394, 177",
+      "joukot": {
+        "EliteWildlifeRecruit": 70,
+        "EliteWildlifeBowman": 25,
+        "TMC_BossGhastlyWolf": 2
+      }
+    },
+    {
+      "tunniste": 16482,
+      "apunimi": "",
+      "tyyppi": 1,
+      "sijainti": "158, 181",
+      "joukot": {
+        "EliteWildlifeRecruit": 125,
+        "EliteWildlifeCavalry": 50
+      }
+    },
+    {
+      "tunniste": 16900,
+      "apunimi": "",
+      "tyyppi": 1,
+      "sijainti": "175, 133",
+      "joukot": {
+        "EliteWildlifeRecruit": 50,
+        "EliteWildlifeCavalry": 100
+      }
+    },
+    {
+      "tunniste": 17549,
+      "apunimi": "",
+      "tyyppi": 1,
+      "sijainti": "274, 114",
+      "joukot": {
+        "EliteWildlifeCavalry": 30,
+        "EliteWildlifeMilitia": 100,
+        "EliteWildlifeLongbowman": 25
+      }
+    },
+    {
+      "tunniste": 17555,
+      "apunimi": "",
+      "tyyppi": 1,
+      "sijainti": "438, 137",
+      "joukot": {
+        "EliteWildlifeRecruit": 25,
+        "EliteWildlifeCavalry": 100,
+        "EliteWildlifeMilitia": 25,
+        "EliteWildlifeLongbowman": 50
+      }
+    },
+    {
+      "tunniste": 17577,
+      "apunimi": "",
+      "tyyppi": 2,
+      "sijainti": "485, 201",
+      "joukot": {
+        "EliteWildlifeCavalry": 100,
+        "EliteWildlifeMilitia": 30,
+        "TMC_BossRavagingOx": 1
+      }
+    },
+    {
+      "tunniste": 17734,
+      "apunimi": "",
+      "tyyppi": 1,
+      "sijainti": "187, 155",
+      "joukot": {
+        "EliteWildlifeRecruit": 50,
+        "EliteWildlifeCavalry": 50,
+        "EliteWildlifeMilitia": 50
+      }
+    },
+    {
+      "tunniste": 17779,
+      "apunimi": "",
+      "tyyppi": 2,
+      "sijainti": "428, 59",
+      "joukot": {
+        "EliteWildlifeCavalry": 75,
+        "TMC_BossEnormousIbex": 1,
+        "EliteWildlifeMilitia": 75
+      }
+    },
+    {
+      "tunniste": 17848,
+      "apunimi": "",
+      "tyyppi": 1,
+      "sijainti": "244, 123",
+      "joukot": {
+        "EliteWildlifeRecruit": 75,
+        "EliteWildlifeCavalry": 35,
+        "EliteWildlifeMilitia": 50
+      }
+    },
+    {
+      "tunniste": 18070,
+      "apunimi": "",
+      "tyyppi": 2,
+      "sijainti": "174, 262",
+      "joukot": {
+        "EliteWildlifeBowman": 40,
+        "TMC_BossGargantuanLynx": 1,
+        "EliteWildlifeMilitia": 80
+      }
+    },
+    {
+      "tunniste": 18097,
+      "apunimi": "",
+      "tyyppi": 2,
+      "sijainti": "104, 298",
+      "joukot": {
+        "EliteWildlifeCavalry": 50,
+        "TMC_BossGargantuanLynx": 1,
+        "EliteWildlifeMilitia": 50
+      }
+    },
+    {
+      "tunniste": 18311,
+      "apunimi": "",
+      "tyyppi": 1,
+      "sijainti": "380, 102",
+      "joukot": {
+        "EliteWildlifeRecruit": 37,
+        "EliteWildlifeCavalry": 37,
+        "EliteWildlifeBowman": 37,
+        "EliteWildlifeMilitia": 37,
+        "EliteWildlifeLongbowman": 37
+      }
+    },
+    {
+      "tunniste": 18699,
+      "apunimi": "",
+      "tyyppi": 2,
+      "sijainti": "60, 227",
+      "joukot": {
+        "EliteWildlifeBowman": 50,
+        "EliteWildlifeMilitia": 75,
+        "TMC_BossGhastlyWolf": 1
+      }
+    },
+    {
+      "tunniste": 18907,
+      "apunimi": "",
+      "tyyppi": 2,
+      "sijainti": "59, 306",
+      "joukot": {
+        "EliteWildlifeRecruit": 50,
+        "EliteWildlifeCavalry": 50,
+        "TMC_BossEnormousIbex": 1,
+        "EliteWildlifeBowman": 50
+      }
+    },
+    {
+      "tunniste": 19361,
+      "apunimi": "",
+      "tyyppi": 1,
+      "sijainti": "199, 118",
+      "joukot": {
+        "EliteWildlifeMilitia": 50,
+        "EliteWildlifeLongbowman": 100
+      }
+    }
+  ]
+}

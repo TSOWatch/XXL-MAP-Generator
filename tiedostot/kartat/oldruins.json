@@ -1,0 +1,133 @@
+{
+  "tiedostonimi": "oldruins",
+  "tunniste": "Birthday2013MilitaryAdventure2",
+  "nimi": "Old Ruins",
+  "tyyppi": "Mission",
+  "teema": "Retro",
+  "xp": 5340,
+  "pelaajia": 1,
+  "yksiköt": [
+    "BanditRecruit",
+    "BanditCavalry",
+    "BanditBowman",
+    "BanditLongbowman",
+    "CultBoss3",
+    "CultRecruit",
+    "CultBoss1",
+    "CultCavalry",
+    "CultBowman",
+    "CultCrossbowman",
+    "NeutralCavalry",
+    "BanditBoss2",
+    "ChristmasBoss1"
+  ],
+  "leirit": [
+    {
+      "tunniste": 10125,
+      "sektori": 3,
+      "oletusnimi": "3.2",
+      "apunimi": "",
+      "tyyppi": 1,
+      "sijainti": "99, 235",
+      "joukot": {
+        "CultRecruit": 80,
+        "CultBoss1": 1
+      }
+    },
+    {
+      "tunniste": 10382,
+      "sektori": 3,
+      "oletusnimi": "3.3",
+      "apunimi": "",
+      "tyyppi": 1,
+      "sijainti": "116, 246",
+      "joukot": {
+        "CultCrossbowman": 80,
+        "CultBoss1": 1
+      }
+    },
+    {
+      "tunniste": 10914,
+      "sektori": 1,
+      "oletusnimi": "1.4",
+      "apunimi": "",
+      "tyyppi": 2,
+      "sijainti": "448, 148",
+      "joukot": {
+        "BanditLongbowman": 60,
+        "BanditBoss2": 1
+      }
+    },
+    {
+      "tunniste": 11639,
+      "sektori": 3,
+      "oletusnimi": "3.4",
+      "apunimi": "",
+      "tyyppi": 2,
+      "sijainti": "86, 248",
+      "joukot": {
+        "CultBoss3": 1
+      }
+    },
+    {
+      "tunniste": 12510,
+      "sektori": 1,
+      "oletusnimi": "1.2",
+      "apunimi": "",
+      "tyyppi": 1,
+      "sijainti": "361, 232",
+      "joukot": {
+        "BanditRecruit": 60,
+        "BanditCavalry": 70
+      }
+    },
+    {
+      "tunniste": 14923,
+      "sektori": 1,
+      "oletusnimi": "1.3",
+      "apunimi": "",
+      "tyyppi": 1,
+      "sijainti": "391, 178",
+      "joukot": {
+        "BanditRecruit": 60,
+        "BanditLongbowman": 50
+      }
+    },
+    {
+      "tunniste": 18080,
+      "sektori": 3,
+      "oletusnimi": "3.1",
+      "apunimi": "",
+      "tyyppi": 1,
+      "sijainti": "175, 189",
+      "joukot": {
+        "CultBowman": 80,
+        "CultCavalry": 80
+      }
+    },
+    {
+      "tunniste": 18264,
+      "sektori": 2,
+      "oletusnimi": "2.1",
+      "apunimi": "",
+      "tyyppi": 2,
+      "sijainti": "91, 108",
+      "joukot": {
+        "NeutralCavalry": 100,
+        "ChristmasBoss1": 1
+      }
+    },
+    {
+      "tunniste": 18833,
+      "sektori": 1,
+      "oletusnimi": "1.1",
+      "apunimi": "",
+      "tyyppi": 1,
+      "sijainti": "373, 282",
+      "joukot": {
+        "BanditRecruit": 60,
+        "BanditBowman": 60
+      }
+    }
+  ]
+}

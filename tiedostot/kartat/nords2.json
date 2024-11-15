@@ -1,0 +1,416 @@
+{
+  "tiedostonimi": "nords2",
+  "tunniste": "TheNords2",
+  "nimi": "The Invasion of the Nords",
+  "tyyppi": "Mission",
+  "ryhmitysnro": 2,
+  "xp": 43530,
+  "pelaajia": 1,
+  "yksiköt": [
+    "NordsEliteSoldier",
+    "NordsSoldier",
+    "NordsMilitia",
+    "NordsRecruit",
+    "NordsBowman",
+    "NordsCanoneer",
+    "NeutralCavalry"
+  ],
+  "leirit": [
+    {
+      "tunniste": 10153,
+      "sektori": 6,
+      "oletusnimi": "6.6",
+      "apunimi": "",
+      "tyyppi": 2,
+      "sijainti": "395, 273",
+      "joukot": {
+        "NordsSoldier": 80,
+        "NordsEliteSoldier": 40,
+        "NordsBowman": 60,
+        "NordsCanoneer": 20
+      }
+    },
+    {
+      "tunniste": 10196,
+      "sektori": 3,
+      "oletusnimi": "3.1",
+      "apunimi": "",
+      "tyyppi": 1,
+      "sijainti": "167, 151",
+      "joukot": {
+        "NordsRecruit": 80,
+        "NordsSoldier": 80,
+        "NordsBowman": 50
+      }
+    },
+    {
+      "tunniste": 10995,
+      "sektori": 8,
+      "oletusnimi": "8.3",
+      "apunimi": "",
+      "tyyppi": 1,
+      "sijainti": "525, 73",
+      "joukot": {
+        "NordsMilitia": 200
+      }
+    },
+    {
+      "tunniste": 11570,
+      "sektori": 7,
+      "oletusnimi": "7.1",
+      "apunimi": "",
+      "tyyppi": 1,
+      "sijainti": "460, 200",
+      "joukot": {
+        "NordsMilitia": 80,
+        "NordsSoldier": 120
+      }
+    },
+    {
+      "tunniste": 11686,
+      "sektori": 2,
+      "oletusnimi": "2.2",
+      "apunimi": "",
+      "tyyppi": 1,
+      "sijainti": "122, 213",
+      "joukot": {
+        "NeutralCavalry": 200
+      }
+    },
+    {
+      "tunniste": 11969,
+      "sektori": 3,
+      "oletusnimi": "3.2",
+      "apunimi": "",
+      "tyyppi": 1,
+      "sijainti": "116, 131",
+      "joukot": {
+        "NordsRecruit": 80,
+        "NordsSoldier": 80,
+        "NordsBowman": 40
+      }
+    },
+    {
+      "tunniste": 11996,
+      "sektori": 6,
+      "oletusnimi": "6.4",
+      "apunimi": "",
+      "tyyppi": 1,
+      "sijainti": "371, 288",
+      "joukot": {
+        "NordsSoldier": 100,
+        "NordsBowman": 100
+      }
+    },
+    {
+      "tunniste": 12153,
+      "sektori": 8,
+      "oletusnimi": "8.4",
+      "apunimi": "",
+      "tyyppi": 2,
+      "sijainti": "516, 61",
+      "joukot": {
+        "NordsSoldier": 80,
+        "NordsEliteSoldier": 60,
+        "NordsCanoneer": 60
+      }
+    },
+    {
+      "tunniste": 12708,
+      "sektori": 1,
+      "oletusnimi": "1.2",
+      "apunimi": "",
+      "tyyppi": 2,
+      "sijainti": "204, 254",
+      "joukot": {
+        "NordsMilitia": 60,
+        "NordsEliteSoldier": 140
+      }
+    },
+    {
+      "tunniste": 13848,
+      "sektori": 4,
+      "oletusnimi": "4.1",
+      "apunimi": "",
+      "tyyppi": 1,
+      "sijainti": "265, 102",
+      "joukot": {
+        "NordsMilitia": 200
+      }
+    },
+    {
+      "tunniste": 14245,
+      "sektori": 6,
+      "oletusnimi": "6.1",
+      "apunimi": "",
+      "tyyppi": 1,
+      "sijainti": "293, 235",
+      "joukot": {
+        "NordsMilitia": 120,
+        "NordsSoldier": 80
+      }
+    },
+    {
+      "tunniste": 14481,
+      "sektori": 2,
+      "oletusnimi": "2.3",
+      "apunimi": "",
+      "tyyppi": 1,
+      "sijainti": "152, 199",
+      "joukot": {
+        "NordsMilitia": 80,
+        "NordsBowman": 120
+      }
+    },
+    {
+      "tunniste": 14678,
+      "sektori": 6,
+      "oletusnimi": "6.2",
+      "apunimi": "",
+      "tyyppi": 1,
+      "sijainti": "348, 268",
+      "joukot": {
+        "NordsSoldier": 150
+      }
+    },
+    {
+      "tunniste": 14683,
+      "sektori": 4,
+      "oletusnimi": "4.2",
+      "apunimi": "",
+      "tyyppi": 1,
+      "sijainti": "288, 104",
+      "joukot": {
+        "NordsMilitia": 30,
+        "NordsSoldier": 75
+      }
+    },
+    {
+      "tunniste": 14778,
+      "sektori": 6,
+      "oletusnimi": "6.3",
+      "apunimi": "",
+      "tyyppi": 1,
+      "sijainti": "381, 271",
+      "joukot": {
+        "NordsBowman": 200
+      }
+    },
+    {
+      "tunniste": 15248,
+      "sektori": 2,
+      "oletusnimi": "2.5",
+      "apunimi": "",
+      "tyyppi": 1,
+      "sijainti": "64, 191",
+      "joukot": {
+        "NordsMilitia": 80,
+        "NordsBowman": 120
+      }
+    },
+    {
+      "tunniste": 15307,
+      "sektori": 4,
+      "oletusnimi": "4.3",
+      "apunimi": "",
+      "tyyppi": 1,
+      "sijainti": "272, 131",
+      "joukot": {
+        "NordsMilitia": 75,
+        "NordsSoldier": 50
+      }
+    },
+    {
+      "tunniste": 15825,
+      "sektori": 2,
+      "oletusnimi": "2.7",
+      "apunimi": "",
+      "tyyppi": 2,
+      "sijainti": "64, 172",
+      "joukot": {
+        "NordsMilitia": 40,
+        "NordsBowman": 160
+      }
+    },
+    {
+      "tunniste": 16257,
+      "sektori": 5,
+      "oletusnimi": "5.3",
+      "apunimi": "",
+      "tyyppi": 2,
+      "sijainti": "284, 204",
+      "joukot": {
+        "NordsSoldier": 120,
+        "NordsEliteSoldier": 40,
+        "NordsBowman": 40
+      }
+    },
+    {
+      "tunniste": 16449,
+      "sektori": 8,
+      "oletusnimi": "8.2",
+      "apunimi": "",
+      "tyyppi": 1,
+      "sijainti": "498, 62",
+      "joukot": {
+        "NordsBowman": 200
+      }
+    },
+    {
+      "tunniste": 16702,
+      "sektori": 8,
+      "oletusnimi": "8.1",
+      "apunimi": "",
+      "tyyppi": 1,
+      "sijainti": "507, 72",
+      "joukot": {
+        "NordsSoldier": 200
+      }
+    },
+    {
+      "tunniste": 16742,
+      "sektori": 7,
+      "oletusnimi": "7.4",
+      "apunimi": "",
+      "tyyppi": 2,
+      "sijainti": "470, 182",
+      "joukot": {
+        "NordsMilitia": 50,
+        "NordsSoldier": 50,
+        "NordsEliteSoldier": 70,
+        "NordsCanoneer": 30
+      }
+    },
+    {
+      "tunniste": 16870,
+      "sektori": 6,
+      "oletusnimi": "6.5",
+      "apunimi": "",
+      "tyyppi": 1,
+      "sijainti": "394, 286",
+      "joukot": {
+        "NordsSoldier": 100
+      }
+    },
+    {
+      "tunniste": 16873,
+      "sektori": 2,
+      "oletusnimi": "2.6",
+      "apunimi": "",
+      "tyyppi": 1,
+      "sijainti": "82, 145",
+      "joukot": {
+        "NordsRecruit": 120,
+        "NordsSoldier": 80
+      }
+    },
+    {
+      "tunniste": 17299,
+      "sektori": 2,
+      "oletusnimi": "2.1",
+      "apunimi": "",
+      "tyyppi": 1,
+      "sijainti": "72, 214",
+      "joukot": {
+        "NordsMilitia": 150,
+        "NordsBowman": 50
+      }
+    },
+    {
+      "tunniste": 17360,
+      "sektori": 3,
+      "oletusnimi": "3.3",
+      "apunimi": "",
+      "tyyppi": 2,
+      "sijainti": "167, 121",
+      "joukot": {
+        "NordsSoldier": 85,
+        "NordsBowman": 80,
+        "NordsCanoneer": 35
+      }
+    },
+    {
+      "tunniste": 17520,
+      "sektori": 7,
+      "oletusnimi": "7.3",
+      "apunimi": "",
+      "tyyppi": 1,
+      "sijainti": "465, 168",
+      "joukot": {
+        "NordsSoldier": 180
+      }
+    },
+    {
+      "tunniste": 17703,
+      "sektori": 5,
+      "oletusnimi": "5.1",
+      "apunimi": "",
+      "tyyppi": 1,
+      "sijainti": "265, 188",
+      "joukot": {
+        "NordsMilitia": 40,
+        "NordsSoldier": 80,
+        "NordsBowman": 80
+      }
+    },
+    {
+      "tunniste": 17869,
+      "sektori": 2,
+      "oletusnimi": "2.4",
+      "apunimi": "",
+      "tyyppi": 1,
+      "sijainti": "167, 173",
+      "joukot": {
+        "NordsBowman": 200
+      }
+    },
+    {
+      "tunniste": 18263,
+      "sektori": 1,
+      "oletusnimi": "1.1",
+      "apunimi": "",
+      "tyyppi": 1,
+      "sijainti": "172, 245",
+      "joukot": {
+        "NordsBowman": 200
+      }
+    },
+    {
+      "tunniste": 18905,
+      "sektori": 5,
+      "oletusnimi": "5.2",
+      "apunimi": "",
+      "tyyppi": 1,
+      "sijainti": "302, 200",
+      "joukot": {
+        "NordsSoldier": 80,
+        "NordsBowman": 120
+      }
+    },
+    {
+      "tunniste": 19504,
+      "sektori": 4,
+      "oletusnimi": "4.4",
+      "apunimi": "",
+      "tyyppi": 2,
+      "sijainti": "305, 116",
+      "joukot": {
+        "NordsMilitia": 60,
+        "NordsSoldier": 80,
+        "NordsEliteSoldier": 60
+      }
+    },
+    {
+      "tunniste": 19790,
+      "sektori": 7,
+      "oletusnimi": "7.2",
+      "apunimi": "",
+      "tyyppi": 1,
+      "sijainti": "442, 177",
+      "joukot": {
+        "NordsSoldier": 100,
+        "NordsBowman": 100
+      }
+    }
+  ]
+}

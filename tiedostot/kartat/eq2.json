@@ -1,0 +1,381 @@
+{
+  "tiedostonimi": "eq2",
+  "tunniste": "BuffAdventures_Evil_Queen_Hansel_Gretel",
+  "nimi": "Hansel and Gretel",
+  "tyyppi": "Venture",
+  "teema": "Fairytale",
+  "kampanja": "TheEvilQueen",
+  "ryhmitysnro": 300,
+  "jnro": 146,
+  "xp": 133005,
+  "pelaajia": 1,
+  "elite": true,
+  "yksiköt": [
+    "KingdomEliteSoldier",
+    "WildlifeRecruit",
+    "WildlifeMilitia",
+    "WildlifeBowman",
+    "WildlifeLongbowman",
+    "WildlifeCavalry",
+    "WildlifeCannoneer",
+    "EpicRaidKingdomRecruit",
+    "EpicRaidKingdomMilitia",
+    "EpicRaidKingdomBowman",
+    "EpicRaidKingdomLongbowman",
+    "EpicRaidKingdomCavalry",
+    "EpicRaidKingdomCannoneer",
+    "Deer_Unit",
+    "EpicRaidBoss4",
+    "EpicRaidBossEvilQueen"
+  ],
+  "leirit": [
+    {
+      "tunniste": 10247,
+      "sektori": 6,
+      "oletusnimi": "6.1",
+      "apunimi": "",
+      "tyyppi": 1,
+      "sijainti": "469, 262",
+      "joukot": {
+        "KingdomEliteSoldier": 100,
+        "EpicRaidKingdomLongbowman": 150
+      }
+    },
+    {
+      "tunniste": 10393,
+      "sektori": 7,
+      "oletusnimi": "7.3",
+      "apunimi": "",
+      "tyyppi": 2,
+      "sijainti": "564, 239",
+      "joukot": {
+        "KingdomEliteSoldier": 75,
+        "EpicRaidKingdomCavalry": 150,
+        "EpicRaidKingdomCannoneer": 100
+      }
+    },
+    {
+      "tunniste": 10737,
+      "sektori": 2,
+      "oletusnimi": "2.2",
+      "apunimi": "",
+      "tyyppi": 1,
+      "sijainti": "130, 281",
+      "joukot": {
+        "WildlifeCavalry": 100,
+        "WildlifeRecruit": 200
+      }
+    },
+    {
+      "tunniste": 11139,
+      "sektori": 6,
+      "oletusnimi": "6.2",
+      "apunimi": "",
+      "tyyppi": 2,
+      "sijainti": "532, 294",
+      "joukot": {
+        "EpicRaidKingdomRecruit": 200,
+        "EpicRaidKingdomMilitia": 150
+      }
+    },
+    {
+      "tunniste": 11685,
+      "sektori": 2,
+      "oletusnimi": "2.1",
+      "apunimi": "",
+      "tyyppi": 1,
+      "sijainti": "119, 301",
+      "joukot": {
+        "WildlifeRecruit": 160,
+        "WildlifeBowman": 180
+      }
+    },
+    {
+      "tunniste": 12131,
+      "sektori": 1,
+      "oletusnimi": "1.2",
+      "apunimi": "",
+      "tyyppi": 1,
+      "sijainti": "80, 221",
+      "joukot": {
+        "WildlifeRecruit": 150,
+        "WildlifeLongbowman": 100
+      }
+    },
+    {
+      "tunniste": 12214,
+      "sektori": 4,
+      "oletusnimi": "4.1",
+      "apunimi": "",
+      "tyyppi": 1,
+      "sijainti": "347, 181",
+      "joukot": {
+        "EpicRaidKingdomRecruit": 150,
+        "EpicRaidKingdomMilitia": 100
+      }
+    },
+    {
+      "tunniste": 12230,
+      "sektori": 3,
+      "oletusnimi": "3.1",
+      "apunimi": "",
+      "tyyppi": 1,
+      "sijainti": "225, 269",
+      "joukot": {
+        "WildlifeCavalry": 200,
+        "WildlifeMilitia": 200
+      }
+    },
+    {
+      "tunniste": 12434,
+      "sektori": 5,
+      "oletusnimi": "5.3",
+      "apunimi": "",
+      "tyyppi": 1,
+      "sijainti": "294, 296",
+      "joukot": {
+        "WildlifeCavalry": 150,
+        "WildlifeBowman": 200,
+        "Deer_Unit": 50
+      }
+    },
+    {
+      "tunniste": 12731,
+      "sektori": 3,
+      "oletusnimi": "3.5",
+      "apunimi": "",
+      "tyyppi": 1,
+      "sijainti": "287, 191",
+      "joukot": {
+        "WildlifeCavalry": 200,
+        "WildlifeLongbowman": 150
+      }
+    },
+    {
+      "tunniste": 13158,
+      "sektori": 1,
+      "oletusnimi": "1.4",
+      "apunimi": "",
+      "tyyppi": 2,
+      "sijainti": "120, 212",
+      "joukot": {
+        "WildlifeBowman": 100,
+        "WildlifeMilitia": 150,
+        "WildlifeCannoneer": 100
+      }
+    },
+    {
+      "tunniste": 13224,
+      "sektori": 3,
+      "oletusnimi": "3.3",
+      "apunimi": "",
+      "tyyppi": 1,
+      "sijainti": "292, 229",
+      "joukot": {
+        "WildlifeMilitia": 150,
+        "WildlifeLongbowman": 150
+      }
+    },
+    {
+      "tunniste": 13440,
+      "sektori": 1,
+      "oletusnimi": "1.1",
+      "apunimi": "",
+      "tyyppi": 1,
+      "sijainti": "114, 162",
+      "joukot": {
+        "WildlifeCavalry": 200,
+        "WildlifeLongbowman": 200
+      }
+    },
+    {
+      "tunniste": 13668,
+      "sektori": 8,
+      "oletusnimi": "8.2",
+      "apunimi": "",
+      "tyyppi": 2,
+      "sijainti": "448, 144",
+      "joukot": {
+        "EpicRaidKingdomCavalry": 100,
+        "EpicRaidKingdomCannoneer": 250
+      }
+    },
+    {
+      "tunniste": 14340,
+      "sektori": 3,
+      "oletusnimi": "3.2",
+      "apunimi": "",
+      "tyyppi": 1,
+      "sijainti": "312, 249",
+      "joukot": {
+        "WildlifeCavalry": 150,
+        "WildlifeLongbowman": 100
+      }
+    },
+    {
+      "tunniste": 15046,
+      "sektori": 2,
+      "oletusnimi": "2.3",
+      "apunimi": "",
+      "tyyppi": 1,
+      "sijainti": "164, 273",
+      "joukot": {
+        "WildlifeCavalry": 200,
+        "WildlifeLongbowman": 150
+      }
+    },
+    {
+      "tunniste": 15341,
+      "sektori": 2,
+      "oletusnimi": "2.4",
+      "apunimi": "",
+      "tyyppi": 2,
+      "sijainti": "181, 297",
+      "joukot": {
+        "WildlifeCavalry": 200,
+        "WildlifeMilitia": 100,
+        "WildlifeCannoneer": 50
+      }
+    },
+    {
+      "tunniste": 15712,
+      "sektori": 1,
+      "oletusnimi": "1.3",
+      "apunimi": "",
+      "tyyppi": 1,
+      "sijainti": "112, 247",
+      "joukot": {
+        "WildlifeRecruit": 150,
+        "WildlifeLongbowman": 100
+      }
+    },
+    {
+      "tunniste": 15906,
+      "sektori": 5,
+      "oletusnimi": "5.1",
+      "apunimi": "",
+      "tyyppi": 1,
+      "sijainti": "355, 287",
+      "joukot": {
+        "WildlifeCavalry": 150,
+        "WildlifeLongbowman": 150,
+        "Deer_Unit": 50
+      }
+    },
+    {
+      "tunniste": 16135,
+      "sektori": 8,
+      "oletusnimi": "8.1",
+      "apunimi": "",
+      "tyyppi": 1,
+      "sijainti": "486, 153",
+      "joukot": {
+        "EpicRaidKingdomRecruit": 125,
+        "EpicRaidKingdomMilitia": 75
+      }
+    },
+    {
+      "tunniste": 16302,
+      "sektori": 3,
+      "oletusnimi": "3.6",
+      "apunimi": "",
+      "tyyppi": 2,
+      "sijainti": "309, 150",
+      "joukot": {
+        "WildlifeCavalry": 100,
+        "WildlifeRecruit": 200,
+        "WildlifeCannoneer": 50,
+        "EpicRaidBoss4": 1
+      }
+    },
+    {
+      "tunniste": 16836,
+      "sektori": 7,
+      "oletusnimi": "7.2",
+      "apunimi": "",
+      "tyyppi": 1,
+      "sijainti": "548, 221",
+      "joukot": {
+        "EpicRaidKingdomRecruit": 150,
+        "EpicRaidKingdomMilitia": 50
+      }
+    },
+    {
+      "tunniste": 17397,
+      "sektori": 4,
+      "oletusnimi": "4.3",
+      "apunimi": "",
+      "tyyppi": 2,
+      "sijainti": "420, 244",
+      "joukot": {
+        "EpicRaidKingdomMilitia": 75,
+        "EpicRaidKingdomCavalry": 100,
+        "EpicRaidKingdomLongbowman": 75
+      }
+    },
+    {
+      "tunniste": 18776,
+      "sektori": 4,
+      "oletusnimi": "4.2",
+      "apunimi": "",
+      "tyyppi": 1,
+      "sijainti": "413, 207",
+      "joukot": {
+        "EpicRaidKingdomMilitia": 100,
+        "EpicRaidKingdomBowman": 200
+      }
+    },
+    {
+      "tunniste": 19154,
+      "sektori": 3,
+      "oletusnimi": "3.4",
+      "apunimi": "",
+      "tyyppi": 1,
+      "sijainti": "320, 212",
+      "joukot": {
+        "WildlifeBowman": 200,
+        "WildlifeMilitia": 125
+      }
+    },
+    {
+      "tunniste": 19614,
+      "sektori": 8,
+      "oletusnimi": "8.3",
+      "apunimi": "",
+      "tyyppi": 2,
+      "sijainti": "554, 47",
+      "joukot": {
+        "EpicRaidKingdomMilitia": 175,
+        "EpicRaidKingdomLongbowman": 100,
+        "EpicRaidKingdomCannoneer": 70,
+        "EpicRaidBossEvilQueen": 1
+      }
+    },
+    {
+      "tunniste": 19808,
+      "sektori": 7,
+      "oletusnimi": "7.1",
+      "apunimi": "",
+      "tyyppi": 1,
+      "sijainti": "503, 228",
+      "joukot": {
+        "KingdomEliteSoldier": 50,
+        "EpicRaidKingdomCavalry": 150,
+        "EpicRaidKingdomCannoneer": 50
+      }
+    },
+    {
+      "tunniste": 19818,
+      "sektori": 5,
+      "oletusnimi": "5.2",
+      "apunimi": "",
+      "tyyppi": 1,
+      "sijainti": "370, 304",
+      "joukot": {
+        "WildlifeRecruit": 200,
+        "WildlifeCannoneer": 150,
+        "Deer_Unit": 50
+      }
+    }
+  ]
+}

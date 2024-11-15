@@ -1,0 +1,236 @@
+[
+  {
+    "tunniste": "UnitSkillBonusDamageBuildings",
+    "nimi": "Demolition"
+  },
+  {
+    "nro": 3,
+    "tunniste": "UnitSkillSplashDamage",
+    "nimi": "Splash damage"
+  },
+  {
+    "nro": 2,
+    "tunniste": "UnitSkillAttackWeakestTarget",
+    "nimi": "Flanking"
+  },
+  {
+    "nro": 4,
+    "tunniste": "UnitSkillInitiativeNormal",
+    "nimi": "Normal"
+  },
+  {
+    "nro": 5,
+    "tunniste": "UnitSkillFirstStrike",
+    "nimi": "First strike"
+  },
+  {
+    "nro": 6,
+    "tunniste": "UnitSkillLastStrike",
+    "nimi": "Last strike"
+  },
+  {
+    "nro": 540,
+    "tunniste": "Skill_GeneralAttacksTwice",
+    "nimi": "Lightning Slash"
+  },
+  {
+    "nro": 541,
+    "tunniste": "Skill_IncreaseAccuracy",
+    "nimi": "Master Planner"
+  },
+  {
+    "nro": 542,
+    "tunniste": "Skill_GetStarCoins",
+    "nimi": "Bounty Hunter"
+  },
+  {
+    "nro": 543,
+    "tunniste": "Skill_InstantRecovery",
+    "nimi": "1-Up"
+  },
+  {
+    "nro": 531,
+    "tunniste": "Skill_IncreaseEliteSoldierSplashAndAD",
+    "nimi": "Cleave"
+  },
+  {
+    "nro": 532,
+    "tunniste": "Skill_IncreaseHeavyAD",
+    "nimi": "Weekly Maintenance"
+  },
+  {
+    "nro": 533,
+    "tunniste": "Skill_IncreaseCapacity",
+    "nimi": "Garrison Annex"
+  },
+  {
+    "nro": 534,
+    "tunniste": "Skill_IncreaseCombatSpeed",
+    "nimi": "Confident Leader"
+  },
+  {
+    "nro": 521,
+    "tunniste": "Skill_IncreaseSwiftSplashAndAD",
+    "nimi": "Unstoppable Charge"
+  },
+  {
+    "nro": 522,
+    "tunniste": "Skill_IncreaseADEveryRound",
+    "nimi": "Battle Frenzy"
+  },
+  {
+    "nro": 523,
+    "tunniste": "Skill_IncreaseXP",
+    "nimi": "Fast Learner"
+  },
+  {
+    "nro": 524,
+    "tunniste": "Skill_IncreaseRecoverySpeed",
+    "nimi": "Just a Flesh Wound"
+  },
+  {
+    "nro": 511,
+    "tunniste": "Skill_IncreaseLongbowmanAndMarksmanAD",
+    "nimi": "Sniper Training"
+  },
+  {
+    "nro": 512,
+    "tunniste": "Skill_DescreaseBossHP",
+    "nimi": "Overrun"
+  },
+  {
+    "nro": 513,
+    "tunniste": "Skill_GetRecruits",
+    "nimi": "Hostile Takeover"
+  },
+  {
+    "nro": 514,
+    "tunniste": "Skill_IncreaseTravelSpeed",
+    "nimi": "Navigation Crash Course"
+  },
+  {
+    "nro": 501,
+    "tunniste": "Skill_IncreaseBowmanMaximumAD",
+    "nimi": "Rapid Fire"
+  },
+  {
+    "nro": 502,
+    "tunniste": "Skill_IncreaseGeneralSplashAndAD",
+    "nimi": "Juggernaut"
+  },
+  {
+    "nro": 503,
+    "tunniste": "Skill_ResurrectLosses",
+    "nimi": "First Aid"
+  },
+  {
+    "nro": 504,
+    "tunniste": "Skill_IncreasePeacefulMovementSpeed",
+    "nimi": "Jog"
+  },
+  {
+    "nro": 109,
+    "tunniste": "Trait_Anslem",
+    "nimi": "Dazzle"
+  },
+  {
+    "nro": 108,
+    "tunniste": "Trait_Vargus",
+    "nimi": "Intercept"
+  },
+  {
+    "nro": 110,
+    "tunniste": "Trait_Nusala",
+    "nimi": "Explosive Ammunition"
+  },
+  {
+    "nro": 114,
+    "tunniste": "Trait_MaryDoubleXP",
+    "nimi": "Have a Treat"
+  },
+  {
+    "nro": 117,
+    "tunniste": "Trait_MedicResurrectLosses",
+    "nimi": "Field Surgery"
+  },
+  {
+    "nro": 118,
+    "tunniste": "Trait_MadScientist",
+    "nimi": "Bombastic Personality"
+  },
+  {
+    "nro": 150,
+    "tunniste": "Trait_Boris",
+    "nimi": "Astute Strategist"
+  },
+  {
+    "nro": 270,
+    "tunniste": "Trait_Anniversary2019General",
+    "nimi": "Magnanimous"
+  },
+  {
+    "nro": 271,
+    "tunniste": "Trait_Halloween2019General",
+    "nimi": "Rogue Wardens"
+  },
+  {
+    "nro": 272,
+    "tunniste": "Trait_Xmas2019General",
+    "nimi": "Supple"
+  },
+  {
+    "nro": 273,
+    "tunniste": "Trait_AssassinGeneral",
+    "nimi": "Ambush"
+  },
+  {
+    "nro": 276,
+    "tunniste": "Trait_TrembleBeard",
+    "nimi": "Sageness"
+  },
+  {
+    "nro": 151,
+    "tunniste": "Trait_Sylvana",
+    "nimi": "Astute Strategist"
+  },
+  {
+    "nro": 278,
+    "tunniste": "Trait_GhostGeneral",
+    "nimi": "Ghostly"
+  },
+  {
+    "nro": 281,
+    "tunniste": "Trait_FrostyGeneral",
+    "nimi": "Cold as Ice"
+  },
+  {
+    "nro": 284,
+    "tunniste": "Trait_LonerGeneral",
+    "nimi": "Lone Wolf"
+  },
+  {
+    "nro": 299,
+    "tunniste": "Trait_Loudmouth",
+    "nimi": "Loudmouth"
+  },
+  {
+    "nro": 305,
+    "tunniste": "Trait_Nutcracker",
+    "nimi": "Tough as wood"
+  },
+  {
+    "nro": 307,
+    "tunniste": "Trait_Miraculous",
+    "nimi": "The Miracle of Rebirth"
+  },
+  {
+    "nro": 309,
+    "tunniste": "Trait_Resolute",
+    "nimi": "Shield Formation"
+  },
+  {
+    "nro": 315,
+    "tunniste": "Trait_Juan",
+    "nimi": "Astute Strategist"
+  }
+]

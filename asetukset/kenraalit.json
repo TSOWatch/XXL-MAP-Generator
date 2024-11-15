@@ -1,0 +1,23 @@
+[
+  {
+    "tunniste": "MScience-1103093013",
+    "nimi": "Verrückter Wissenschaftler",
+    "lkm": 1,
+    "lyhenne": "",
+    "pikanäppäin": "",
+    "onHyökkääjä": true,
+    "yksikkötunniste": "MadScientistGeneral",
+    "pistekerroin": 1.0,
+    "värimerkki": "Silver",
+    "taidot": [
+      "Skill_IncreaseAccuracy1",
+      "Skill_IncreaseHeavyAD3",
+      "Skill_IncreaseCapacity2",
+      "Skill_IncreaseADEveryRound3",
+      "Skill_DescreaseBossHP3",
+      "Skill_IncreaseTravelSpeed3",
+      "Skill_ResurrectLosses3",
+      "Skill_IncreasePeacefulMovementSpeed3"
+    ]
+  }
+]

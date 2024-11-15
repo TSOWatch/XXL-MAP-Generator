@@ -1,0 +1,47 @@
+Übersetzung der Finnischen Bezeichnungen  für die jeweilige Datei:
+
+
+
+kenraalit.json = generäle.json
+
+järjestysnumero = Sequenznummer
+nimi = Name
+lyhenne = Abkürzung
+kapasiteetti = Kapazität
+yksikkötunniste = Einheitenkennung
+
+
+
+taidot.json = fähigkeiten.json
+
+nro = Nummer
+tunniste = Identifikator
+nimi = Name 
+
+
+
+yksikot.json = einheiten.json
+
+nro = Nummer
+ryhmitys = Anordnung
+tunniste = Identifikator
+nimi = Name
+luokitus = Einstufung
+elämäpisteet = Lebenspunkte
+osumatarkkuus = Treffsicherheit in %
+osumavahinkoMin = Minimaler Schaden
+osumavahinkoMax = Maximaler Schaden
+hyökkäysjärjestys = Angriffsreihenfolge
+taidot = Fähigkeiten
+
+kaanos.json = übersetzungs.json   (Angabe wo die Sprachdatei (DE, EN usw) ist)
+
+ryhmat.json = element.json  (Grundkonfiguration der Einheiten)
+
+kuvat = Bilder
+kielet = Sprachen
+kartat = Karten
+ohjelmakielet = Programmsprache
+
+
+

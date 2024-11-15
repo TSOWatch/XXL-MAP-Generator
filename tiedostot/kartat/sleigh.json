@@ -1,0 +1,274 @@
+{
+  "tiedostonimi": "sleigh",
+  "tunniste": "ChristmasAdventure2013",
+  "nimi": "The Stolen Sleigh",
+  "tyyppi": "Mission",
+  "teema": "Christmas",
+  "xp": 15290,
+  "pelaajia": 1,
+  "yksiköt": [
+    "BanditBoss3",
+    "BanditCavalry",
+    "BanditSoldier",
+    "BanditLongbowman",
+    "PirateCavalry",
+    "PirateMilitia",
+    "PirateBoss1",
+    "PirateLongbowman",
+    "PirateCaptain",
+    "KingdomMilitia",
+    "KingdomCavalry",
+    "KingdomSoldier",
+    "KingdomEliteSoldier",
+    "KingdomLongbowman",
+    "KingdomCrossbowman",
+    "KingdomCannoneer",
+    "CultRecruit",
+    "CultBoss1",
+    "CultCavalry",
+    "CultBowman",
+    "CultLongbowman",
+    "CultCrossbowman",
+    "CultCanoneer",
+    "ChristmasBoss1"
+  ],
+  "leirit": [
+    {
+      "tunniste": 10994,
+      "sektori": 1,
+      "oletusnimi": "1.3",
+      "apunimi": "",
+      "tyyppi": 1,
+      "sijainti": "368, 406",
+      "joukot": {
+        "BanditCavalry": 30,
+        "BanditLongbowman": 40
+      }
+    },
+    {
+      "tunniste": 11014,
+      "sektori": 3,
+      "oletusnimi": "3.4",
+      "apunimi": "",
+      "tyyppi": 1,
+      "sijainti": "307, 185",
+      "joukot": {
+        "CultRecruit": 80,
+        "CultCrossbowman": 40
+      }
+    },
+    {
+      "tunniste": 11029,
+      "sektori": 1,
+      "oletusnimi": "1.5",
+      "apunimi": "",
+      "tyyppi": 1,
+      "sijainti": "515, 422",
+      "joukot": {
+        "CultRecruit": 90,
+        "CultCanoneer": 30
+      }
+    },
+    {
+      "tunniste": 11030,
+      "sektori": 2,
+      "oletusnimi": "2.7",
+      "apunimi": "",
+      "tyyppi": 1,
+      "sijainti": "173, 294",
+      "joukot": {
+        "KingdomMilitia": 70,
+        "KingdomCavalry": 50
+      }
+    },
+    {
+      "tunniste": 11829,
+      "sektori": 1,
+      "oletusnimi": "1.4",
+      "apunimi": "",
+      "tyyppi": 1,
+      "sijainti": "406, 342",
+      "joukot": {
+        "KingdomCavalry": 90,
+        "KingdomEliteSoldier": 90,
+        "KingdomCrossbowman": 70,
+        "KingdomCannoneer": 50
+      }
+    },
+    {
+      "tunniste": 11900,
+      "sektori": 3,
+      "oletusnimi": "3.1",
+      "apunimi": "",
+      "tyyppi": 1,
+      "sijainti": "403, 262",
+      "joukot": {
+        "KingdomCavalry": 40,
+        "KingdomEliteSoldier": 50
+      }
+    },
+    {
+      "tunniste": 12481,
+      "sektori": 2,
+      "oletusnimi": "2.2",
+      "apunimi": "",
+      "tyyppi": 1,
+      "sijainti": "227, 410",
+      "joukot": {
+        "PirateMilitia": 120,
+        "PirateLongbowman": 80
+      }
+    },
+    {
+      "tunniste": 12815,
+      "sektori": 3,
+      "oletusnimi": "3.3",
+      "apunimi": "",
+      "tyyppi": 1,
+      "sijainti": "249, 214",
+      "joukot": {
+        "CultBowman": 40,
+        "CultCavalry": 20
+      }
+    },
+    {
+      "tunniste": 13058,
+      "sektori": 2,
+      "oletusnimi": "2.5",
+      "apunimi": "",
+      "tyyppi": 1,
+      "sijainti": "382, 325",
+      "joukot": {
+        "CultBowman": 110,
+        "CultCrossbowman": 80,
+        "CultCavalry": 80,
+        "CultCanoneer": 30
+      }
+    },
+    {
+      "tunniste": 13234,
+      "sektori": 2,
+      "oletusnimi": "2.6",
+      "apunimi": "",
+      "tyyppi": 1,
+      "sijainti": "182, 345",
+      "joukot": {
+        "KingdomEliteSoldier": 60,
+        "KingdomCrossbowman": 40
+      }
+    },
+    {
+      "tunniste": 13250,
+      "sektori": 1,
+      "oletusnimi": "1.6",
+      "apunimi": "",
+      "tyyppi": 2,
+      "sijainti": "546, 413",
+      "joukot": {
+        "CultRecruit": 50,
+        "CultLongbowman": 35,
+        "CultBoss1": 1
+      }
+    },
+    {
+      "tunniste": 13894,
+      "sektori": 3,
+      "oletusnimi": "3.2",
+      "apunimi": "",
+      "tyyppi": 1,
+      "sijainti": "323, 250",
+      "joukot": {
+        "KingdomSoldier": 70,
+        "KingdomCrossbowman": 40
+      }
+    },
+    {
+      "tunniste": 14973,
+      "sektori": 1,
+      "oletusnimi": "1.1",
+      "apunimi": "",
+      "tyyppi": 1,
+      "sijainti": "353, 478",
+      "joukot": {
+        "BanditSoldier": 70,
+        "BanditLongbowman": 50
+      }
+    },
+    {
+      "tunniste": 16623,
+      "sektori": 3,
+      "oletusnimi": "3.5",
+      "apunimi": "",
+      "tyyppi": 2,
+      "sijainti": "324, 148",
+      "joukot": {
+        "KingdomCavalry": 80,
+        "KingdomEliteSoldier": 40,
+        "KingdomCrossbowman": 30,
+        "ChristmasBoss1": 1
+      }
+    },
+    {
+      "tunniste": 17175,
+      "sektori": 2,
+      "oletusnimi": "2.3",
+      "apunimi": "",
+      "tyyppi": 1,
+      "sijainti": "146, 423",
+      "joukot": {
+        "PirateCavalry": 120,
+        "PirateCaptain": 25
+      }
+    },
+    {
+      "tunniste": 17440,
+      "sektori": 2,
+      "oletusnimi": "2.1",
+      "apunimi": "",
+      "tyyppi": 1,
+      "sijainti": "317, 374",
+      "joukot": {
+        "KingdomSoldier": 40,
+        "KingdomLongbowman": 20
+      }
+    },
+    {
+      "tunniste": 18133,
+      "sektori": 2,
+      "oletusnimi": "2.8",
+      "apunimi": "",
+      "tyyppi": 2,
+      "sijainti": "152, 280",
+      "joukot": {
+        "BanditSoldier": 40,
+        "BanditLongbowman": 40,
+        "BanditBoss3": 1
+      }
+    },
+    {
+      "tunniste": 18761,
+      "sektori": 1,
+      "oletusnimi": "1.2",
+      "apunimi": "",
+      "tyyppi": 1,
+      "sijainti": "405, 464",
+      "joukot": {
+        "CultCrossbowman": 50,
+        "CultCavalry": 40
+      }
+    },
+    {
+      "tunniste": 18892,
+      "sektori": 2,
+      "oletusnimi": "2.4",
+      "apunimi": "",
+      "tyyppi": 2,
+      "sijainti": "80, 427",
+      "joukot": {
+        "PirateLongbowman": 30,
+        "PirateCaptain": 30,
+        "PirateBoss1": 1
+      }
+    }
+  ]
+}

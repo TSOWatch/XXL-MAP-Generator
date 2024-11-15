@@ -1,0 +1,2898 @@
+{
+  "tunniste": "tok",
+  "nimi": "Standard",
+  "kuvake": "",
+  "lisätiedot": "",
+  "xpEventKerroin": 1.0,
+  "vaaditutKenraalit": {},
+  "vaaditutJoukot": {},
+  "leirimerkinnät": {
+    "10044": {
+      "tunniste": "1A",
+      "tyyppi": 1,
+      "lisätiedot": "",
+      "sektori": 1,
+      "ankkuri": 1,
+      "muoto": 0,
+      "hyökkäysaallot": [],
+      "päähyökkäys": {
+        "ui_id": -1,
+        "kenraali": "MScience-1103093013",
+        "aikaleima": "2024-11-03T09:31:00.5820209+01:00",
+        "joukot": {
+          "MountedSwordsman": 85,
+          "Knight": 125
+        },
+        "menetykset": {
+          "MountedSwordsman": {
+            "min": 83,
+            "max": 85
+          },
+          "Knight": {
+            "min": 46,
+            "max": 64
+          }
+        }
+      }
+    },
+    "10251": {
+      "tunniste": "1B",
+      "tyyppi": 1,
+      "lisätiedot": "",
+      "sektori": 1,
+      "ankkuri": 1,
+      "muoto": 0,
+      "hyökkäysaallot": [],
+      "päähyökkäys": {
+        "ui_id": -1,
+        "kenraali": "MScience-1103093013",
+        "aikaleima": "2024-11-03T09:31:01.3917479+01:00",
+        "joukot": {
+          "Swordsman": 80,
+          "MountedMarksman": 130
+        },
+        "menetykset": {
+          "Swordsman": {
+            "min": 52,
+            "max": 56
+          }
+        }
+      }
+    },
+    "10345": {
+      "tunniste": "5A",
+      "tyyppi": 1,
+      "lisätiedot": "",
+      "sektori": 5,
+      "ankkuri": 1,
+      "muoto": 0,
+      "hyökkäysaallot": []
+    },
+    "10487": {
+      "tunniste": "3A",
+      "tyyppi": 1,
+      "lisätiedot": "",
+      "sektori": 3,
+      "ankkuri": 1,
+      "muoto": 0,
+      "hyökkäysaallot": [],
+      "päähyökkäys": {
+        "ui_id": -1,
+        "kenraali": "MScience-1103093013",
+        "aikaleima": "2024-11-03T09:31:01.7026576+01:00",
+        "joukot": {
+          "Swordsman": 20,
+          "MountedMarksman": 190
+        },
+        "menetykset": {
+          "Swordsman": {
+            "min": 3,
+            "max": 6
+          }
+        }
+      }
+    },
+    "10626": {
+      "tunniste": "1C",
+      "tyyppi": 1,
+      "lisätiedot": "",
+      "sektori": 1,
+      "ankkuri": 1,
+      "muoto": 0,
+      "hyökkäysaallot": [],
+      "päähyökkäys": {
+        "ui_id": -1,
+        "kenraali": "MScience-1103093013",
+        "aikaleima": "2024-11-03T09:31:01.7538432+01:00",
+        "joukot": {
+          "MountedMarksman": 210
+        },
+        "menetykset": {}
+      }
+    },
+    "10732": {
+      "tunniste": "1D",
+      "tyyppi": 1,
+      "lisätiedot": "",
+      "sektori": 1,
+      "ankkuri": 1,
+      "muoto": 0,
+      "hyökkäysaallot": [],
+      "päähyökkäys": {
+        "ui_id": -1,
+        "kenraali": "MScience-1103093013",
+        "aikaleima": "2024-11-03T09:31:02.1274716+01:00",
+        "joukot": {
+          "Swordsman": 110,
+          "Knight": 10,
+          "Besieger": 90
+        },
+        "menetykset": {
+          "Swordsman": {
+            "min": 104,
+            "max": 110
+          }
+        }
+      }
+    },
+    "11093": {
+      "tunniste": "4A",
+      "tyyppi": 1,
+      "lisätiedot": "",
+      "sektori": 4,
+      "ankkuri": 1,
+      "muoto": 0,
+      "hyökkäysaallot": []
+    },
+    "11222": {
+      "tunniste": "2A",
+      "tyyppi": 1,
+      "lisätiedot": "",
+      "sektori": 2,
+      "ankkuri": 1,
+      "muoto": 0,
+      "hyökkäysaallot": [],
+      "päähyökkäys": {
+        "ui_id": -1,
+        "kenraali": "MScience-1103093013",
+        "aikaleima": "2024-11-03T09:31:02.3693215+01:00",
+        "joukot": {
+          "MountedSwordsman": 60,
+          "Knight": 65,
+          "Besieger": 85
+        },
+        "menetykset": {
+          "MountedSwordsman": {
+            "min": 49,
+            "max": 53
+          },
+          "Knight": {
+            "min": 31,
+            "max": 62
+          }
+        }
+      }
+    },
+    "11256": {
+      "tunniste": "2B",
+      "tyyppi": 1,
+      "lisätiedot": "",
+      "sektori": 2,
+      "ankkuri": 1,
+      "muoto": 0,
+      "hyökkäysaallot": []
+    },
+    "11357": {
+      "tunniste": "4B",
+      "tyyppi": 1,
+      "lisätiedot": "",
+      "sektori": 4,
+      "ankkuri": 1,
+      "muoto": 0,
+      "hyökkäysaallot": [],
+      "päähyökkäys": {
+        "ui_id": -1,
+        "kenraali": "MScience-1103093013",
+        "aikaleima": "2024-11-03T09:31:02.6902776+01:00",
+        "joukot": {
+          "Swordsman": 145,
+          "Knight": 5,
+          "Besieger": 60
+        },
+        "menetykset": {
+          "Swordsman": {
+            "min": 131,
+            "max": 138
+          }
+        }
+      }
+    },
+    "11403": {
+      "tunniste": "1E",
+      "tyyppi": 1,
+      "lisätiedot": "",
+      "sektori": 1,
+      "ankkuri": 1,
+      "muoto": 0,
+      "hyökkäysaallot": [],
+      "päähyökkäys": {
+        "ui_id": -1,
+        "kenraali": "MScience-1103093013",
+        "aikaleima": "2024-11-03T09:31:02.7315649+01:00",
+        "joukot": {
+          "Swordsman": 210
+        },
+        "menetykset": {
+          "Swordsman": {
+            "min": 93,
+            "max": 101
+          }
+        }
+      }
+    },
+    "11584": {
+      "tunniste": "5B",
+      "tyyppi": 1,
+      "lisätiedot": "",
+      "sektori": 5,
+      "ankkuri": 1,
+      "muoto": 0,
+      "hyökkäysaallot": []
+    },
+    "11641": {
+      "tunniste": "3B",
+      "tyyppi": 1,
+      "lisätiedot": "",
+      "sektori": 3,
+      "ankkuri": 1,
+      "muoto": 0,
+      "hyökkäysaallot": []
+    },
+    "11680": {
+      "tunniste": "5C",
+      "tyyppi": 1,
+      "lisätiedot": "",
+      "sektori": 5,
+      "ankkuri": 1,
+      "muoto": 0,
+      "hyökkäysaallot": []
+    },
+    "11688": {
+      "tunniste": "3C",
+      "tyyppi": 1,
+      "lisätiedot": "",
+      "sektori": 3,
+      "ankkuri": 1,
+      "muoto": 0,
+      "hyökkäysaallot": []
+    },
+    "12113": {
+      "tunniste": "1F",
+      "tyyppi": 1,
+      "lisätiedot": "",
+      "sektori": 1,
+      "ankkuri": 1,
+      "muoto": 0,
+      "hyökkäysaallot": [],
+      "päähyökkäys": {
+        "ui_id": -1,
+        "kenraali": "MScience-1103093013",
+        "aikaleima": "2024-11-03T09:31:03.0529584+01:00",
+        "joukot": {
+          "Knight": 210
+        },
+        "menetykset": {
+          "Knight": {
+            "min": 93,
+            "max": 99
+          }
+        }
+      }
+    },
+    "12379": {
+      "tunniste": "1G",
+      "tyyppi": 1,
+      "lisätiedot": "",
+      "sektori": 1,
+      "ankkuri": 1,
+      "muoto": 0,
+      "hyökkäysaallot": []
+    },
+    "12387": {
+      "tunniste": "3D",
+      "tyyppi": 1,
+      "lisätiedot": "",
+      "sektori": 3,
+      "ankkuri": 1,
+      "muoto": 0,
+      "hyökkäysaallot": []
+    },
+    "12551": {
+      "tunniste": "2C",
+      "tyyppi": 1,
+      "lisätiedot": "",
+      "sektori": 2,
+      "ankkuri": 1,
+      "muoto": 0,
+      "hyökkäysaallot": [],
+      "päähyökkäys": {
+        "ui_id": -1,
+        "kenraali": "MScience-1103093013",
+        "aikaleima": "2024-11-03T09:31:03.1436973+01:00",
+        "joukot": {
+          "MountedSwordsman": 55,
+          "MountedMarksman": 155
+        },
+        "menetykset": {
+          "MountedSwordsman": {
+            "min": 48,
+            "max": 52
+          }
+        }
+      }
+    },
+    "12788": {
+      "tunniste": "3E",
+      "tyyppi": 1,
+      "lisätiedot": "",
+      "sektori": 3,
+      "ankkuri": 1,
+      "muoto": 0,
+      "hyökkäysaallot": [],
+      "päähyökkäys": {
+        "ui_id": -1,
+        "kenraali": "MScience-1103093013",
+        "aikaleima": "2024-11-03T09:31:03.1622246+01:00",
+        "joukot": {
+          "MountedMarksman": 210
+        },
+        "menetykset": {}
+      }
+    },
+    "12807": {
+      "tunniste": "1H",
+      "tyyppi": 1,
+      "lisätiedot": "",
+      "sektori": 1,
+      "ankkuri": 1,
+      "muoto": 0,
+      "hyökkäysaallot": []
+    },
+    "13160": {
+      "tunniste": "2D",
+      "tyyppi": 1,
+      "lisätiedot": "",
+      "sektori": 2,
+      "ankkuri": 1,
+      "muoto": 0,
+      "hyökkäysaallot": [],
+      "päähyökkäys": {
+        "ui_id": -1,
+        "kenraali": "MScience-1103093013",
+        "aikaleima": "2024-11-03T09:31:03.2121321+01:00",
+        "joukot": {
+          "Swordsman": 60,
+          "ArmoredMarksman": 120,
+          "MountedMarksman": 30
+        },
+        "menetykset": {
+          "Swordsman": {
+            "min": 55,
+            "max": 58
+          }
+        }
+      }
+    },
+    "13226": {
+      "tunniste": "5D",
+      "tyyppi": 1,
+      "lisätiedot": "",
+      "sektori": 5,
+      "ankkuri": 1,
+      "muoto": 0,
+      "hyökkäysaallot": []
+    },
+    "13270": {
+      "tunniste": "1I",
+      "tyyppi": 1,
+      "lisätiedot": "",
+      "sektori": 1,
+      "ankkuri": 1,
+      "muoto": 0,
+      "hyökkäysaallot": [],
+      "päähyökkäys": {
+        "ui_id": -1,
+        "kenraali": "MScience-1103093013",
+        "aikaleima": "2024-11-03T09:31:03.7285371+01:00",
+        "joukot": {
+          "Swordsman": 95,
+          "Besieger": 55,
+          "MountedMarksman": 60
+        },
+        "menetykset": {
+          "Swordsman": {
+            "min": 81,
+            "max": 89
+          }
+        }
+      }
+    },
+    "13424": {
+      "tunniste": "3F",
+      "tyyppi": 1,
+      "lisätiedot": "",
+      "sektori": 3,
+      "ankkuri": 1,
+      "muoto": 0,
+      "hyökkäysaallot": []
+    },
+    "13605": {
+      "tunniste": "1J",
+      "tyyppi": 1,
+      "lisätiedot": "",
+      "sektori": 1,
+      "ankkuri": 1,
+      "muoto": 0,
+      "hyökkäysaallot": [],
+      "päähyökkäys": {
+        "ui_id": -1,
+        "kenraali": "MScience-1103093013",
+        "aikaleima": "2024-11-03T09:31:04.0194508+01:00",
+        "joukot": {
+          "MountedSwordsman": 80,
+          "ArmoredMarksman": 10,
+          "MountedMarksman": 120
+        },
+        "menetykset": {
+          "MountedSwordsman": {
+            "min": 72,
+            "max": 80
+          }
+        }
+      }
+    },
+    "13651": {
+      "tunniste": "1K",
+      "tyyppi": 1,
+      "lisätiedot": "",
+      "sektori": 1,
+      "ankkuri": 1,
+      "muoto": 0,
+      "hyökkäysaallot": [],
+      "päähyökkäys": {
+        "ui_id": -1,
+        "kenraali": "MScience-1103093013",
+        "aikaleima": "2024-11-03T09:31:04.637371+01:00",
+        "joukot": {
+          "Swordsman": 100,
+          "Besieger": 5,
+          "MountedMarksman": 105
+        },
+        "menetykset": {
+          "Swordsman": {
+            "min": 61,
+            "max": 69
+          }
+        }
+      }
+    },
+    "13668": {
+      "tunniste": "3G",
+      "tyyppi": 1,
+      "lisätiedot": "",
+      "sektori": 3,
+      "ankkuri": 1,
+      "muoto": 0,
+      "hyökkäysaallot": [],
+      "päähyökkäys": {
+        "ui_id": -1,
+        "kenraali": "MScience-1103093013",
+        "aikaleima": "2024-11-03T09:31:04.7835492+01:00",
+        "joukot": {
+          "MountedSwordsman": 50,
+          "MountedMarksman": 160
+        },
+        "menetykset": {
+          "MountedSwordsman": {
+            "min": 30,
+            "max": 34
+          }
+        }
+      }
+    },
+    "14047": {
+      "tunniste": "1L",
+      "tyyppi": 1,
+      "lisätiedot": "",
+      "sektori": 1,
+      "ankkuri": 1,
+      "muoto": 0,
+      "hyökkäysaallot": [],
+      "päähyökkäys": {
+        "ui_id": -1,
+        "kenraali": "MScience-1103093013",
+        "aikaleima": "2024-11-03T09:31:04.9250858+01:00",
+        "joukot": {
+          "MountedSwordsman": 40,
+          "MountedMarksman": 170
+        },
+        "menetykset": {
+          "MountedSwordsman": {
+            "min": 34,
+            "max": 37
+          }
+        }
+      }
+    },
+    "14235": {
+      "tunniste": "2E",
+      "tyyppi": 1,
+      "lisätiedot": "",
+      "sektori": 2,
+      "ankkuri": 1,
+      "muoto": 0,
+      "hyökkäysaallot": [],
+      "päähyökkäys": {
+        "ui_id": -1,
+        "kenraali": "MScience-1103093013",
+        "aikaleima": "2024-11-03T09:31:05.0815222+01:00",
+        "joukot": {
+          "MountedSwordsman": 40,
+          "Knight": 110,
+          "Besieger": 60
+        },
+        "menetykset": {
+          "MountedSwordsman": {
+            "min": 33,
+            "max": 36
+          },
+          "Knight": {
+            "min": 83,
+            "max": 93
+          }
+        }
+      }
+    },
+    "14968": {
+      "tunniste": "3H",
+      "tyyppi": 1,
+      "lisätiedot": "",
+      "sektori": 3,
+      "ankkuri": 1,
+      "muoto": 0,
+      "hyökkäysaallot": [],
+      "päähyökkäys": {
+        "ui_id": -1,
+        "kenraali": "MScience-1103093013",
+        "aikaleima": "2024-11-03T09:31:05.1055478+01:00",
+        "joukot": {
+          "MountedSwordsman": 210
+        },
+        "menetykset": {
+          "MountedSwordsman": {
+            "min": 82,
+            "max": 91
+          }
+        }
+      }
+    },
+    "15209": {
+      "tunniste": "3I",
+      "tyyppi": 1,
+      "lisätiedot": "",
+      "sektori": 3,
+      "ankkuri": 1,
+      "muoto": 0,
+      "hyökkäysaallot": []
+    },
+    "15328": {
+      "tunniste": "5E",
+      "tyyppi": 1,
+      "lisätiedot": "",
+      "sektori": 5,
+      "ankkuri": 1,
+      "muoto": 0,
+      "hyökkäysaallot": [],
+      "päähyökkäys": {
+        "ui_id": -1,
+        "kenraali": "MScience-1103093013",
+        "aikaleima": "2024-11-03T09:31:05.5816992+01:00",
+        "joukot": {
+          "Swordsman": 85,
+          "Knight": 5,
+          "Besieger": 120
+        },
+        "menetykset": {
+          "Swordsman": {
+            "min": 78,
+            "max": 82
+          }
+        }
+      }
+    },
+    "15643": {
+      "tunniste": "1M",
+      "tyyppi": 1,
+      "lisätiedot": "",
+      "sektori": 1,
+      "ankkuri": 1,
+      "muoto": 0,
+      "hyökkäysaallot": []
+    },
+    "15645": {
+      "tunniste": "2F",
+      "tyyppi": 1,
+      "lisätiedot": "",
+      "sektori": 2,
+      "ankkuri": 1,
+      "muoto": 0,
+      "hyökkäysaallot": [],
+      "päähyökkäys": {
+        "ui_id": -1,
+        "kenraali": "MScience-1103093013",
+        "aikaleima": "2024-11-03T09:31:05.7533297+01:00",
+        "joukot": {
+          "MountedSwordsman": 35,
+          "Knight": 155,
+          "Besieger": 20
+        },
+        "menetykset": {
+          "MountedSwordsman": {
+            "min": 29,
+            "max": 31
+          },
+          "Knight": {
+            "min": 83,
+            "max": 93
+          }
+        }
+      }
+    },
+    "15702": {
+      "tunniste": "1N",
+      "tyyppi": 1,
+      "lisätiedot": "",
+      "sektori": 1,
+      "ankkuri": 1,
+      "muoto": 0,
+      "hyökkäysaallot": []
+    },
+    "16045": {
+      "tunniste": "4C",
+      "tyyppi": 1,
+      "lisätiedot": "",
+      "sektori": 4,
+      "ankkuri": 1,
+      "muoto": 0,
+      "hyökkäysaallot": [],
+      "päähyökkäys": {
+        "ui_id": -1,
+        "kenraali": "MScience-1103093013",
+        "aikaleima": "2024-11-03T09:31:06.1253126+01:00",
+        "joukot": {
+          "Swordsman": 75,
+          "Besieger": 10,
+          "MountedMarksman": 125
+        },
+        "menetykset": {
+          "Swordsman": {
+            "min": 62,
+            "max": 68
+          }
+        }
+      }
+    },
+    "16065": {
+      "tunniste": "1O",
+      "tyyppi": 1,
+      "lisätiedot": "",
+      "sektori": 1,
+      "ankkuri": 1,
+      "muoto": 0,
+      "hyökkäysaallot": [],
+      "päähyökkäys": {
+        "ui_id": -1,
+        "kenraali": "MScience-1103093013",
+        "aikaleima": "2024-11-03T09:31:06.1517932+01:00",
+        "joukot": {
+          "Swordsman": 210
+        },
+        "menetykset": {
+          "Swordsman": {
+            "min": 168,
+            "max": 191
+          }
+        }
+      }
+    },
+    "16120": {
+      "tunniste": "3J",
+      "tyyppi": 1,
+      "lisätiedot": "",
+      "sektori": 3,
+      "ankkuri": 1,
+      "muoto": 0,
+      "hyökkäysaallot": [],
+      "päähyökkäys": {
+        "ui_id": -1,
+        "kenraali": "MScience-1103093013",
+        "aikaleima": "2024-11-03T09:31:06.8230672+01:00",
+        "joukot": {
+          "Swordsman": 75,
+          "MountedMarksman": 135
+        },
+        "menetykset": {
+          "Swordsman": {
+            "min": 50,
+            "max": 56
+          }
+        }
+      }
+    },
+    "16403": {
+      "tunniste": "3K",
+      "tyyppi": 1,
+      "lisätiedot": "",
+      "sektori": 3,
+      "ankkuri": 1,
+      "muoto": 0,
+      "hyökkäysaallot": [],
+      "päähyökkäys": {
+        "ui_id": -1,
+        "kenraali": "MScience-1103093013",
+        "aikaleima": "2024-11-03T09:31:06.8461299+01:00",
+        "joukot": {
+          "MountedMarksman": 210
+        },
+        "menetykset": {}
+      }
+    },
+    "16585": {
+      "tunniste": "1P",
+      "tyyppi": 1,
+      "lisätiedot": "",
+      "sektori": 1,
+      "ankkuri": 1,
+      "muoto": 0,
+      "hyökkäysaallot": [],
+      "päähyökkäys": {
+        "ui_id": -1,
+        "kenraali": "MScience-1103093013",
+        "aikaleima": "2024-11-03T09:31:06.8714123+01:00",
+        "joukot": {
+          "MountedSwordsman": 120,
+          "Knight": 90
+        },
+        "menetykset": {
+          "MountedSwordsman": {
+            "min": 83,
+            "max": 93
+          },
+          "Knight": {
+            "min": 90,
+            "max": 90
+          }
+        }
+      }
+    },
+    "16620": {
+      "tunniste": "5F",
+      "tyyppi": 1,
+      "lisätiedot": "",
+      "sektori": 5,
+      "ankkuri": 1,
+      "muoto": 0,
+      "hyökkäysaallot": [],
+      "päähyökkäys": {
+        "ui_id": -1,
+        "kenraali": "MScience-1103093013",
+        "aikaleima": "2024-11-03T09:31:07.2071394+01:00",
+        "joukot": {
+          "Swordsman": 95,
+          "MountedMarksman": 115
+        },
+        "menetykset": {
+          "Swordsman": {
+            "min": 69,
+            "max": 75
+          }
+        }
+      }
+    },
+    "16743": {
+      "tunniste": "1Q",
+      "tyyppi": 1,
+      "lisätiedot": "",
+      "sektori": 1,
+      "ankkuri": 1,
+      "muoto": 0,
+      "hyökkäysaallot": [],
+      "päähyökkäys": {
+        "ui_id": -1,
+        "kenraali": "MScience-1103093013",
+        "aikaleima": "2024-11-03T09:31:07.2385064+01:00",
+        "joukot": {
+          "MountedMarksman": 210
+        },
+        "menetykset": {}
+      }
+    },
+    "16892": {
+      "tunniste": "2G",
+      "tyyppi": 1,
+      "lisätiedot": "",
+      "sektori": 2,
+      "ankkuri": 1,
+      "muoto": 0,
+      "hyökkäysaallot": [],
+      "päähyökkäys": {
+        "ui_id": -1,
+        "kenraali": "MScience-1103093013",
+        "aikaleima": "2024-11-03T09:31:07.274569+01:00",
+        "joukot": {
+          "MountedSwordsman": 40,
+          "MountedMarksman": 170
+        },
+        "menetykset": {
+          "MountedSwordsman": {
+            "min": 33,
+            "max": 39
+          }
+        }
+      }
+    },
+    "17006": {
+      "tunniste": "2H",
+      "tyyppi": 1,
+      "lisätiedot": "",
+      "sektori": 2,
+      "ankkuri": 1,
+      "muoto": 0,
+      "hyökkäysaallot": [],
+      "päähyökkäys": {
+        "ui_id": -1,
+        "kenraali": "MScience-1103093013",
+        "aikaleima": "2024-11-03T09:31:07.6265879+01:00",
+        "joukot": {
+          "Swordsman": 65,
+          "MountedMarksman": 145
+        },
+        "menetykset": {
+          "Swordsman": {
+            "min": 46,
+            "max": 50
+          }
+        }
+      }
+    },
+    "17028": {
+      "tunniste": "2I",
+      "tyyppi": 1,
+      "lisätiedot": "",
+      "sektori": 2,
+      "ankkuri": 1,
+      "muoto": 0,
+      "hyökkäysaallot": [],
+      "päähyökkäys": {
+        "ui_id": -1,
+        "kenraali": "MScience-1103093013",
+        "aikaleima": "2024-11-03T09:31:07.9561311+01:00",
+        "joukot": {
+          "Swordsman": 90,
+          "Besieger": 95,
+          "MountedMarksman": 25
+        },
+        "menetykset": {
+          "Swordsman": {
+            "min": 82,
+            "max": 88
+          }
+        }
+      }
+    },
+    "17194": {
+      "tunniste": "1R",
+      "tyyppi": 1,
+      "lisätiedot": "",
+      "sektori": 1,
+      "ankkuri": 1,
+      "muoto": 0,
+      "hyökkäysaallot": []
+    },
+    "17254": {
+      "tunniste": "4D",
+      "tyyppi": 1,
+      "lisätiedot": "",
+      "sektori": 4,
+      "ankkuri": 1,
+      "muoto": 0,
+      "hyökkäysaallot": [],
+      "päähyökkäys": {
+        "ui_id": -1,
+        "kenraali": "MScience-1103093013",
+        "aikaleima": "2024-11-03T09:31:08.0264969+01:00",
+        "joukot": {
+          "Swordsman": 115,
+          "Besieger": 95
+        },
+        "menetykset": {
+          "Swordsman": {
+            "min": 110,
+            "max": 114
+          }
+        }
+      }
+    },
+    "17479": {
+      "tunniste": "1S",
+      "tyyppi": 1,
+      "lisätiedot": "",
+      "sektori": 1,
+      "ankkuri": 1,
+      "muoto": 0,
+      "hyökkäysaallot": []
+    },
+    "17610": {
+      "tunniste": "5G",
+      "tyyppi": 1,
+      "lisätiedot": "",
+      "sektori": 5,
+      "ankkuri": 1,
+      "muoto": 0,
+      "hyökkäysaallot": [],
+      "päähyökkäys": {
+        "ui_id": -1,
+        "kenraali": "MScience-1103093013",
+        "aikaleima": "2024-11-03T09:31:08.1276578+01:00",
+        "joukot": {
+          "Swordsman": 70,
+          "Besieger": 140
+        },
+        "menetykset": {
+          "Swordsman": {
+            "min": 65,
+            "max": 67
+          }
+        }
+      }
+    },
+    "17615": {
+      "tunniste": "1T",
+      "tyyppi": 1,
+      "lisätiedot": "",
+      "sektori": 1,
+      "ankkuri": 1,
+      "muoto": 0,
+      "hyökkäysaallot": [],
+      "päähyökkäys": {
+        "ui_id": -1,
+        "kenraali": "MScience-1103093013",
+        "aikaleima": "2024-11-03T09:31:08.1492441+01:00",
+        "joukot": {
+          "Swordsman": 110,
+          "Knight": 100
+        },
+        "menetykset": {
+          "Swordsman": {
+            "min": 0,
+            "max": 1,
+            "nollaprosentti": 90.0
+          },
+          "Knight": {
+            "min": 93,
+            "max": 100
+          }
+        }
+      }
+    },
+    "17858": {
+      "tunniste": "1U",
+      "tyyppi": 1,
+      "lisätiedot": "",
+      "sektori": 1,
+      "ankkuri": 1,
+      "muoto": 0,
+      "hyökkäysaallot": []
+    },
+    "18024": {
+      "tunniste": "1V",
+      "tyyppi": 1,
+      "lisätiedot": "",
+      "sektori": 1,
+      "ankkuri": 1,
+      "muoto": 0,
+      "hyökkäysaallot": []
+    },
+    "18079": {
+      "tunniste": "2J",
+      "tyyppi": 1,
+      "lisätiedot": "",
+      "sektori": 2,
+      "ankkuri": 1,
+      "muoto": 0,
+      "hyökkäysaallot": []
+    },
+    "18752": {
+      "tunniste": "3L",
+      "tyyppi": 1,
+      "lisätiedot": "",
+      "sektori": 3,
+      "ankkuri": 1,
+      "muoto": 0,
+      "hyökkäysaallot": [],
+      "päähyökkäys": {
+        "ui_id": -1,
+        "kenraali": "MScience-1103093013",
+        "aikaleima": "2024-11-03T09:31:08.2635039+01:00",
+        "joukot": {
+          "Swordsman": 25,
+          "MountedMarksman": 185
+        },
+        "menetykset": {
+          "Swordsman": {
+            "min": 6,
+            "max": 13
+          }
+        }
+      }
+    },
+    "19251": {
+      "tunniste": "1W",
+      "tyyppi": 1,
+      "lisätiedot": "",
+      "sektori": 1,
+      "ankkuri": 1,
+      "muoto": 0,
+      "hyökkäysaallot": []
+    },
+    "19539": {
+      "tunniste": "1X",
+      "tyyppi": 1,
+      "lisätiedot": "",
+      "sektori": 1,
+      "ankkuri": 1,
+      "muoto": 0,
+      "hyökkäysaallot": []
+    },
+    "19544": {
+      "tunniste": "3M",
+      "tyyppi": 1,
+      "lisätiedot": "",
+      "sektori": 3,
+      "ankkuri": 1,
+      "muoto": 0,
+      "hyökkäysaallot": [],
+      "päähyökkäys": {
+        "ui_id": -1,
+        "kenraali": "MScience-1103093013",
+        "aikaleima": "2024-11-03T09:31:08.8375534+01:00",
+        "joukot": {
+          "MountedSwordsman": 80,
+          "MountedMarksman": 130
+        },
+        "menetykset": {
+          "MountedSwordsman": {
+            "min": 35,
+            "max": 37
+          }
+        }
+      }
+    },
+    "19583": {
+      "tunniste": "2K",
+      "tyyppi": 1,
+      "lisätiedot": "",
+      "sektori": 2,
+      "ankkuri": 1,
+      "muoto": 0,
+      "hyökkäysaallot": []
+    },
+    "19657": {
+      "tunniste": "1Y",
+      "tyyppi": 1,
+      "lisätiedot": "",
+      "sektori": 1,
+      "ankkuri": 1,
+      "muoto": 0,
+      "hyökkäysaallot": []
+    },
+    "19906": {
+      "tunniste": "2L",
+      "tyyppi": 1,
+      "lisätiedot": "",
+      "sektori": 2,
+      "ankkuri": 1,
+      "muoto": 0,
+      "hyökkäysaallot": [],
+      "päähyökkäys": {
+        "ui_id": -1,
+        "kenraali": "MScience-1103093013",
+        "aikaleima": "2024-11-03T09:31:09.0598441+01:00",
+        "joukot": {
+          "MountedSwordsman": 45,
+          "ArmoredMarksman": 55,
+          "MountedMarksman": 110
+        },
+        "menetykset": {
+          "MountedSwordsman": {
+            "min": 37,
+            "max": 43
+          }
+        }
+      }
+    },
+    "19911": {
+      "tunniste": "4E",
+      "tyyppi": 1,
+      "lisätiedot": "",
+      "sektori": 4,
+      "ankkuri": 1,
+      "muoto": 0,
+      "hyökkäysaallot": []
+    },
+    "19993": {
+      "tunniste": "4F",
+      "tyyppi": 1,
+      "lisätiedot": "",
+      "sektori": 4,
+      "ankkuri": 1,
+      "muoto": 0,
+      "hyökkäysaallot": []
+    }
+  },
+  "parhaatHyökkäykset": {
+    "10044": [
+      {
+        "ui_id": -1,
+        "kenraali": "MScience-1103093013",
+        "aikaleima": "2024-11-03T09:31:00.5820209+01:00",
+        "joukot": {
+          "MountedSwordsman": 85,
+          "Knight": 125
+        },
+        "menetykset": {
+          "MountedSwordsman": {
+            "min": 83,
+            "max": 85
+          },
+          "Knight": {
+            "min": 46,
+            "max": 64
+          }
+        }
+      },
+      {
+        "kenraali": "MScience-1103093013",
+        "aikaleima": "2024-11-03T09:31:00.5820209+01:00",
+        "joukot": {
+          "MountedSwordsman": 90,
+          "Knight": 120
+        },
+        "menetykset": {
+          "MountedSwordsman": {
+            "min": 81,
+            "max": 89
+          },
+          "Knight": {
+            "min": 46,
+            "max": 62
+          }
+        }
+      },
+      {
+        "kenraali": "MScience-1103093013",
+        "aikaleima": "2024-11-03T09:31:00.5820209+01:00",
+        "joukot": {
+          "MountedSwordsman": 80,
+          "Knight": 130
+        },
+        "menetykset": {
+          "MountedSwordsman": {
+            "min": 80,
+            "max": 80
+          },
+          "Knight": {
+            "min": 49,
+            "max": 72
+          }
+        }
+      }
+    ],
+    "10251": [
+      {
+        "ui_id": -1,
+        "kenraali": "MScience-1103093013",
+        "aikaleima": "2024-11-03T09:31:01.3917479+01:00",
+        "joukot": {
+          "Swordsman": 80,
+          "MountedMarksman": 130
+        },
+        "menetykset": {
+          "Swordsman": {
+            "min": 52,
+            "max": 56
+          }
+        }
+      },
+      {
+        "ui_id": 1,
+        "kenraali": "MScience-1103093013",
+        "aikaleima": "2024-11-03T09:31:01.3917479+01:00",
+        "joukot": {
+          "Swordsman": 75,
+          "MountedMarksman": 135
+        },
+        "menetykset": {
+          "Swordsman": {
+            "min": 52,
+            "max": 56
+          }
+        }
+      },
+      {
+        "ui_id": 2,
+        "kenraali": "MScience-1103093013",
+        "aikaleima": "2024-11-03T09:31:01.3917479+01:00",
+        "joukot": {
+          "Swordsman": 70,
+          "MountedMarksman": 140
+        },
+        "menetykset": {
+          "Swordsman": {
+            "min": 52,
+            "max": 56
+          }
+        }
+      }
+    ],
+    "10345": [],
+    "10487": [
+      {
+        "ui_id": -1,
+        "kenraali": "MScience-1103093013",
+        "aikaleima": "2024-11-03T09:31:01.7026576+01:00",
+        "joukot": {
+          "Swordsman": 20,
+          "MountedMarksman": 190
+        },
+        "menetykset": {
+          "Swordsman": {
+            "min": 3,
+            "max": 6
+          }
+        }
+      },
+      {
+        "kenraali": "MScience-1103093013",
+        "aikaleima": "2024-11-03T09:31:01.7026576+01:00",
+        "joukot": {
+          "Swordsman": 15,
+          "MountedMarksman": 195
+        },
+        "menetykset": {
+          "Swordsman": {
+            "min": 3,
+            "max": 6
+          }
+        }
+      },
+      {
+        "kenraali": "MScience-1103093013",
+        "aikaleima": "2024-11-03T09:31:01.7026576+01:00",
+        "joukot": {
+          "Swordsman": 10,
+          "MountedMarksman": 200
+        },
+        "menetykset": {
+          "Swordsman": {
+            "min": 3,
+            "max": 6
+          }
+        }
+      }
+    ],
+    "10626": [
+      {
+        "ui_id": -1,
+        "kenraali": "MScience-1103093013",
+        "aikaleima": "2024-11-03T09:31:01.7538432+01:00",
+        "joukot": {
+          "MountedMarksman": 210
+        },
+        "menetykset": {}
+      },
+      {
+        "kenraali": "MScience-1103093013",
+        "aikaleima": "2024-11-03T09:31:01.7538432+01:00",
+        "joukot": {
+          "Swordsman": 20,
+          "ArmoredMarksman": 85,
+          "MountedMarksman": 105
+        },
+        "menetykset": {}
+      },
+      {
+        "kenraali": "MScience-1103093013",
+        "aikaleima": "2024-11-03T09:31:01.7538432+01:00",
+        "joukot": {
+          "MountedSwordsman": 20,
+          "ArmoredMarksman": 85,
+          "MountedMarksman": 105
+        },
+        "menetykset": {}
+      }
+    ],
+    "10732": [
+      {
+        "ui_id": -1,
+        "kenraali": "MScience-1103093013",
+        "aikaleima": "2024-11-03T09:31:02.1274716+01:00",
+        "joukot": {
+          "Swordsman": 110,
+          "Knight": 10,
+          "Besieger": 90
+        },
+        "menetykset": {
+          "Swordsman": {
+            "min": 104,
+            "max": 110
+          }
+        }
+      },
+      {
+        "ui_id": 1,
+        "kenraali": "MScience-1103093013",
+        "aikaleima": "2024-11-03T09:31:02.1274716+01:00",
+        "joukot": {
+          "Swordsman": 120,
+          "Besieger": 90
+        },
+        "menetykset": {
+          "Swordsman": {
+            "min": 104,
+            "max": 112
+          }
+        }
+      },
+      {
+        "ui_id": 2,
+        "kenraali": "MScience-1103093013",
+        "aikaleima": "2024-11-03T09:31:02.1274716+01:00",
+        "joukot": {
+          "Swordsman": 115,
+          "Besieger": 95
+        },
+        "menetykset": {
+          "Swordsman": {
+            "min": 104,
+            "max": 112
+          }
+        }
+      }
+    ],
+    "11093": [],
+    "11222": [
+      {
+        "ui_id": -1,
+        "kenraali": "MScience-1103093013",
+        "aikaleima": "2024-11-03T09:31:02.3693215+01:00",
+        "joukot": {
+          "MountedSwordsman": 60,
+          "Knight": 65,
+          "Besieger": 85
+        },
+        "menetykset": {
+          "MountedSwordsman": {
+            "min": 49,
+            "max": 53
+          },
+          "Knight": {
+            "min": 31,
+            "max": 62
+          }
+        }
+      },
+      {
+        "kenraali": "MScience-1103093013",
+        "aikaleima": "2024-11-03T09:31:02.3693215+01:00",
+        "joukot": {
+          "MountedSwordsman": 55,
+          "Knight": 70,
+          "Besieger": 85
+        },
+        "menetykset": {
+          "MountedSwordsman": {
+            "min": 49,
+            "max": 53
+          },
+          "Knight": {
+            "min": 31,
+            "max": 62
+          }
+        }
+      },
+      {
+        "kenraali": "MScience-1103093013",
+        "aikaleima": "2024-11-03T09:31:02.3693215+01:00",
+        "joukot": {
+          "MountedSwordsman": 55,
+          "Knight": 65,
+          "Besieger": 90
+        },
+        "menetykset": {
+          "MountedSwordsman": {
+            "min": 50,
+            "max": 53
+          },
+          "Knight": {
+            "min": 31,
+            "max": 62
+          }
+        }
+      }
+    ],
+    "11256": [],
+    "11357": [
+      {
+        "ui_id": -1,
+        "kenraali": "MScience-1103093013",
+        "aikaleima": "2024-11-03T09:31:02.6902776+01:00",
+        "joukot": {
+          "Swordsman": 145,
+          "Knight": 5,
+          "Besieger": 60
+        },
+        "menetykset": {
+          "Swordsman": {
+            "min": 131,
+            "max": 138
+          }
+        }
+      },
+      {
+        "kenraali": "MScience-1103093013",
+        "aikaleima": "2024-11-03T09:31:02.6902776+01:00",
+        "joukot": {
+          "Swordsman": 140,
+          "Besieger": 60,
+          "MountedMarksman": 10
+        },
+        "menetykset": {
+          "Swordsman": {
+            "min": 129,
+            "max": 139
+          }
+        }
+      },
+      {
+        "kenraali": "MScience-1103093013",
+        "aikaleima": "2024-11-03T09:31:02.6902776+01:00",
+        "joukot": {
+          "Swordsman": 140,
+          "Besieger": 55,
+          "MountedMarksman": 15
+        },
+        "menetykset": {
+          "Swordsman": {
+            "min": 129,
+            "max": 139
+          }
+        }
+      }
+    ],
+    "11403": [
+      {
+        "ui_id": -1,
+        "kenraali": "MScience-1103093013",
+        "aikaleima": "2024-11-03T09:31:02.7315649+01:00",
+        "joukot": {
+          "Swordsman": 210
+        },
+        "menetykset": {
+          "Swordsman": {
+            "min": 93,
+            "max": 101
+          }
+        }
+      },
+      {
+        "kenraali": "MScience-1103093013",
+        "aikaleima": "2024-11-03T09:31:02.7315649+01:00",
+        "joukot": {
+          "Swordsman": 205,
+          "Knight": 5
+        },
+        "menetykset": {
+          "Swordsman": {
+            "min": 89,
+            "max": 99
+          },
+          "Knight": {
+            "min": 5,
+            "max": 5
+          }
+        }
+      },
+      {
+        "kenraali": "MScience-1103093013",
+        "aikaleima": "2024-11-03T09:31:02.7315649+01:00",
+        "joukot": {
+          "Swordsman": 200,
+          "Knight": 10
+        },
+        "menetykset": {
+          "Swordsman": {
+            "min": 86,
+            "max": 96
+          },
+          "Knight": {
+            "min": 10,
+            "max": 10
+          }
+        }
+      }
+    ],
+    "11584": [],
+    "11641": [],
+    "11680": [],
+    "11688": [],
+    "12113": [
+      {
+        "ui_id": -1,
+        "kenraali": "MScience-1103093013",
+        "aikaleima": "2024-11-03T09:31:03.0529584+01:00",
+        "joukot": {
+          "Knight": 210
+        },
+        "menetykset": {
+          "Knight": {
+            "min": 93,
+            "max": 99
+          }
+        }
+      },
+      {
+        "kenraali": "MScience-1103093013",
+        "aikaleima": "2024-11-03T09:31:03.0529584+01:00",
+        "joukot": {
+          "Swordsman": 100,
+          "Knight": 110
+        },
+        "menetykset": {
+          "Knight": {
+            "min": 93,
+            "max": 99
+          }
+        }
+      },
+      {
+        "kenraali": "MScience-1103093013",
+        "aikaleima": "2024-11-03T09:31:03.0529584+01:00",
+        "joukot": {
+          "Swordsman": 95,
+          "Knight": 115
+        },
+        "menetykset": {
+          "Knight": {
+            "min": 93,
+            "max": 99
+          }
+        }
+      }
+    ],
+    "12379": [],
+    "12387": [],
+    "12551": [
+      {
+        "ui_id": -1,
+        "kenraali": "MScience-1103093013",
+        "aikaleima": "2024-11-03T09:31:03.1436973+01:00",
+        "joukot": {
+          "MountedSwordsman": 55,
+          "MountedMarksman": 155
+        },
+        "menetykset": {
+          "MountedSwordsman": {
+            "min": 48,
+            "max": 52
+          }
+        }
+      },
+      {
+        "kenraali": "MScience-1103093013",
+        "aikaleima": "2024-11-03T09:31:03.1436973+01:00",
+        "joukot": {
+          "MountedSwordsman": 60,
+          "MountedMarksman": 150
+        },
+        "menetykset": {
+          "MountedSwordsman": {
+            "min": 51,
+            "max": 55
+          }
+        }
+      },
+      {
+        "kenraali": "MScience-1103093013",
+        "aikaleima": "2024-11-03T09:31:03.1436973+01:00",
+        "joukot": {
+          "MountedSwordsman": 65,
+          "MountedMarksman": 145
+        },
+        "menetykset": {
+          "MountedSwordsman": {
+            "min": 54,
+            "max": 58
+          }
+        }
+      }
+    ],
+    "12788": [
+      {
+        "ui_id": -1,
+        "kenraali": "MScience-1103093013",
+        "aikaleima": "2024-11-03T09:31:03.1622246+01:00",
+        "joukot": {
+          "MountedMarksman": 210
+        },
+        "menetykset": {}
+      },
+      {
+        "ui_id": 1,
+        "kenraali": "MScience-1103093013",
+        "aikaleima": "2024-11-03T09:31:03.1622246+01:00",
+        "joukot": {
+          "Swordsman": 20,
+          "Besieger": 85,
+          "MountedMarksman": 105
+        },
+        "menetykset": {}
+      },
+      {
+        "ui_id": 2,
+        "kenraali": "MScience-1103093013",
+        "aikaleima": "2024-11-03T09:31:03.1622246+01:00",
+        "joukot": {
+          "MountedSwordsman": 20,
+          "Besieger": 85,
+          "MountedMarksman": 105
+        },
+        "menetykset": {}
+      }
+    ],
+    "12807": [],
+    "13160": [
+      {
+        "ui_id": -1,
+        "kenraali": "MScience-1103093013",
+        "aikaleima": "2024-11-03T09:31:03.2121321+01:00",
+        "joukot": {
+          "Swordsman": 60,
+          "ArmoredMarksman": 120,
+          "MountedMarksman": 30
+        },
+        "menetykset": {
+          "Swordsman": {
+            "min": 55,
+            "max": 58
+          }
+        }
+      },
+      {
+        "kenraali": "MScience-1103093013",
+        "aikaleima": "2024-11-03T09:31:03.2121321+01:00",
+        "joukot": {
+          "Swordsman": 65,
+          "ArmoredMarksman": 120,
+          "MountedMarksman": 25
+        },
+        "menetykset": {
+          "Swordsman": {
+            "min": 56,
+            "max": 60
+          }
+        }
+      },
+      {
+        "kenraali": "MScience-1103093013",
+        "aikaleima": "2024-11-03T09:31:03.2121321+01:00",
+        "joukot": {
+          "Swordsman": 60,
+          "ArmoredMarksman": 125,
+          "MountedMarksman": 25
+        },
+        "menetykset": {
+          "Swordsman": {
+            "min": 56,
+            "max": 59
+          }
+        }
+      }
+    ],
+    "13226": [],
+    "13270": [
+      {
+        "ui_id": -1,
+        "kenraali": "MScience-1103093013",
+        "aikaleima": "2024-11-03T09:31:03.7285371+01:00",
+        "joukot": {
+          "Swordsman": 95,
+          "Besieger": 55,
+          "MountedMarksman": 60
+        },
+        "menetykset": {
+          "Swordsman": {
+            "min": 81,
+            "max": 89
+          }
+        }
+      },
+      {
+        "ui_id": 1,
+        "kenraali": "MScience-1103093013",
+        "aikaleima": "2024-11-03T09:31:03.7285371+01:00",
+        "joukot": {
+          "Swordsman": 90,
+          "Besieger": 60,
+          "MountedMarksman": 60
+        },
+        "menetykset": {
+          "Swordsman": {
+            "min": 81,
+            "max": 89
+          }
+        }
+      },
+      {
+        "ui_id": 2,
+        "kenraali": "MScience-1103093013",
+        "aikaleima": "2024-11-03T09:31:03.7285371+01:00",
+        "joukot": {
+          "Swordsman": 90,
+          "Besieger": 55,
+          "MountedMarksman": 65
+        },
+        "menetykset": {
+          "Swordsman": {
+            "min": 83,
+            "max": 89
+          }
+        }
+      }
+    ],
+    "13424": [],
+    "13605": [
+      {
+        "ui_id": -1,
+        "kenraali": "MScience-1103093013",
+        "aikaleima": "2024-11-03T09:31:04.0194508+01:00",
+        "joukot": {
+          "MountedSwordsman": 80,
+          "ArmoredMarksman": 10,
+          "MountedMarksman": 120
+        },
+        "menetykset": {
+          "MountedSwordsman": {
+            "min": 72,
+            "max": 80
+          }
+        }
+      },
+      {
+        "kenraali": "MScience-1103093013",
+        "aikaleima": "2024-11-03T09:31:04.0194508+01:00",
+        "joukot": {
+          "MountedSwordsman": 80,
+          "ArmoredMarksman": 5,
+          "MountedMarksman": 125
+        },
+        "menetykset": {
+          "MountedSwordsman": {
+            "min": 72,
+            "max": 80
+          }
+        }
+      },
+      {
+        "kenraali": "MScience-1103093013",
+        "aikaleima": "2024-11-03T09:31:04.0194508+01:00",
+        "joukot": {
+          "MountedSwordsman": 85,
+          "ArmoredMarksman": 50,
+          "MountedMarksman": 75
+        },
+        "menetykset": {
+          "MountedSwordsman": {
+            "min": 74,
+            "max": 82
+          }
+        }
+      }
+    ],
+    "13651": [
+      {
+        "ui_id": -1,
+        "kenraali": "MScience-1103093013",
+        "aikaleima": "2024-11-03T09:31:04.637371+01:00",
+        "joukot": {
+          "Swordsman": 100,
+          "Besieger": 5,
+          "MountedMarksman": 105
+        },
+        "menetykset": {
+          "Swordsman": {
+            "min": 61,
+            "max": 69
+          }
+        }
+      },
+      {
+        "kenraali": "MScience-1103093013",
+        "aikaleima": "2024-11-03T09:31:04.637371+01:00",
+        "joukot": {
+          "Swordsman": 95,
+          "Besieger": 10,
+          "MountedMarksman": 105
+        },
+        "menetykset": {
+          "Swordsman": {
+            "min": 61,
+            "max": 68
+          }
+        }
+      },
+      {
+        "kenraali": "MScience-1103093013",
+        "aikaleima": "2024-11-03T09:31:04.637371+01:00",
+        "joukot": {
+          "Swordsman": 70,
+          "Besieger": 15,
+          "MountedMarksman": 125
+        },
+        "menetykset": {
+          "Swordsman": {
+            "min": 62,
+            "max": 68
+          }
+        }
+      }
+    ],
+    "13668": [
+      {
+        "ui_id": -1,
+        "kenraali": "MScience-1103093013",
+        "aikaleima": "2024-11-03T09:31:04.7835492+01:00",
+        "joukot": {
+          "MountedSwordsman": 50,
+          "MountedMarksman": 160
+        },
+        "menetykset": {
+          "MountedSwordsman": {
+            "min": 30,
+            "max": 34
+          }
+        }
+      },
+      {
+        "kenraali": "MScience-1103093013",
+        "aikaleima": "2024-11-03T09:31:04.7835492+01:00",
+        "joukot": {
+          "MountedSwordsman": 35,
+          "Knight": 35,
+          "MountedMarksman": 140
+        },
+        "menetykset": {
+          "MountedSwordsman": {
+            "min": 30,
+            "max": 33
+          }
+        }
+      },
+      {
+        "kenraali": "MScience-1103093013",
+        "aikaleima": "2024-11-03T09:31:04.7835492+01:00",
+        "joukot": {
+          "MountedSwordsman": 40,
+          "Knight": 25,
+          "MountedMarksman": 145
+        },
+        "menetykset": {
+          "MountedSwordsman": {
+            "min": 30,
+            "max": 34
+          }
+        }
+      }
+    ],
+    "14047": [
+      {
+        "ui_id": -1,
+        "kenraali": "MScience-1103093013",
+        "aikaleima": "2024-11-03T09:31:04.9250858+01:00",
+        "joukot": {
+          "MountedSwordsman": 40,
+          "MountedMarksman": 170
+        },
+        "menetykset": {
+          "MountedSwordsman": {
+            "min": 34,
+            "max": 37
+          }
+        }
+      },
+      {
+        "kenraali": "MScience-1103093013",
+        "aikaleima": "2024-11-03T09:31:04.9250858+01:00",
+        "joukot": {
+          "MountedSwordsman": 35,
+          "Knight": 10,
+          "MountedMarksman": 165
+        },
+        "menetykset": {
+          "MountedSwordsman": {
+            "min": 33,
+            "max": 35
+          },
+          "Knight": {
+            "min": 0,
+            "max": 6,
+            "nollaprosentti": 10.0
+          }
+        }
+      },
+      {
+        "kenraali": "MScience-1103093013",
+        "aikaleima": "2024-11-03T09:31:04.9250858+01:00",
+        "joukot": {
+          "MountedSwordsman": 125,
+          "Knight": 85
+        },
+        "menetykset": {
+          "MountedSwordsman": {
+            "min": 94,
+            "max": 100
+          },
+          "Knight": {
+            "min": 85,
+            "max": 85
+          }
+        }
+      }
+    ],
+    "14235": [
+      {
+        "ui_id": -1,
+        "kenraali": "MScience-1103093013",
+        "aikaleima": "2024-11-03T09:31:05.0815222+01:00",
+        "joukot": {
+          "MountedSwordsman": 40,
+          "Knight": 110,
+          "Besieger": 60
+        },
+        "menetykset": {
+          "MountedSwordsman": {
+            "min": 33,
+            "max": 36
+          },
+          "Knight": {
+            "min": 83,
+            "max": 93
+          }
+        }
+      },
+      {
+        "kenraali": "MScience-1103093013",
+        "aikaleima": "2024-11-03T09:31:05.0815222+01:00",
+        "joukot": {
+          "MountedSwordsman": 35,
+          "Knight": 110,
+          "Besieger": 65
+        },
+        "menetykset": {
+          "MountedSwordsman": {
+            "min": 33,
+            "max": 35
+          },
+          "Knight": {
+            "min": 83,
+            "max": 97
+          }
+        }
+      },
+      {
+        "kenraali": "MScience-1103093013",
+        "aikaleima": "2024-11-03T09:31:05.0815222+01:00",
+        "joukot": {
+          "MountedSwordsman": 45,
+          "Knight": 105,
+          "Besieger": 60
+        },
+        "menetykset": {
+          "MountedSwordsman": {
+            "min": 33,
+            "max": 36
+          },
+          "Knight": {
+            "min": 83,
+            "max": 94
+          }
+        }
+      }
+    ],
+    "14968": [
+      {
+        "ui_id": -1,
+        "kenraali": "MScience-1103093013",
+        "aikaleima": "2024-11-03T09:31:05.1055478+01:00",
+        "joukot": {
+          "MountedSwordsman": 210
+        },
+        "menetykset": {
+          "MountedSwordsman": {
+            "min": 82,
+            "max": 91
+          }
+        }
+      },
+      {
+        "ui_id": 1,
+        "kenraali": "MScience-1103093013",
+        "aikaleima": "2024-11-03T09:31:05.1055478+01:00",
+        "joukot": {
+          "MountedSwordsman": 205,
+          "Knight": 5
+        },
+        "menetykset": {
+          "MountedSwordsman": {
+            "min": 80,
+            "max": 88
+          },
+          "Knight": {
+            "min": 5,
+            "max": 5
+          }
+        }
+      },
+      {
+        "ui_id": 2,
+        "kenraali": "MScience-1103093013",
+        "aikaleima": "2024-11-03T09:31:05.1055478+01:00",
+        "joukot": {
+          "MountedSwordsman": 200,
+          "Knight": 10
+        },
+        "menetykset": {
+          "MountedSwordsman": {
+            "min": 79,
+            "max": 88
+          },
+          "Knight": {
+            "min": 5,
+            "max": 7
+          }
+        }
+      }
+    ],
+    "15209": [],
+    "15328": [
+      {
+        "ui_id": -1,
+        "kenraali": "MScience-1103093013",
+        "aikaleima": "2024-11-03T09:31:05.5816992+01:00",
+        "joukot": {
+          "Swordsman": 85,
+          "Knight": 5,
+          "Besieger": 120
+        },
+        "menetykset": {
+          "Swordsman": {
+            "min": 78,
+            "max": 82
+          }
+        }
+      },
+      {
+        "kenraali": "MScience-1103093013",
+        "aikaleima": "2024-11-03T09:31:05.5816992+01:00",
+        "joukot": {
+          "Swordsman": 90,
+          "Besieger": 120
+        },
+        "menetykset": {
+          "Swordsman": {
+            "min": 79,
+            "max": 83
+          }
+        }
+      },
+      {
+        "kenraali": "MScience-1103093013",
+        "aikaleima": "2024-11-03T09:31:05.5816992+01:00",
+        "joukot": {
+          "Swordsman": 85,
+          "Besieger": 125
+        },
+        "menetykset": {
+          "Swordsman": {
+            "min": 79,
+            "max": 83
+          }
+        }
+      }
+    ],
+    "15643": [],
+    "15645": [
+      {
+        "ui_id": -1,
+        "kenraali": "MScience-1103093013",
+        "aikaleima": "2024-11-03T09:31:05.7533297+01:00",
+        "joukot": {
+          "MountedSwordsman": 35,
+          "Knight": 155,
+          "Besieger": 20
+        },
+        "menetykset": {
+          "MountedSwordsman": {
+            "min": 29,
+            "max": 31
+          },
+          "Knight": {
+            "min": 83,
+            "max": 93
+          }
+        }
+      },
+      {
+        "kenraali": "MScience-1103093013",
+        "aikaleima": "2024-11-03T09:31:05.7533297+01:00",
+        "joukot": {
+          "MountedSwordsman": 40,
+          "Knight": 155,
+          "Besieger": 15
+        },
+        "menetykset": {
+          "MountedSwordsman": {
+            "min": 29,
+            "max": 31
+          },
+          "Knight": {
+            "min": 83,
+            "max": 93
+          }
+        }
+      },
+      {
+        "kenraali": "MScience-1103093013",
+        "aikaleima": "2024-11-03T09:31:05.7533297+01:00",
+        "joukot": {
+          "MountedSwordsman": 40,
+          "Knight": 160,
+          "Besieger": 10
+        },
+        "menetykset": {
+          "MountedSwordsman": {
+            "min": 27,
+            "max": 30
+          },
+          "Knight": {
+            "min": 85,
+            "max": 94
+          }
+        }
+      }
+    ],
+    "15702": [],
+    "16045": [
+      {
+        "ui_id": -1,
+        "kenraali": "MScience-1103093013",
+        "aikaleima": "2024-11-03T09:31:06.1253126+01:00",
+        "joukot": {
+          "Swordsman": 75,
+          "Besieger": 10,
+          "MountedMarksman": 125
+        },
+        "menetykset": {
+          "Swordsman": {
+            "min": 62,
+            "max": 68
+          }
+        }
+      },
+      {
+        "kenraali": "MScience-1103093013",
+        "aikaleima": "2024-11-03T09:31:06.1253126+01:00",
+        "joukot": {
+          "Swordsman": 75,
+          "ArmoredMarksman": 10,
+          "MountedMarksman": 125
+        },
+        "menetykset": {
+          "Swordsman": {
+            "min": 62,
+            "max": 68
+          }
+        }
+      },
+      {
+        "kenraali": "MScience-1103093013",
+        "aikaleima": "2024-11-03T09:31:06.1253126+01:00",
+        "joukot": {
+          "Swordsman": 70,
+          "Besieger": 15,
+          "MountedMarksman": 125
+        },
+        "menetykset": {
+          "Swordsman": {
+            "min": 62,
+            "max": 68
+          }
+        }
+      }
+    ],
+    "16065": [
+      {
+        "ui_id": -1,
+        "kenraali": "MScience-1103093013",
+        "aikaleima": "2024-11-03T09:31:06.1517932+01:00",
+        "joukot": {
+          "Swordsman": 210
+        },
+        "menetykset": {
+          "Swordsman": {
+            "min": 168,
+            "max": 191
+          }
+        }
+      },
+      {
+        "kenraali": "MScience-1103093013",
+        "aikaleima": "2024-11-03T09:31:06.1517932+01:00",
+        "joukot": {
+          "Swordsman": 205,
+          "Knight": 5
+        },
+        "menetykset": {
+          "Swordsman": {
+            "min": 162,
+            "max": 183
+          },
+          "Knight": {
+            "min": 5,
+            "max": 5
+          }
+        }
+      },
+      {
+        "kenraali": "MScience-1103093013",
+        "aikaleima": "2024-11-03T09:31:06.1517932+01:00",
+        "joukot": {
+          "Swordsman": 190,
+          "Knight": 20
+        },
+        "menetykset": {
+          "Swordsman": {
+            "min": 152,
+            "max": 175
+          },
+          "Knight": {
+            "min": 9,
+            "max": 15
+          }
+        }
+      }
+    ],
+    "16120": [
+      {
+        "ui_id": -1,
+        "kenraali": "MScience-1103093013",
+        "aikaleima": "2024-11-03T09:31:06.8230672+01:00",
+        "joukot": {
+          "Swordsman": 75,
+          "MountedMarksman": 135
+        },
+        "menetykset": {
+          "Swordsman": {
+            "min": 50,
+            "max": 56
+          }
+        }
+      },
+      {
+        "kenraali": "MScience-1103093013",
+        "aikaleima": "2024-11-03T09:31:06.8230672+01:00",
+        "joukot": {
+          "Swordsman": 70,
+          "MountedMarksman": 140
+        },
+        "menetykset": {
+          "Swordsman": {
+            "min": 50,
+            "max": 56
+          }
+        }
+      },
+      {
+        "kenraali": "MScience-1103093013",
+        "aikaleima": "2024-11-03T09:31:06.8230672+01:00",
+        "joukot": {
+          "Swordsman": 90,
+          "Knight": 20,
+          "MountedMarksman": 100
+        },
+        "menetykset": {
+          "Swordsman": {
+            "min": 50,
+            "max": 56
+          }
+        }
+      }
+    ],
+    "16403": [
+      {
+        "ui_id": -1,
+        "kenraali": "MScience-1103093013",
+        "aikaleima": "2024-11-03T09:31:06.8461299+01:00",
+        "joukot": {
+          "MountedMarksman": 210
+        },
+        "menetykset": {}
+      }
+    ],
+    "16585": [
+      {
+        "ui_id": -1,
+        "kenraali": "MScience-1103093013",
+        "aikaleima": "2024-11-03T09:31:06.8714123+01:00",
+        "joukot": {
+          "MountedSwordsman": 120,
+          "Knight": 90
+        },
+        "menetykset": {
+          "MountedSwordsman": {
+            "min": 83,
+            "max": 93
+          },
+          "Knight": {
+            "min": 90,
+            "max": 90
+          }
+        }
+      },
+      {
+        "kenraali": "MScience-1103093013",
+        "aikaleima": "2024-11-03T09:31:06.8714123+01:00",
+        "joukot": {
+          "MountedSwordsman": 125,
+          "Knight": 85
+        },
+        "menetykset": {
+          "MountedSwordsman": {
+            "min": 85,
+            "max": 99
+          },
+          "Knight": {
+            "min": 85,
+            "max": 85
+          }
+        }
+      },
+      {
+        "kenraali": "MScience-1103093013",
+        "aikaleima": "2024-11-03T09:31:06.8714123+01:00",
+        "joukot": {
+          "MountedSwordsman": 110,
+          "Knight": 100
+        },
+        "menetykset": {
+          "MountedSwordsman": {
+            "min": 75,
+            "max": 89
+          },
+          "Knight": {
+            "min": 100,
+            "max": 100
+          }
+        }
+      }
+    ],
+    "16620": [
+      {
+        "ui_id": -1,
+        "kenraali": "MScience-1103093013",
+        "aikaleima": "2024-11-03T09:31:07.2071394+01:00",
+        "joukot": {
+          "Swordsman": 95,
+          "MountedMarksman": 115
+        },
+        "menetykset": {
+          "Swordsman": {
+            "min": 69,
+            "max": 75
+          }
+        }
+      },
+      {
+        "kenraali": "MScience-1103093013",
+        "aikaleima": "2024-11-03T09:31:07.2071394+01:00",
+        "joukot": {
+          "Swordsman": 90,
+          "MountedMarksman": 120
+        },
+        "menetykset": {
+          "Swordsman": {
+            "min": 69,
+            "max": 75
+          }
+        }
+      },
+      {
+        "kenraali": "MScience-1103093013",
+        "aikaleima": "2024-11-03T09:31:07.2071394+01:00",
+        "joukot": {
+          "Swordsman": 110,
+          "MountedMarksman": 100
+        },
+        "menetykset": {
+          "Swordsman": {
+            "min": 69,
+            "max": 75
+          }
+        }
+      }
+    ],
+    "16743": [
+      {
+        "ui_id": -1,
+        "kenraali": "MScience-1103093013",
+        "aikaleima": "2024-11-03T09:31:07.2385064+01:00",
+        "joukot": {
+          "MountedMarksman": 210
+        },
+        "menetykset": {}
+      }
+    ],
+    "16892": [
+      {
+        "ui_id": -1,
+        "kenraali": "MScience-1103093013",
+        "aikaleima": "2024-11-03T09:31:07.274569+01:00",
+        "joukot": {
+          "MountedSwordsman": 40,
+          "MountedMarksman": 170
+        },
+        "menetykset": {
+          "MountedSwordsman": {
+            "min": 33,
+            "max": 39
+          }
+        }
+      },
+      {
+        "kenraali": "MScience-1103093013",
+        "aikaleima": "2024-11-03T09:31:07.274569+01:00",
+        "joukot": {
+          "MountedSwordsman": 40,
+          "ArmoredMarksman": 20,
+          "MountedMarksman": 150
+        },
+        "menetykset": {
+          "MountedSwordsman": {
+            "min": 33,
+            "max": 39
+          }
+        }
+      },
+      {
+        "kenraali": "MScience-1103093013",
+        "aikaleima": "2024-11-03T09:31:07.274569+01:00",
+        "joukot": {
+          "MountedSwordsman": 40,
+          "ArmoredMarksman": 15,
+          "MountedMarksman": 155
+        },
+        "menetykset": {
+          "MountedSwordsman": {
+            "min": 33,
+            "max": 39
+          }
+        }
+      }
+    ],
+    "17006": [
+      {
+        "ui_id": -1,
+        "kenraali": "MScience-1103093013",
+        "aikaleima": "2024-11-03T09:31:07.6265879+01:00",
+        "joukot": {
+          "Swordsman": 65,
+          "MountedMarksman": 145
+        },
+        "menetykset": {
+          "Swordsman": {
+            "min": 46,
+            "max": 50
+          }
+        }
+      },
+      {
+        "kenraali": "MScience-1103093013",
+        "aikaleima": "2024-11-03T09:31:07.6265879+01:00",
+        "joukot": {
+          "Swordsman": 60,
+          "MountedMarksman": 150
+        },
+        "menetykset": {
+          "Swordsman": {
+            "min": 45,
+            "max": 51
+          }
+        }
+      },
+      {
+        "kenraali": "MScience-1103093013",
+        "aikaleima": "2024-11-03T09:31:07.6265879+01:00",
+        "joukot": {
+          "Swordsman": 75,
+          "MountedMarksman": 135
+        },
+        "menetykset": {
+          "Swordsman": {
+            "min": 46,
+            "max": 50
+          }
+        }
+      }
+    ],
+    "17028": [
+      {
+        "ui_id": -1,
+        "kenraali": "MScience-1103093013",
+        "aikaleima": "2024-11-03T09:31:07.9561311+01:00",
+        "joukot": {
+          "Swordsman": 90,
+          "Besieger": 95,
+          "MountedMarksman": 25
+        },
+        "menetykset": {
+          "Swordsman": {
+            "min": 82,
+            "max": 88
+          }
+        }
+      },
+      {
+        "kenraali": "MScience-1103093013",
+        "aikaleima": "2024-11-03T09:31:07.9561311+01:00",
+        "joukot": {
+          "Swordsman": 95,
+          "Knight": 10,
+          "Besieger": 105
+        },
+        "menetykset": {
+          "Swordsman": {
+            "min": 83,
+            "max": 88
+          }
+        }
+      },
+      {
+        "kenraali": "MScience-1103093013",
+        "aikaleima": "2024-11-03T09:31:07.9561311+01:00",
+        "joukot": {
+          "Swordsman": 90,
+          "Knight": 15,
+          "Besieger": 105
+        },
+        "menetykset": {
+          "Swordsman": {
+            "min": 83,
+            "max": 88
+          }
+        }
+      }
+    ],
+    "17194": [],
+    "17254": [
+      {
+        "ui_id": -1,
+        "kenraali": "MScience-1103093013",
+        "aikaleima": "2024-11-03T09:31:08.0264969+01:00",
+        "joukot": {
+          "Swordsman": 115,
+          "Besieger": 95
+        },
+        "menetykset": {
+          "Swordsman": {
+            "min": 110,
+            "max": 114
+          }
+        }
+      },
+      {
+        "kenraali": "MScience-1103093013",
+        "aikaleima": "2024-11-03T09:31:08.0264969+01:00",
+        "joukot": {
+          "MountedSwordsman": 60,
+          "Besieger": 150
+        },
+        "menetykset": {
+          "MountedSwordsman": {
+            "min": 57,
+            "max": 59
+          }
+        }
+      },
+      {
+        "kenraali": "MScience-1103093013",
+        "aikaleima": "2024-11-03T09:31:08.0264969+01:00",
+        "joukot": {
+          "Swordsman": 120,
+          "Besieger": 90
+        },
+        "menetykset": {
+          "Swordsman": {
+            "min": 115,
+            "max": 118
+          }
+        }
+      }
+    ],
+    "17479": [],
+    "17610": [
+      {
+        "ui_id": -1,
+        "kenraali": "MScience-1103093013",
+        "aikaleima": "2024-11-03T09:31:08.1276578+01:00",
+        "joukot": {
+          "Swordsman": 70,
+          "Besieger": 140
+        },
+        "menetykset": {
+          "Swordsman": {
+            "min": 65,
+            "max": 67
+          }
+        }
+      },
+      {
+        "kenraali": "MScience-1103093013",
+        "aikaleima": "2024-11-03T09:31:08.1276578+01:00",
+        "joukot": {
+          "Swordsman": 70,
+          "Besieger": 135,
+          "MountedMarksman": 5
+        },
+        "menetykset": {
+          "Swordsman": {
+            "min": 65,
+            "max": 68
+          }
+        }
+      },
+      {
+        "kenraali": "MScience-1103093013",
+        "aikaleima": "2024-11-03T09:31:08.1276578+01:00",
+        "joukot": {
+          "Swordsman": 70,
+          "Besieger": 130,
+          "MountedMarksman": 10
+        },
+        "menetykset": {
+          "Swordsman": {
+            "min": 65,
+            "max": 69
+          }
+        }
+      }
+    ],
+    "17615": [
+      {
+        "ui_id": -1,
+        "kenraali": "MScience-1103093013",
+        "aikaleima": "2024-11-03T09:31:08.1492441+01:00",
+        "joukot": {
+          "Swordsman": 110,
+          "Knight": 100
+        },
+        "menetykset": {
+          "Swordsman": {
+            "min": 0,
+            "max": 1,
+            "nollaprosentti": 90.0
+          },
+          "Knight": {
+            "min": 93,
+            "max": 100
+          }
+        }
+      },
+      {
+        "kenraali": "MScience-1103093013",
+        "aikaleima": "2024-11-03T09:31:08.1492441+01:00",
+        "joukot": {
+          "Swordsman": 115,
+          "Knight": 95
+        },
+        "menetykset": {
+          "Swordsman": {
+            "min": 5,
+            "max": 11
+          },
+          "Knight": {
+            "min": 92,
+            "max": 95
+          }
+        }
+      },
+      {
+        "kenraali": "MScience-1103093013",
+        "aikaleima": "2024-11-03T09:31:08.1492441+01:00",
+        "joukot": {
+          "Swordsman": 120,
+          "Knight": 90
+        },
+        "menetykset": {
+          "Swordsman": {
+            "min": 14,
+            "max": 19
+          },
+          "Knight": {
+            "min": 90,
+            "max": 90
+          }
+        }
+      }
+    ],
+    "17858": [],
+    "18024": [],
+    "18079": [],
+    "18752": [
+      {
+        "ui_id": -1,
+        "kenraali": "MScience-1103093013",
+        "aikaleima": "2024-11-03T09:31:08.2635039+01:00",
+        "joukot": {
+          "Swordsman": 25,
+          "MountedMarksman": 185
+        },
+        "menetykset": {
+          "Swordsman": {
+            "min": 6,
+            "max": 13
+          }
+        }
+      },
+      {
+        "kenraali": "MScience-1103093013",
+        "aikaleima": "2024-11-03T09:31:08.2635039+01:00",
+        "joukot": {
+          "Swordsman": 20,
+          "MountedMarksman": 190
+        },
+        "menetykset": {
+          "Swordsman": {
+            "min": 6,
+            "max": 13
+          }
+        }
+      },
+      {
+        "kenraali": "MScience-1103093013",
+        "aikaleima": "2024-11-03T09:31:08.2635039+01:00",
+        "joukot": {
+          "Swordsman": 15,
+          "MountedMarksman": 195
+        },
+        "menetykset": {
+          "Swordsman": {
+            "min": 6,
+            "max": 13
+          }
+        }
+      }
+    ],
+    "19251": [],
+    "19539": [],
+    "19544": [
+      {
+        "ui_id": -1,
+        "kenraali": "MScience-1103093013",
+        "aikaleima": "2024-11-03T09:31:08.8375534+01:00",
+        "joukot": {
+          "MountedSwordsman": 80,
+          "MountedMarksman": 130
+        },
+        "menetykset": {
+          "MountedSwordsman": {
+            "min": 35,
+            "max": 37
+          }
+        }
+      },
+      {
+        "kenraali": "MScience-1103093013",
+        "aikaleima": "2024-11-03T09:31:08.8375534+01:00",
+        "joukot": {
+          "MountedSwordsman": 75,
+          "MountedMarksman": 135
+        },
+        "menetykset": {
+          "MountedSwordsman": {
+            "min": 35,
+            "max": 37
+          }
+        }
+      },
+      {
+        "kenraali": "MScience-1103093013",
+        "aikaleima": "2024-11-03T09:31:08.8375534+01:00",
+        "joukot": {
+          "MountedSwordsman": 70,
+          "MountedMarksman": 140
+        },
+        "menetykset": {
+          "MountedSwordsman": {
+            "min": 35,
+            "max": 37
+          }
+        }
+      }
+    ],
+    "19583": [],
+    "19657": [],
+    "19906": [
+      {
+        "ui_id": -1,
+        "kenraali": "MScience-1103093013",
+        "aikaleima": "2024-11-03T09:31:09.0598441+01:00",
+        "joukot": {
+          "MountedSwordsman": 45,
+          "ArmoredMarksman": 55,
+          "MountedMarksman": 110
+        },
+        "menetykset": {
+          "MountedSwordsman": {
+            "min": 37,
+            "max": 43
+          }
+        }
+      },
+      {
+        "kenraali": "MScience-1103093013",
+        "aikaleima": "2024-11-03T09:31:09.0598441+01:00",
+        "joukot": {
+          "MountedSwordsman": 45,
+          "MountedMarksman": 165
+        },
+        "menetykset": {
+          "MountedSwordsman": {
+            "min": 38,
+            "max": 44
+          }
+        }
+      },
+      {
+        "kenraali": "MScience-1103093013",
+        "aikaleima": "2024-11-03T09:31:09.0598441+01:00",
+        "joukot": {
+          "MountedSwordsman": 45,
+          "ArmoredMarksman": 50,
+          "MountedMarksman": 115
+        },
+        "menetykset": {
+          "MountedSwordsman": {
+            "min": 38,
+            "max": 43
+          }
+        }
+      }
+    ],
+    "19911": [],
+    "19993": []
+  },
+  "parhaatHyökkäyksetMMA": {},
+  "comboHyökkäykset": {},
+  "merkit": [],
+  "nuolet": []
+}

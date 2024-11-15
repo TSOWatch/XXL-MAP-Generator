@@ -1,0 +1,655 @@
+{
+  "tiedostonimi": "slt",
+  "tunniste": "TheSonsOfTheLittleTailor",
+  "nimi": "The Sons of the Little Tailor",
+  "tyyppi": "Mission",
+  "teema": "Fairytale",
+  "kampanja": "TheLittleTailor",
+  "ryhmitysnro": 100,
+  "jnro": 73,
+  "xp": 81338,
+  "pelaajia": 3,
+  "yksiköt": [
+    "BanditCavalry",
+    "BanditSoldier",
+    "BanditLongbowman",
+    "WildlifeRecruit",
+    "WildlifeMilitia",
+    "WildlifeBowman",
+    "WildlifeLongbowman",
+    "WildlifeCavalry",
+    "WildlifeCannoneer",
+    "BanditBoss2",
+    "EpicRaidBoss2",
+    "EpicRaidBoss7",
+    "EpicRaidBoss11",
+    "EpicRaidBoss12"
+  ],
+  "leirit": [
+    {
+      "tunniste": 10029,
+      "sektori": 1,
+      "oletusnimi": "1.8",
+      "apunimi": "",
+      "tyyppi": 2,
+      "sijainti": "259, 234",
+      "joukot": {
+        "BanditCavalry": 80,
+        "BanditSoldier": 119,
+        "BanditBoss2": 1
+      }
+    },
+    {
+      "tunniste": 10096,
+      "sektori": 1,
+      "oletusnimi": "1.3",
+      "apunimi": "",
+      "tyyppi": 1,
+      "sijainti": "188, 238",
+      "joukot": {
+        "BanditLongbowman": 180
+      }
+    },
+    {
+      "tunniste": 10384,
+      "sektori": 9,
+      "oletusnimi": "9.5",
+      "apunimi": "",
+      "tyyppi": 2,
+      "sijainti": "194, 33",
+      "joukot": {
+        "WildlifeCavalry": 90,
+        "WildlifeCannoneer": 20,
+        "EpicRaidBoss7": 1
+      }
+    },
+    {
+      "tunniste": 11214,
+      "sektori": 5,
+      "oletusnimi": "5.8",
+      "apunimi": "",
+      "tyyppi": 1,
+      "sijainti": "221, 183",
+      "joukot": {
+        "WildlifeRecruit": 100,
+        "WildlifeBowman": 50
+      }
+    },
+    {
+      "tunniste": 11275,
+      "sektori": 9,
+      "oletusnimi": "9.4",
+      "apunimi": "",
+      "tyyppi": 1,
+      "sijainti": "179, 38",
+      "joukot": {
+        "WildlifeBowman": 90,
+        "WildlifeLongbowman": 60
+      }
+    },
+    {
+      "tunniste": 11316,
+      "sektori": 5,
+      "oletusnimi": "5.9",
+      "apunimi": "",
+      "tyyppi": 2,
+      "sijainti": "316, 113",
+      "joukot": {
+        "WildlifeCavalry": 50,
+        "WildlifeMilitia": 70,
+        "WildlifeCannoneer": 20
+      }
+    },
+    {
+      "tunniste": 11317,
+      "sektori": 2,
+      "oletusnimi": "2.5",
+      "apunimi": "",
+      "tyyppi": 1,
+      "sijainti": "429, 281",
+      "joukot": {
+        "WildlifeCavalry": 60,
+        "WildlifeRecruit": 40,
+        "WildlifeCannoneer": 50
+      }
+    },
+    {
+      "tunniste": 11382,
+      "sektori": 2,
+      "oletusnimi": "2.3",
+      "apunimi": "",
+      "tyyppi": 1,
+      "sijainti": "377, 321",
+      "joukot": {
+        "WildlifeCavalry": 30,
+        "WildlifeLongbowman": 70
+      }
+    },
+    {
+      "tunniste": 12185,
+      "sektori": 1,
+      "oletusnimi": "1.6",
+      "apunimi": "",
+      "tyyppi": 1,
+      "sijainti": "254, 220",
+      "joukot": {
+        "BanditSoldier": 130,
+        "BanditLongbowman": 70
+      }
+    },
+    {
+      "tunniste": 12202,
+      "sektori": 9,
+      "oletusnimi": "9.1",
+      "apunimi": "",
+      "tyyppi": 1,
+      "sijainti": "101, 46",
+      "joukot": {
+        "WildlifeLongbowman": 90
+      }
+    },
+    {
+      "tunniste": 12350,
+      "sektori": 8,
+      "oletusnimi": "8.3",
+      "apunimi": "",
+      "tyyppi": 1,
+      "sijainti": "114, 93",
+      "joukot": {
+        "WildlifeRecruit": 20,
+        "WildlifeMilitia": 80
+      }
+    },
+    {
+      "tunniste": 12370,
+      "sektori": 7,
+      "oletusnimi": "7.1",
+      "apunimi": "",
+      "tyyppi": 1,
+      "sijainti": "132, 238",
+      "joukot": {
+        "WildlifeBowman": 70,
+        "WildlifeLongbowman": 40
+      }
+    },
+    {
+      "tunniste": 12546,
+      "sektori": 6,
+      "oletusnimi": "6.3",
+      "apunimi": "",
+      "tyyppi": 1,
+      "sijainti": "339, 59",
+      "joukot": {
+        "WildlifeBowman": 50,
+        "WildlifeMilitia": 90
+      }
+    },
+    {
+      "tunniste": 12762,
+      "sektori": 2,
+      "oletusnimi": "2.1",
+      "apunimi": "",
+      "tyyppi": 1,
+      "sijainti": "354, 276",
+      "joukot": {
+        "WildlifeRecruit": 110,
+        "WildlifeLongbowman": 40
+      }
+    },
+    {
+      "tunniste": 13107,
+      "sektori": 5,
+      "oletusnimi": "5.6",
+      "apunimi": "",
+      "tyyppi": 1,
+      "sijainti": "235, 134",
+      "joukot": {
+        "WildlifeCavalry": 100,
+        "WildlifeRecruit": 40
+      }
+    },
+    {
+      "tunniste": 13128,
+      "sektori": 1,
+      "oletusnimi": "1.2",
+      "apunimi": "",
+      "tyyppi": 1,
+      "sijainti": "174, 264",
+      "joukot": {
+        "BanditSoldier": 70,
+        "BanditLongbowman": 130
+      }
+    },
+    {
+      "tunniste": 13177,
+      "sektori": 5,
+      "oletusnimi": "5.7",
+      "apunimi": "",
+      "tyyppi": 1,
+      "sijainti": "222, 160",
+      "joukot": {
+        "WildlifeMilitia": 60
+      }
+    },
+    {
+      "tunniste": 13255,
+      "sektori": 1,
+      "oletusnimi": "1.4",
+      "apunimi": "",
+      "tyyppi": 1,
+      "sijainti": "282, 284",
+      "joukot": {
+        "BanditCavalry": 90,
+        "BanditLongbowman": 40
+      }
+    },
+    {
+      "tunniste": 13312,
+      "sektori": 2,
+      "oletusnimi": "2.4",
+      "apunimi": "",
+      "tyyppi": 1,
+      "sijainti": "410, 339",
+      "joukot": {
+        "WildlifeCavalry": 50,
+        "WildlifeMilitia": 70
+      }
+    },
+    {
+      "tunniste": 13380,
+      "sektori": 4,
+      "oletusnimi": "4.2",
+      "apunimi": "",
+      "tyyppi": 1,
+      "sijainti": "521, 91",
+      "joukot": {
+        "BanditSoldier": 120,
+        "BanditLongbowman": 80
+      }
+    },
+    {
+      "tunniste": 13407,
+      "sektori": 3,
+      "oletusnimi": "3.6",
+      "apunimi": "",
+      "tyyppi": 2,
+      "sijainti": "493, 147",
+      "joukot": {
+        "BanditCavalry": 30,
+        "BanditSoldier": 180,
+        "BanditLongbowman": 40
+      }
+    },
+    {
+      "tunniste": 13798,
+      "sektori": 3,
+      "oletusnimi": "3.1",
+      "apunimi": "",
+      "tyyppi": 1,
+      "sijainti": "489, 289",
+      "joukot": {
+        "BanditSoldier": 150,
+        "BanditLongbowman": 50
+      }
+    },
+    {
+      "tunniste": 13853,
+      "sektori": 7,
+      "oletusnimi": "7.3",
+      "apunimi": "",
+      "tyyppi": 1,
+      "sijainti": "85, 243",
+      "joukot": {
+        "WildlifeRecruit": 110,
+        "WildlifeBowman": 30
+      }
+    },
+    {
+      "tunniste": 14213,
+      "sektori": 4,
+      "oletusnimi": "4.4",
+      "apunimi": "",
+      "tyyppi": 2,
+      "sijainti": "530, 62",
+      "joukot": {
+        "BanditCavalry": 80,
+        "BanditSoldier": 119,
+        "EpicRaidBoss12": 1
+      }
+    },
+    {
+      "tunniste": 14226,
+      "sektori": 3,
+      "oletusnimi": "3.3",
+      "apunimi": "",
+      "tyyppi": 1,
+      "sijainti": "433, 215",
+      "joukot": {
+        "BanditSoldier": 200
+      }
+    },
+    {
+      "tunniste": 14645,
+      "sektori": 5,
+      "oletusnimi": "5.3",
+      "apunimi": "",
+      "tyyppi": 1,
+      "sijainti": "297, 137",
+      "joukot": {
+        "WildlifeCavalry": 40,
+        "WildlifeMilitia": 70
+      }
+    },
+    {
+      "tunniste": 14662,
+      "sektori": 4,
+      "oletusnimi": "4.1",
+      "apunimi": "",
+      "tyyppi": 1,
+      "sijainti": "478, 121",
+      "joukot": {
+        "BanditCavalry": 120,
+        "BanditLongbowman": 80
+      }
+    },
+    {
+      "tunniste": 14743,
+      "sektori": 1,
+      "oletusnimi": "1.1",
+      "apunimi": "",
+      "tyyppi": 1,
+      "sijainti": "230, 286",
+      "joukot": {
+        "BanditSoldier": 90,
+        "BanditLongbowman": 110
+      }
+    },
+    {
+      "tunniste": 14794,
+      "sektori": 5,
+      "oletusnimi": "5.2",
+      "apunimi": "",
+      "tyyppi": 1,
+      "sijainti": "320, 161",
+      "joukot": {
+        "WildlifeCavalry": 50,
+        "WildlifeMilitia": 90,
+        "EpicRaidBoss11": 1
+      }
+    },
+    {
+      "tunniste": 15189,
+      "sektori": 3,
+      "oletusnimi": "3.2",
+      "apunimi": "",
+      "tyyppi": 1,
+      "sijainti": "511, 251",
+      "joukot": {
+        "BanditCavalry": 20,
+        "BanditSoldier": 180
+      }
+    },
+    {
+      "tunniste": 15214,
+      "sektori": 8,
+      "oletusnimi": "8.1",
+      "apunimi": "",
+      "tyyppi": 1,
+      "sijainti": "48, 164",
+      "joukot": {
+        "WildlifeCavalry": 50,
+        "WildlifeLongbowman": 70
+      }
+    },
+    {
+      "tunniste": 16400,
+      "sektori": 2,
+      "oletusnimi": "2.2",
+      "apunimi": "",
+      "tyyppi": 1,
+      "sijainti": "322, 301",
+      "joukot": {
+        "WildlifeBowman": 50,
+        "WildlifeMilitia": 80
+      }
+    },
+    {
+      "tunniste": 16469,
+      "sektori": 7,
+      "oletusnimi": "7.5",
+      "apunimi": "",
+      "tyyppi": 2,
+      "sijainti": "86, 192",
+      "joukot": {
+        "WildlifeCavalry": 40,
+        "WildlifeMilitia": 60,
+        "WildlifeCannoneer": 30
+      }
+    },
+    {
+      "tunniste": 16768,
+      "sektori": 6,
+      "oletusnimi": "6.5",
+      "apunimi": "",
+      "tyyppi": 2,
+      "sijainti": "333, 43",
+      "joukot": {
+        "WildlifeMilitia": 70,
+        "WildlifeLongbowman": 90,
+        "EpicRaidBoss2": 1
+      }
+    },
+    {
+      "tunniste": 16792,
+      "sektori": 7,
+      "oletusnimi": "7.4",
+      "apunimi": "",
+      "tyyppi": 1,
+      "sijainti": "86, 203",
+      "joukot": {
+        "WildlifeMilitia": 110
+      }
+    },
+    {
+      "tunniste": 17147,
+      "sektori": 5,
+      "oletusnimi": "5.1",
+      "apunimi": "",
+      "tyyppi": 1,
+      "sijainti": "310, 187",
+      "joukot": {
+        "WildlifeRecruit": 110,
+        "WildlifeBowman": 40
+      }
+    },
+    {
+      "tunniste": 17281,
+      "sektori": 1,
+      "oletusnimi": "1.5",
+      "apunimi": "",
+      "tyyppi": 1,
+      "sijainti": "240, 235",
+      "joukot": {
+        "BanditSoldier": 180,
+        "BanditLongbowman": 20
+      }
+    },
+    {
+      "tunniste": 17491,
+      "sektori": 5,
+      "oletusnimi": "5.4",
+      "apunimi": "",
+      "tyyppi": 1,
+      "sijainti": "282, 123",
+      "joukot": {
+        "WildlifeRecruit": 140
+      }
+    },
+    {
+      "tunniste": 17539,
+      "sektori": 9,
+      "oletusnimi": "9.2",
+      "apunimi": "",
+      "tyyppi": 1,
+      "sijainti": "151, 60",
+      "joukot": {
+        "WildlifeMilitia": 40,
+        "WildlifeLongbowman": 70
+      }
+    },
+    {
+      "tunniste": 17763,
+      "sektori": 6,
+      "oletusnimi": "6.4",
+      "apunimi": "",
+      "tyyppi": 1,
+      "sijainti": "353, 45",
+      "joukot": {
+        "WildlifeRecruit": 190
+      }
+    },
+    {
+      "tunniste": 17783,
+      "sektori": 3,
+      "oletusnimi": "3.5",
+      "apunimi": "",
+      "tyyppi": 1,
+      "sijainti": "493, 160",
+      "joukot": {
+        "BanditCavalry": 80,
+        "BanditSoldier": 120
+      }
+    },
+    {
+      "tunniste": 18082,
+      "sektori": 3,
+      "oletusnimi": "3.4",
+      "apunimi": "",
+      "tyyppi": 1,
+      "sijainti": "537, 186",
+      "joukot": {
+        "BanditCavalry": 70,
+        "BanditSoldier": 130
+      }
+    },
+    {
+      "tunniste": 18348,
+      "sektori": 4,
+      "oletusnimi": "4.3",
+      "apunimi": "",
+      "tyyppi": 1,
+      "sijainti": "498, 69",
+      "joukot": {
+        "BanditSoldier": 200
+      }
+    },
+    {
+      "tunniste": 18677,
+      "sektori": 5,
+      "oletusnimi": "5.5",
+      "apunimi": "",
+      "tyyppi": 1,
+      "sijainti": "264, 139",
+      "joukot": {
+        "WildlifeCavalry": 40,
+        "WildlifeBowman": 100
+      }
+    },
+    {
+      "tunniste": 18740,
+      "sektori": 2,
+      "oletusnimi": "2.6",
+      "apunimi": "",
+      "tyyppi": 2,
+      "sijainti": "451, 300",
+      "joukot": {
+        "BanditCavalry": 100,
+        "BanditSoldier": 100
+      }
+    },
+    {
+      "tunniste": 18846,
+      "sektori": 6,
+      "oletusnimi": "6.2",
+      "apunimi": "",
+      "tyyppi": 1,
+      "sijainti": "357, 76",
+      "joukot": {
+        "WildlifeRecruit": 90,
+        "WildlifeMilitia": 40
+      }
+    },
+    {
+      "tunniste": 19360,
+      "sektori": 1,
+      "oletusnimi": "1.7",
+      "apunimi": "",
+      "tyyppi": 1,
+      "sijainti": "290, 233",
+      "joukot": {
+        "BanditCavalry": 120,
+        "BanditSoldier": 80
+      }
+    },
+    {
+      "tunniste": 19541,
+      "sektori": 8,
+      "oletusnimi": "8.4",
+      "apunimi": "",
+      "tyyppi": 2,
+      "sijainti": "94, 88",
+      "joukot": {
+        "WildlifeCavalry": 40,
+        "WildlifeMilitia": 70,
+        "WildlifeCannoneer": 20
+      }
+    },
+    {
+      "tunniste": 19565,
+      "sektori": 9,
+      "oletusnimi": "9.3",
+      "apunimi": "",
+      "tyyppi": 1,
+      "sijainti": "180, 76",
+      "joukot": {
+        "WildlifeBowman": 40,
+        "WildlifeMilitia": 90
+      }
+    },
+    {
+      "tunniste": 19704,
+      "sektori": 7,
+      "oletusnimi": "7.2",
+      "apunimi": "",
+      "tyyppi": 1,
+      "sijainti": "150, 215",
+      "joukot": {
+        "WildlifeMilitia": 50,
+        "WildlifeLongbowman": 40
+      }
+    },
+    {
+      "tunniste": 19923,
+      "sektori": 8,
+      "oletusnimi": "8.2",
+      "apunimi": "",
+      "tyyppi": 1,
+      "sijainti": "148, 129",
+      "joukot": {
+        "WildlifeCavalry": 120
+      }
+    },
+    {
+      "tunniste": 19977,
+      "sektori": 6,
+      "oletusnimi": "6.1",
+      "apunimi": "",
+      "tyyppi": 1,
+      "sijainti": "329, 88",
+      "joukot": {
+        "WildlifeRecruit": 120,
+        "WildlifeBowman": 70
+      }
+    }
+  ]
+}

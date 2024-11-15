@@ -1,0 +1,62 @@
+{
+  "Default": {
+    "nimi": "Standardangriffsgruppe",
+    "kuvake": "Longbowman",
+    "tunniste": "Default",
+    "hyökkäysyhdistelmät": {
+      "MScience-1103093013": {
+        "valittu": true,
+        "elite": true,
+        "kokeile_XB_CAN": true,
+        "cavalryFlankEsto": true,
+        "kokeile_S_MS": true,
+        "kokeile_AM_BSG": true,
+        "knightFirstStrikeen": true,
+        "marksmenFlankEsto": true,
+        "besiegerEsto": true,
+        "yksiköt": {
+          "Recruit": 210,
+          "Militia": 0,
+          "Soldier": 0,
+          "EliteSoldier": 0,
+          "Cavalry": 210,
+          "Bowman": 0,
+          "Longbowman": 0,
+          "Crossbowman": 210,
+          "Cannoneer": 210,
+          "Swordsman": 0,
+          "MountedSwordsman": 210,
+          "Knight": 210,
+          "Marksman": 0,
+          "ArmoredMarksman": 210,
+          "MountedMarksman": 210,
+          "Besieger": 0
+        },
+        "menetykset": {
+          "Recruit": 210,
+          "Militia": 0,
+          "Soldier": 0,
+          "EliteSoldier": 0,
+          "Cavalry": 0,
+          "Bowman": 0,
+          "Longbowman": 0,
+          "Crossbowman": 0,
+          "Cannoneer": 0,
+          "Swordsman": 0,
+          "MountedSwordsman": 100,
+          "Knight": 100,
+          "Marksman": 0,
+          "ArmoredMarksman": 0,
+          "MountedMarksman": 0,
+          "Besieger": 0
+        }
+      }
+    },
+    "aallotHävitessä": true,
+    "aallotNollamenetyksilleKunEiFirstStrike": true,
+    "aallotNollamenetyksilleElitet": true,
+    "aallotCavalryFirstStrike": true,
+    "hyökkäysaallot": [],
+    "vakiohyökkäykset": []
+  }
+}

@@ -1,0 +1,268 @@
+{
+  "tunniste": "bk",
+  "nimi": "Standard",
+  "kuvake": "",
+  "lisätiedot": "",
+  "xpEventKerroin": 1.0,
+  "vaaditutKenraalit": {},
+  "vaaditutJoukot": {},
+  "leirimerkinnät": {
+    "10339": {
+      "tunniste": "1.2",
+      "tyyppi": 1,
+      "lisätiedot": "",
+      "sektori": 1,
+      "ankkuri": 1,
+      "muoto": 0,
+      "hyökkäysaallot": []
+    },
+    "10691": {
+      "tunniste": "5.4",
+      "tyyppi": 1,
+      "lisätiedot": "",
+      "sektori": 5,
+      "ankkuri": 1,
+      "muoto": 0,
+      "hyökkäysaallot": []
+    },
+    "10923": {
+      "tunniste": "1.1",
+      "tyyppi": 1,
+      "lisätiedot": "",
+      "sektori": 1,
+      "ankkuri": 1,
+      "muoto": 0,
+      "hyökkäysaallot": []
+    },
+    "11405": {
+      "tunniste": "5.3",
+      "tyyppi": 1,
+      "lisätiedot": "",
+      "sektori": 5,
+      "ankkuri": 1,
+      "muoto": 0,
+      "hyökkäysaallot": []
+    },
+    "12237": {
+      "tunniste": "6.5",
+      "tyyppi": 1,
+      "lisätiedot": "",
+      "sektori": 6,
+      "ankkuri": 1,
+      "muoto": 0,
+      "hyökkäysaallot": []
+    },
+    "13152": {
+      "tunniste": "4.4",
+      "tyyppi": 1,
+      "lisätiedot": "",
+      "sektori": 4,
+      "ankkuri": 1,
+      "muoto": 0,
+      "hyökkäysaallot": []
+    },
+    "13372": {
+      "tunniste": "2.2",
+      "tyyppi": 1,
+      "lisätiedot": "",
+      "sektori": 2,
+      "ankkuri": 1,
+      "muoto": 0,
+      "hyökkäysaallot": []
+    },
+    "13395": {
+      "tunniste": "6.1",
+      "tyyppi": 1,
+      "lisätiedot": "",
+      "sektori": 6,
+      "ankkuri": 1,
+      "muoto": 0,
+      "hyökkäysaallot": []
+    },
+    "14268": {
+      "tunniste": "6.4",
+      "tyyppi": 1,
+      "lisätiedot": "",
+      "sektori": 6,
+      "ankkuri": 1,
+      "muoto": 0,
+      "hyökkäysaallot": []
+    },
+    "14519": {
+      "tunniste": "3.4",
+      "tyyppi": 1,
+      "lisätiedot": "",
+      "sektori": 3,
+      "ankkuri": 1,
+      "muoto": 0,
+      "hyökkäysaallot": []
+    },
+    "15311": {
+      "tunniste": "4.1",
+      "tyyppi": 1,
+      "lisätiedot": "",
+      "sektori": 4,
+      "ankkuri": 1,
+      "muoto": 0,
+      "hyökkäysaallot": []
+    },
+    "15708": {
+      "tunniste": "6.6",
+      "tyyppi": 1,
+      "lisätiedot": "",
+      "sektori": 6,
+      "ankkuri": 1,
+      "muoto": 0,
+      "hyökkäysaallot": []
+    },
+    "15794": {
+      "tunniste": "2.3",
+      "tyyppi": 1,
+      "lisätiedot": "",
+      "sektori": 2,
+      "ankkuri": 1,
+      "muoto": 0,
+      "hyökkäysaallot": []
+    },
+    "15859": {
+      "tunniste": "6.2",
+      "tyyppi": 1,
+      "lisätiedot": "",
+      "sektori": 6,
+      "ankkuri": 1,
+      "muoto": 0,
+      "hyökkäysaallot": []
+    },
+    "17097": {
+      "tunniste": "1.4",
+      "tyyppi": 1,
+      "lisätiedot": "",
+      "sektori": 1,
+      "ankkuri": 1,
+      "muoto": 0,
+      "hyökkäysaallot": []
+    },
+    "17481": {
+      "tunniste": "2.4",
+      "tyyppi": 1,
+      "lisätiedot": "",
+      "sektori": 2,
+      "ankkuri": 1,
+      "muoto": 0,
+      "hyökkäysaallot": []
+    },
+    "17600": {
+      "tunniste": "2.1",
+      "tyyppi": 1,
+      "lisätiedot": "",
+      "sektori": 2,
+      "ankkuri": 1,
+      "muoto": 0,
+      "hyökkäysaallot": []
+    },
+    "17647": {
+      "tunniste": "6.7",
+      "tyyppi": 1,
+      "lisätiedot": "",
+      "sektori": 6,
+      "ankkuri": 1,
+      "muoto": 0,
+      "hyökkäysaallot": []
+    },
+    "17936": {
+      "tunniste": "4.2",
+      "tyyppi": 1,
+      "lisätiedot": "",
+      "sektori": 4,
+      "ankkuri": 1,
+      "muoto": 0,
+      "hyökkäysaallot": []
+    },
+    "18015": {
+      "tunniste": "1.3",
+      "tyyppi": 1,
+      "lisätiedot": "",
+      "sektori": 1,
+      "ankkuri": 1,
+      "muoto": 0,
+      "hyökkäysaallot": []
+    },
+    "18049": {
+      "tunniste": "6.8",
+      "tyyppi": 1,
+      "lisätiedot": "",
+      "sektori": 6,
+      "ankkuri": 1,
+      "muoto": 0,
+      "hyökkäysaallot": []
+    },
+    "18106": {
+      "tunniste": "3.1",
+      "tyyppi": 1,
+      "lisätiedot": "",
+      "sektori": 3,
+      "ankkuri": 1,
+      "muoto": 0,
+      "hyökkäysaallot": []
+    },
+    "18506": {
+      "tunniste": "4.3",
+      "tyyppi": 1,
+      "lisätiedot": "",
+      "sektori": 4,
+      "ankkuri": 1,
+      "muoto": 0,
+      "hyökkäysaallot": []
+    },
+    "18607": {
+      "tunniste": "3.3",
+      "tyyppi": 1,
+      "lisätiedot": "",
+      "sektori": 3,
+      "ankkuri": 1,
+      "muoto": 0,
+      "hyökkäysaallot": []
+    },
+    "19181": {
+      "tunniste": "6.3",
+      "tyyppi": 1,
+      "lisätiedot": "",
+      "sektori": 6,
+      "ankkuri": 1,
+      "muoto": 0,
+      "hyökkäysaallot": []
+    },
+    "19364": {
+      "tunniste": "5.2",
+      "tyyppi": 1,
+      "lisätiedot": "",
+      "sektori": 5,
+      "ankkuri": 1,
+      "muoto": 0,
+      "hyökkäysaallot": []
+    },
+    "19394": {
+      "tunniste": "3.2",
+      "tyyppi": 1,
+      "lisätiedot": "",
+      "sektori": 3,
+      "ankkuri": 1,
+      "muoto": 0,
+      "hyökkäysaallot": []
+    },
+    "19880": {
+      "tunniste": "5.1",
+      "tyyppi": 1,
+      "lisätiedot": "",
+      "sektori": 5,
+      "ankkuri": 1,
+      "muoto": 0,
+      "hyökkäysaallot": []
+    }
+  },
+  "parhaatHyökkäykset": {},
+  "parhaatHyökkäyksetMMA": {},
+  "comboHyökkäykset": {},
+  "merkit": [],
+  "nuolet": []
+}

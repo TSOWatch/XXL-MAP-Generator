@@ -1,0 +1,209 @@
+{
+  "tiedostonimi": "buccaneer",
+  "tunniste": "BuccaneerRoundup",
+  "nimi": "The Buccaneer Roundup",
+  "tyyppi": "Coop",
+  "ryhmitysnro": 3,
+  "xp": 9710,
+  "pelaajia": 3,
+  "yksiköt": [
+    "PirateCavalry",
+    "PirateRecruit",
+    "PirateMilitia",
+    "PirateBoss1",
+    "PirateLongbowman",
+    "PirateCaptain",
+    "EnemyCannoneer"
+  ],
+  "leirit": [
+    {
+      "tunniste": 11717,
+      "sektori": 1,
+      "oletusnimi": "1.3",
+      "apunimi": "B",
+      "tyyppi": 2,
+      "sijainti": "166, 146",
+      "joukot": {
+        "PirateRecruit": 120,
+        "PirateCaptain": 40,
+        "EnemyCannoneer": 40
+      }
+    },
+    {
+      "tunniste": 12892,
+      "sektori": 1,
+      "oletusnimi": "1.1",
+      "apunimi": "C",
+      "tyyppi": 1,
+      "sijainti": "399, 89",
+      "joukot": {
+        "PirateMilitia": 100,
+        "PirateLongbowman": 80
+      }
+    },
+    {
+      "tunniste": 13531,
+      "sektori": 1,
+      "oletusnimi": "1.1",
+      "apunimi": "A",
+      "tyyppi": 1,
+      "sijainti": "88, 186",
+      "joukot": {
+        "PirateMilitia": 100,
+        "PirateLongbowman": 80
+      }
+    },
+    {
+      "tunniste": 14408,
+      "sektori": 1,
+      "oletusnimi": "1.3",
+      "apunimi": "C",
+      "tyyppi": 2,
+      "sijainti": "392, 181",
+      "joukot": {
+        "PirateRecruit": 120,
+        "PirateCaptain": 40,
+        "EnemyCannoneer": 40
+      }
+    },
+    {
+      "tunniste": 14793,
+      "sektori": 2,
+      "oletusnimi": "2.3",
+      "apunimi": "X",
+      "tyyppi": 1,
+      "sijainti": "260, 272",
+      "joukot": {
+        "PirateRecruit": 50,
+        "PirateLongbowman": 50,
+        "PirateCavalry": 100
+      }
+    },
+    {
+      "tunniste": 14800,
+      "sektori": 2,
+      "oletusnimi": "2.2",
+      "apunimi": "X",
+      "tyyppi": 1,
+      "sijainti": "273, 262",
+      "joukot": {
+        "PirateRecruit": 50,
+        "PirateLongbowman": 50,
+        "PirateCavalry": 100
+      }
+    },
+    {
+      "tunniste": 15697,
+      "sektori": 1,
+      "oletusnimi": "1.1",
+      "apunimi": "B",
+      "tyyppi": 1,
+      "sijainti": "114, 69",
+      "joukot": {
+        "PirateMilitia": 100,
+        "PirateLongbowman": 80
+      }
+    },
+    {
+      "tunniste": 15950,
+      "sektori": 1,
+      "oletusnimi": "1.2",
+      "apunimi": "B",
+      "tyyppi": 1,
+      "sijainti": "127, 102",
+      "joukot": {
+        "PirateRecruit": 100,
+        "PirateMilitia": 20,
+        "PirateLongbowman": 80
+      }
+    },
+    {
+      "tunniste": 16023,
+      "sektori": 2,
+      "oletusnimi": "2.1",
+      "apunimi": "X",
+      "tyyppi": 1,
+      "sijainti": "253, 259",
+      "joukot": {
+        "PirateRecruit": 50,
+        "PirateLongbowman": 50,
+        "PirateCavalry": 100
+      }
+    },
+    {
+      "tunniste": 16217,
+      "sektori": 1,
+      "oletusnimi": "1.2",
+      "apunimi": "C",
+      "tyyppi": 1,
+      "sijainti": "420, 138",
+      "joukot": {
+        "PirateRecruit": 100,
+        "PirateMilitia": 20,
+        "PirateLongbowman": 80
+      }
+    },
+    {
+      "tunniste": 16802,
+      "sektori": 2,
+      "oletusnimi": "2.6",
+      "apunimi": "X",
+      "tyyppi": 2,
+      "sijainti": "348, 327",
+      "joukot": {
+        "PirateMilitia": 50,
+        "PirateLongbowman": 100,
+        "PirateBoss1": 2,
+        "EnemyCannoneer": 40
+      }
+    },
+    {
+      "tunniste": 17575,
+      "sektori": 2,
+      "oletusnimi": "2.4",
+      "apunimi": "X",
+      "tyyppi": 1,
+      "sijainti": "287, 297",
+      "joukot": {
+        "PirateCavalry": 200
+      }
+    },
+    {
+      "tunniste": 17761,
+      "sektori": 2,
+      "oletusnimi": "2.5",
+      "apunimi": "X",
+      "tyyppi": 1,
+      "sijainti": "275, 305",
+      "joukot": {
+        "PirateCavalry": 200
+      }
+    },
+    {
+      "tunniste": 18454,
+      "sektori": 1,
+      "oletusnimi": "1.2",
+      "apunimi": "A",
+      "tyyppi": 1,
+      "sijainti": "136, 208",
+      "joukot": {
+        "PirateRecruit": 100,
+        "PirateMilitia": 20,
+        "PirateLongbowman": 80
+      }
+    },
+    {
+      "tunniste": 19306,
+      "sektori": 1,
+      "oletusnimi": "1.3",
+      "apunimi": "A",
+      "tyyppi": 2,
+      "sijainti": "165, 243",
+      "joukot": {
+        "PirateRecruit": 120,
+        "PirateCaptain": 40,
+        "EnemyCannoneer": 40
+      }
+    }
+  ]
+}
